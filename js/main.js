@@ -1,4 +1,3 @@
-
 let stop_repeat = false;
 let repeated_word = "pronunciation";
 let msg;
@@ -27,7 +26,6 @@ function createWindowDiv() {
     div.style.boxSizing = "border-box";
     div.style.backgroundColor = "white";
     div.style.border = "1px solid black";
-
     return div
 }
 
