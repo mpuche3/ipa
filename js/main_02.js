@@ -1,4 +1,3 @@
-let stop_repeat = false;
 let repeated_word = "pronunciation";
 let msg;
 let text;
@@ -9,24 +8,53 @@ let voiceKeys = ["m1us", "f1us", "m1uk", "f1uk"];
 insertStyleTag();
 createWindow();
 
-function createWindowDiv() {
-    const div = document.createElement("div");
-    div.id = "windowDiv";
-    div.style.display = "flex";
-    div.style.flexDirection = "column";
-    div.style.justifyContent = "center";
-    div.style.textAlign = "center";
-    div.style.position = "fixed";
-    div.style.top = "50%";
-    div.style.left = "50%";
-    div.style.transform = "translate(-50%, -50%)";
-    div.style.width = "80%"
-    div.style.maxWidth = "800px";
-    div.style.height = "300px";
-    div.style.boxSizing = "border-box";
-    div.style.backgroundColor = "white";
-    div.style.border = "1px solid black";
-    return div
+function removeAllChildNodes(parent) {
+    while (parent.firstChild) {
+        parent.removeChild(parent.firstChild);
+    }
+}
+
+function resetBody(){
+    const x = document.body;
+    removeAllChildNodes(x);
+    x.style.margin = "0";
+    x.style.backgroundColor = "rgb(180, 180, 180)";
+    return x;
+}
+
+function createDiv(){
+    const x = document.createElement("div");
+    x.style.boxSizing = "border-box";
+    x.style.display = "flex";
+    return x;
+}
+
+function createDivApp(){
+    const x = createDiv();
+    x.id = "divApp";
+    x.style.flexDirection = "column";
+    x.style.alignItems = "center";
+    x.style.padding = "20px";
+    x.style.fontFamily = "Verdana, sans-serif";
+    x.style.width = "100%";
+    x.style.height = "100%";
+    return x;
+}
+
+function createDivWindow() {
+    const x = createDiv();
+    x.id = "divWindow";
+    x.style.flexDirection = "column";
+    x.style.justifyContent = "center";
+    x.style.textAlign = "center";
+    x.style.width = "100%"
+    x.style.maxWidth = "800px";
+    x.style.height = "300px";
+    x.style.boxSizing = "border-box";
+    x.style.backgroundColor = "white";
+    x.style.border = "1px solid black";
+    x.style.position = "absolute";
+    return x;
 }
 
 function createCloseButton(){
@@ -43,9 +71,10 @@ function createCloseButton(){
     bttn.innerHTML = "&times;";
     bttn.style.backgroundColor = "white";
     bttn.addEventListener("click", function () {
-        const windowDiv = document.querySelector("#windowDiv")
-        document.body.removeChild(windowDiv);
-        repeated_word = undefined;
+        const divWindow = document.querySelector("#divWindow");
+        const divApp = document.querySelector("#divApp");
+        divApp.removeChild(divWindow);
+        repeated_word = "";
     });
     bttn.addEventListener("mouseover", function() {
       bttn.style.backgroundColor = "red";
@@ -65,11 +94,11 @@ function createDivVoicekey(voiceKey){
     div.style.paddingRight = "0";
     div.addEventListener('click', function() {
         for (const divId of voiceKeys) {
-            divVoiceKey = document.querySelector("#" + divId);
+            const divVoiceKey = document.querySelector("#" + divId);
             divVoiceKey.style.textDecoration = "";
         }
         div.style.textDecoration = "underline";
-        changeVoice(voiceKey)
+        voice_name = getVoiceName(voiceKey)
     });
     return div
 }
@@ -118,26 +147,24 @@ function createDivIpa(){
         const address = "https://www.google.com/search?q=how+to+pronounce+";
         window.open(address + repeated_word, "_blank");
     }
-    return p
+    return p;
 }
 
 function createContainerIpaButtons(){
-    const div = document.createElement("div");
+    const div = createDiv();
     div.id = "ipaButtonsContainer";
-    div.style.display = "flex";
     div.style.flexDirection = "row";
     div.style.justifyContent = "center";
     div.style.flexWrap = "wrap";
     div.style.alignContent = "center";
     div.style.alignItems = "center";
     div.style.gap = "10px";
-    return div
+    return div;
 }
 
 function createIpaButton(char){
     const bttn = document.createElement("button");
     bttn.innerHTML = char;
-    // bttn.style.margin = "0";
     bttn.style.width = "30px";
     bttn.style.height = "30px";
     bttn.style.cursor = "pointer";
@@ -176,20 +203,23 @@ function createGoButton(){
     bttn.addEventListener("mouseout", function() {
       bttn.style.border = "1px solid black";
     });
-    return bttn
+    return bttn;
 }
 
 function createWindow() {
-    repeat_word();
+    resetBody();
 
-    const windowDiv = createWindowDiv();
-    document.body.appendChild(windowDiv);
+    const divApp = createDivApp();
+    document.body.appendChild(divApp);
+
+    const divWindow = createDivWindow();
+    divApp.appendChild(divWindow);
     
     const closeButton = createCloseButton();
-    windowDiv.appendChild(closeButton);
+    divWindow.appendChild(closeButton);
 
     const divContainerVoiceKeys = createDivContainerVoiceKeys();
-    windowDiv.appendChild(divContainerVoiceKeys)
+    divWindow.appendChild(divContainerVoiceKeys)
     
     for (const voiceKey of voiceKeys) {
         const divVoiceKey = createDivVoicekey(voiceKey)
@@ -200,17 +230,19 @@ function createWindow() {
     divFirstVoiceKey.style.textDecoration = "underline";
     
     const inputWord = createInputWord();
-    windowDiv.appendChild(inputWord);
+    divWindow.appendChild(inputWord);
     
     const divIpa = createDivIpa();
-    windowDiv.appendChild(divIpa);
+    divWindow.appendChild(divIpa);
 
     const ipaButtonsContainer = createContainerIpaButtons()
-    windowDiv.appendChild(ipaButtonsContainer);
+    divWindow.appendChild(ipaButtonsContainer);
     
     document.querySelector("#inputWord").value = repeated_word;
     const event = new Event("input");
     document.querySelector("#inputWord").dispatchEvent(event);
+
+    repeat_word();
 }
 
 function createIpaButtons() {
@@ -278,42 +310,71 @@ function findRandomKeyBySubstring(inputString, dictionary) {
   return randomKey;
 }
 
-function changeVoice(nameKey) {
-    const DictVoices = {
+function getVoiceName(nameKey) {
+    const DictVoicesEdge = {
         "m1us": "Microsoft Guy Online (Natural) - English (United States)",
         "f1us": "Microsoft Ana Online (Natural) - English (United States)",
         "m1uk": "Microsoft Ryan Online (Natural) - English (United Kingdom)",
         "f1uk": "Microsoft Sonia Online (Natural) - English (United Kingdom)",
     }
-    voice_name = DictVoices[nameKey] ?? voice_name;
+    const DictVoicesChrome ={
+        "m1us": "Google US English",
+        "f1us": "Google US English",
+        "m1uk": "Google UK English Male",
+        "f1uk": "Google UK English Female",
+    }
+    const voice_name_edge = DictVoicesEdge[nameKey];
+    const voice_name_chrome = DictVoicesChrome[nameKey];
+    isEdgeVoice = window.speechSynthesis.getVoices().filter(voice => voice.name === voice_name_edge)[0];
+    isChromeVoice = window.speechSynthesis.getVoices().filter(voice => voice.name === voice_name_chrome)[0];
+    if (isEdgeVoice !== undefined) {
+        return voice_name_edge;
+    } else if (isChromeVoice !== undefined) {
+        return voice_name_chrome;
+    } else {
+        console.log("Voice not found");
+        return window.speechSynthesis.getVoices()[0].name;
+    }
 }
 
-async function speak(text, rate = 1) {
-    msg = new SpeechSynthesisUtterance();
-    msg.text = text;
-    msg.rate = rate;
-    msg.voice = window.speechSynthesis.getVoices().filter(voice => voice.name === voice_name)[0];
+function speak(text, rate = 1) {
     return new Promise(resolve => {
-        msg.onend = function (event) {
-            resolve();
-        };
-        console.log(msg.text)
+        msg = new SpeechSynthesisUtterance();
+        msg.voice = window.speechSynthesis.getVoices().filter(voice => voice.name === voice_name)[0];
+        msg.onend = resolve ;
+        msg.text = text;
+        msg.rate = rate;
         window.speechSynthesis.speak(msg);
+        console.log(msg.text);
     });
 }
 
 async function repeat_word() {
     const nOuterLoop = 1000;
     const nInnerLoop = 1;
-    const rates = [0.1, 0.1];
+    const rates = [0.4, 1];
     for (const i of new Array(nOuterLoop)) {
-        for (const rate of rates) {
-            for (const k of new Array(nInnerLoop)) {
-                if (repeated_word === undefined) return;
-                await speak(repeated_word, rate);
+        for (const k of new Array(nInnerLoop)) {
+            for (const rate of rates) {
+                // if (repeated_word === undefined) {return};
+                try {
+                    // console.log("----");
+                    await Promise.race([speak(repeated_word, rate), timeout(6000)]);
+                } catch (error) {
+                    console.log("Error")
+                    // console.log(error);
+                }
             }
         }
     }
+}
+
+function timeout(ms) {
+    return new Promise((resolve, reject) => {
+      setTimeout(() => {
+        reject(new Error('Promise timed out.'));
+      }, ms);
+    });
 }
 
 function insertStyleTag() {

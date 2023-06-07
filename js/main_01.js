@@ -62,7 +62,7 @@ function main_01(){
     resetBody()
     let app = createContainerApp();
     document.body.append(app);
-    let chapters = text_ml.split("\n\n");
+    let chapters = ml_txt.split("\n\n");
     for (let chapter of chapters){
         let containerChapter = createContainerChapter();
         app.append(containerChapter);
