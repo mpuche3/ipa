@@ -71,10 +71,11 @@ function createCloseButton(){
     bttn.innerHTML = "&times;";
     bttn.style.backgroundColor = "white";
     bttn.addEventListener("click", function () {
-        const divWindow = document.querySelector("#divWindow");
-        const divApp = document.querySelector("#divApp");
-        divApp.removeChild(divWindow);
-        repeated_word = "";
+        // const divWindow = document.querySelector("#divWindow");
+        // const divApp = document.querySelector("#divApp");
+        // divApp.removeChild(divWindow);
+        // repeated_word = "";
+        window.location.href = "index.html";
     });
     bttn.addEventListener("mouseover", function() {
       bttn.style.backgroundColor = "red";

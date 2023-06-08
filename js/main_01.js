@@ -52,14 +52,14 @@ function createHeader(str){
 function createParagraph(str){
     const x = document.createElement("p");
     x.innerText = str;
-    x.style.margin = "0"
+    x.style.margin = "0";
     x.style.fontFamily = "Verdana, sans-serif";
     x.style.lineHeight = 1.5;
     return x;
 }
 
 function main_01(){
-    resetBody()
+    resetBody();
     let app = createContainerApp();
     document.body.append(app);
     let chapters = ml_txt.split("\n\n");
