@@ -195,14 +195,14 @@ function createBttnOpposite(){
 
 function createBttnLeft(word){
     const x = createBttn();
-    x.id = "leftButton"
+    x.id = "bttnLeft"
     x.innerHTML = word;
     return x;
 }
 
 function createBttnRight(word){
     const x = createBttn();
-    x.id = "rightButton"
+    x.id = "bttnRight"
     x.innerHTML = word;
     return x;
 }
@@ -253,6 +253,33 @@ function createWindow() {
 
     const bttnRight = createBttnRight();
     divRow2.appendChild(bttnRight);
+
+    document.addEventListener("keydown", function(event) {
+        if (event.key === "ArrowLeft"){
+            if (document.getElementById("bttnLeft").innerHTML == text_word){
+                setStatusCorrect();
+            } else {
+                setStatusIncorrect();
+            }
+        }
+        if (event.key === "ArrowRight"){
+            if (document.getElementById("bttnRight").innerHTML == text_word){
+                setStatusCorrect();           
+            } else {
+                setStatusIncorrect();
+            }
+        }
+        if (event.key === "Enter"){
+            document.getElementById("bttnSoundNext").click();
+        }
+    });
+
+    if (document.getElementById("bttnLeft").innerHTML == text_word){
+        setStatusCorrect();
+        setStatusPlaying();
+    } else {
+        setStatusIncorrect();
+    }
 
     // Select male uk voice by default
     document.querySelector("#m1uk").click()
@@ -306,10 +333,10 @@ function setStatusPlaying(){
     document.getElementById("h3Question").innerText = "";
     document.getElementById("bttnSoundNext").innerHTML = ""
     document.getElementById("bttnSoundNext").onclick = _ => speak(text_word);
-    document.getElementById("leftButton").innerHTML = wordPair[0];
-    document.getElementById("rightButton").innerHTML = wordPair[1];
-    document.getElementById("leftButton").onclick = event => event.target.innerHTML == text_word ? setStatusCorrect() : setStatusIncorrect();
-    document.getElementById("rightButton").onclick = event => event.target.innerHTML == text_word ? setStatusCorrect() : setStatusIncorrect();
+    document.getElementById("bttnLeft").innerHTML = wordPair[0];
+    document.getElementById("bttnRight").innerHTML = wordPair[1];
+    document.getElementById("bttnLeft").onclick = event => event.target.innerHTML == text_word ? setStatusCorrect() : setStatusIncorrect();
+    document.getElementById("bttnRight").onclick = event => event.target.innerHTML == text_word ? setStatusCorrect() : setStatusIncorrect();
     speak(text_word);
 }
 
@@ -318,18 +345,19 @@ function setStatusCorrect(){
     game_score = game_score + 1;
     document.querySelector("#h3Score").style.color = "green";
     document.querySelector("#h3Score").innerText = "Correct";
+    setStatusPlaying();
 }
 
 function setStatusIncorrect(){
     setStatusBothCorrectIncorrect()    
-    game_score = game_score - 2;
     document.querySelector("#h3Score").style.color = "red";
-    document.querySelector("#h3Score").innerText = "Incorrect";
+    document.querySelector("#h3Score").innerText = "Incorrect! Your score was " + game_score + ".";
+    game_score = 0;
 }
 
 function setStatusBothCorrectIncorrect(){
-    document.getElementById("bttnSoundNext").innerHTML = "Next";
+    document.getElementById("bttnSoundNext").innerHTML = "Try again";
     document.getElementById("bttnSoundNext").onclick = setStatusPlaying;    
-    document.getElementById("leftButton").onclick = event => speak(event.target.innerHTML);
-    document.getElementById("rightButton").onclick = event => speak(event.target.innerHTML);
+    document.getElementById("bttnLeft").onclick = event => speak(event.target.innerHTML);
+    document.getElementById("bttnRight").onclick = event => speak(event.target.innerHTML);
 }
