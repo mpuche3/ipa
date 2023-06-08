@@ -353,7 +353,7 @@ function speak(text, rate = 1) {
 async function repeat_word() {
     const nOuterLoop = 1000;
     const nInnerLoop = 1;
-    const rates = [0.4, 1];
+    const rates = [0.1, 1];
     for (const i of new Array(nOuterLoop)) {
         for (const k of new Array(nInnerLoop)) {
             for (const rate of rates) {
