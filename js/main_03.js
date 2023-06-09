@@ -1,8 +1,4 @@
-const words = [
-    ["cat", "cut"],
-    ["hat", "hut"],
-    ["bat", "but"],
-]
+const words = a_words;
 let game_status;
 let game_score = 0;
 let text_word;
@@ -351,7 +347,7 @@ function setStatusCorrect(){
 function setStatusIncorrect(){
     setStatusBothCorrectIncorrect()    
     document.querySelector("#h3Score").style.color = "red";
-    document.querySelector("#h3Score").innerText = "Incorrect! Your score was " + game_score + ".";
+    document.querySelector("#h3Score").innerText = "Incorrect! Your score was " + game_score;
     game_score = 0;
 }
 
