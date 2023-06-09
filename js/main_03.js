@@ -1,4 +1,5 @@
-const words = a_words;
+const letter_words = ["a", "i", "n", "s", "sz"]
+let words = a_words;
 let game_status;
 let game_score = 0;
 let text_word;
@@ -7,8 +8,7 @@ let msg;
 let voice_name = "Microsoft Guy Online (Natural) - English (United States)"
 let voiceKeys = ["m1us", "f1us", "m1uk", "f1uk"];
 
-createWindow();
-setStatusPlaying();
+createWindowIndex();
 
 function resetBody(){
     const x = document.body;
@@ -108,13 +108,7 @@ function createCloseButton(){
     x.style.fontSize = "20px";
     x.innerHTML = "&times;";
     x.style.backgroundColor = "white";
-    x.addEventListener("click", function () {
-        // const divWindow = document.querySelector("#divWindow");
-        // const divApp = document.querySelector("#divApp");
-        // divApp.removeChild(divWindow);
-        // repeated_word = "";
-        window.location.href = "index.html";
-    });
+
     x.addEventListener("mouseover", function() {
       x.style.backgroundColor = "red";
     });
@@ -203,7 +197,26 @@ function createBttnRight(word){
     return x;
 }
 
-function createWindow() {
+function createBttnLetter(letter_word){
+    const x = createBttn();
+    x.id = "bttnLetter"
+    x.innerHTML = letter_word;
+    x.style.width = x.style.height;
+    x.onclick = _ => launchGame(letter_word);
+    return x;
+}
+
+function launchGame(letter_word){
+    if (letter_word == "a") {words = a_words;}
+    else if (letter_word == "i") {words = i_words;}
+    else if (letter_word == "n") {words = n_words;}
+    else if (letter_word == "s") {words = s_words;}
+    else if (letter_word == "sz") {words = sz_words;}
+    else {letter_word = [].concat(a_words, i_words, n_words, s_words, sz_words);}
+    createWindowGame();
+}
+
+function createWindowIndex(){
     resetBody();
 
     const divApp = createDivApp();
@@ -213,6 +226,33 @@ function createWindow() {
     divApp.appendChild(divWindow);
     
     const closeButton = createCloseButton();
+    closeButton.onclick = _ => window.location.href = "index.html";
+    divWindow.appendChild(closeButton);
+    
+    const divRow1 = createDivRow1();
+    divRow1.innerText = "Choose a game";
+    divWindow.appendChild(divRow1);
+
+    const divRow2 = createDivRow2();
+    divWindow.appendChild(divRow2);
+
+    for (const letter_word of letter_words) {
+        const bttnLetter = createBttnLetter(letter_word);
+        divRow2.appendChild(bttnLetter);
+    }
+}
+
+function createWindowGame() {
+    resetBody();
+
+    const divApp = createDivApp();
+    document.body.appendChild(divApp);
+
+    const divWindow = createDivWindow();
+    divApp.appendChild(divWindow);
+    
+    const closeButton = createCloseButton();
+    closeButton.onclick = _ => createWindowIndex();
     divWindow.appendChild(closeButton);
 
     const divContainerVoiceKeys = createDivContainerVoiceKeys();
@@ -277,7 +317,7 @@ function createWindow() {
         setStatusIncorrect();
     }
 
-    // Select male uk voice by default
+    setStatusPlaying();
     document.querySelector("#m1uk").click()
 }
 
