@@ -139,6 +139,11 @@ function main(){
         bttn3.onclick = _ => window.location.href = "index03.html";//window.open("game02.html", "_blank");
         divWindow.appendChild(bttn3);
 
+        const bttn4 = createBttn();
+        bttn4.innerText = "Guess Pronunciation";
+        bttn4.onclick = _ => window.location.href = "index04.html";//window.open("game02.html", "_blank");
+        divWindow.appendChild(bttn4);
+
     }
 }
 
