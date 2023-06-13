@@ -135,7 +135,7 @@ function main(){
         divWindow.appendChild(bttn2);
 
         const bttn3 = createBttn();
-        bttn3.innerText = "Play";
+        bttn3.innerText = "Play Minimal Pairs";
         bttn3.onclick = _ => window.location.href = "index03.html";//window.open("game02.html", "_blank");
         divWindow.appendChild(bttn3);
 
