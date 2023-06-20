@@ -1,9 +1,76 @@
 // global words
 
-let word;
-let msg;
-let voice_name = "Microsoft Guy Online (Natural) - English (United States)"
-let voiceKeys = ["m1us", "f1us", "m1uk", "f1uk"];
+const speak = (function (){
+    let msg;
+    let word = "attrition";
+    let iVoice = 117;
+    let rate = 0.5;
+    let pause = true;
+
+    const voices = {
+        "m1us": "Microsoft Guy Online (Natural) - English (United States)",
+        "m2us": "Microsoft Roger Online (Natural) - English (United States)",
+        "m3us": "Microsoft Steffan Online (Natural) - English (United States)",
+        "m4us": "Microsoft Christopher Online (Natural) - English (United States)",
+        "m5us": "Microsoft Eric Online (Natural) - English (United States)",
+        "f1us": "Microsoft Aria Online (Natural) - English (United States)",
+        "f2us": "Microsoft Ana Online (Natural) - English (United States)",
+        "f3us": "Microsoft Jenny Online (Natural) - English (United States)",
+        "f4us": "Microsoft Michelle Online (Natural) - English (United States)",
+    };
+
+    function run () {
+        window.speechSynthesis.cancel();
+        if (pause === true) {return};
+        msg = new SpeechSynthesisUtterance();
+        msg.voice = window.speechSynthesis.getVoices()[iVoice];//.filter(voice => voice.name === voice_name)[0];
+        msg.onend = _ => run() ;
+        msg.text = word;
+        msg.rate = rate;
+        window.speechSynthesis.speak(msg);
+        console.log(msg.text);
+    }
+    function repeat(word_) {
+        window.speechSynthesis.cancel();
+        if (word_ !== undefined) {
+            word = word_;
+        }
+        pause = false;
+        run();
+    }
+    function stop() {
+        window.speechSynthesis.cancel();
+        pause = true;
+    }
+    function getVoices() {
+        return window.speechSynthesis.getVoices();
+    }
+    function setRate(rate_) {
+        rate = rate_;
+    }
+    function setVoice(voice_name) {
+        const voices = window.speechSynthesis.getVoices();
+        const voices_name = voices.map(voice => voice.name);
+        const iVoice_ = voices_name.indexOf(voice_name);
+        if (iVoice_ !== -1){
+            iVoice = iVoice_;
+            msg.voice = window.speechSynthesis.getVoices()[iVoice];
+        } else {
+            console.log(`"${voice_name}" is not found`)
+        }
+    }
+    function read(text) {
+        window.speechSynthesis.cancel();
+        pause = false;
+        msg = new SpeechSynthesisUtterance();
+        msg.voice = window.speechSynthesis.getVoices()[iVoice];
+        msg.rate = rate;
+        msg.text = text;
+        window.speechSynthesis.speak(msg);
+        console.log(msg.text);
+    }
+    return {repeat, read, stop, setRate, setVoice, getVoices, voices}
+})();
 
 createWindowGame();
 
@@ -214,17 +281,23 @@ function createDivVoicekey(voiceKey){
     x.innerHTML = voiceKey;
     x.style.cursor = "pointer";
     x.addEventListener('click', function() {
-        for (const divId of voiceKeys) {
+        for (const divId in speak.voices) {
             const divVoiceKey = document.querySelector("#" + divId);
             divVoiceKey.style.textDecoration = "";
         }
         x.style.textDecoration = "underline";
-        voice_name = getVoiceName(voiceKey)
+        voice_name = speak.voices[voiceKey];
+        speak.setVoice(voice_name);
     });
     return x
 }
 
-function createWindowIndex(){
+function createWindowGame() {
+    const isEdge = /Edg/.test(navigator.userAgent);
+    if (!isEdge) {
+        return createWindowWarningOnlyEdge(); 
+    }
+
     resetBody(document.body);
 
     const divApp = createDivApp();
@@ -236,40 +309,11 @@ function createWindowIndex(){
     const closeButton = createCloseButton();
     closeButton.onclick = _ => window.location.href = "index.html";
     divWindow.appendChild(closeButton);
-    
-    const divRow1 = createDivRow1();
-    divRow1.innerText = "Choose a game";
-    divWindow.appendChild(divRow1);
-
-    const divRow2 = createDivRow2();
-    divWindow.appendChild(divRow2);
-
-    for (const letter_word of letter_words) {
-        const bttnLetter = createBttnLetter(letter_word);
-        divRow2.appendChild(bttnLetter);
-    }
-
-    const divRow3 = createDivRow3();
-    divWindow.appendChild(divRow3);
-}
-
-function createWindowGame() {
-    resetBody(document.body);
-
-    const divApp = createDivApp();
-    document.body.appendChild(divApp);
-
-    const divWindow = createDivWindow();
-    divApp.appendChild(divWindow);
-    
-    const closeButton = createCloseButton();
-    closeButton.onclick = _ => createWindowIndex();
-    divWindow.appendChild(closeButton);
 
     const divContainerVoiceKeys = createDivContainerVoiceKeys();
     divWindow.appendChild(divContainerVoiceKeys)
     
-    for (const voiceKey of voiceKeys) {
+    for (const voiceKey in speak.voices) {
         const divVoiceKey = createDivVoicekey(voiceKey)
         divContainerVoiceKeys.appendChild(divVoiceKey);
     }
@@ -280,58 +324,25 @@ function createWindowGame() {
     const divSyllables = createDivSyllables();
     divWindow.appendChild(divSyllables);
 
-    // const divBttns = createDivBttns();
-    // divWindow.appendChild(divBttns);
-
-    // const bttnCheck = createBttnCheck();
-    // divBttns.appendChild(bttnCheck);
-
-    // const bttnNext = createBttnNext();
-    // divBttns.appendChild(bttnNext);
-
-
-    // const syllables = getSyllables(word);
-    // for (const syllable in syllables){
-    //     const inputSyllable = createInputSyllable(syllable);
-    //     divSyllables.appendChild(inputSyllable);        
-    // }
-
     resetGame()
 }
 
-function getVoiceName(nameKey) {
-    const DictVoicesEdge = {
-        "m1us": "Microsoft Guy Online (Natural) - English (United States)",
-        "f1us": "Microsoft Ana Online (Natural) - English (United States)",
-        "m1uk": "Microsoft Ryan Online (Natural) - English (United Kingdom)",
-        "f1uk": "Microsoft Sonia Online (Natural) - English (United Kingdom)",
-    }
-    const DictVoicesChrome ={
-        "m1us": "Google US English",
-        "f1us": "Google US English",
-        "m1uk": "Google UK English Male",
-        "f1uk": "Google UK English Female",
-    }
-    const voice_name_edge = DictVoicesEdge[nameKey];
-    const voice_name_chrome = DictVoicesChrome[nameKey];
-    isEdgeVoice = window.speechSynthesis.getVoices().filter(voice => voice.name === voice_name_edge)[0];
-    isChromeVoice = window.speechSynthesis.getVoices().filter(voice => voice.name === voice_name_chrome)[0];
-    if (isEdgeVoice !== undefined) {
-        return voice_name_edge;
-    } else if (isChromeVoice !== undefined) {
-        return voice_name_chrome;
-    } else {
-        console.log("Voice not found");
-        return window.speechSynthesis.getVoices()[0].name;
-    }
-}
+function createWindowWarningOnlyEdge(){
+    resetBody(document.body);
 
-function speak(text, rate = 1) {
-    msg = new SpeechSynthesisUtterance();
-    msg.voice = window.speechSynthesis.getVoices().filter(voice => voice.name === voice_name)[0];
-    msg.rate = rate;
-    window.speechSynthesis.speak(msg);
-    console.log("word played");
+    const divApp = createDivApp();
+    document.body.appendChild(divApp);
+
+    const divWindow = createDivWindow();
+    divApp.appendChild(divWindow);
+    
+    const closeButton = createCloseButton();
+    closeButton.onclick = _ => window.location.href = "index.html";
+    divWindow.appendChild(closeButton);
+
+    const h3Word = createH3Word();
+    h3Word.innerText = "This game only works in Microsoft Edge";
+    divWindow.appendChild(h3Word);
 }
 
 function resetGame(){
@@ -352,6 +363,7 @@ function resetGame(){
         divSyllables.appendChild(syllableInput);
     }
     divSyllables.querySelector("*:first-child").focus();
+    speak.repeat(word);
 }
 
 function getRandomElement(arr) {
@@ -378,7 +390,9 @@ function getQueryParams() {
       params[pair[0]] = decodeURIComponent(pair[1]);
     }
     return params;
-  }
-  
+}
+
+
+
 //   let queryParams = getQueryParams();
 //   console.log(queryParams);

@@ -1,12 +1,69 @@
-let repeated_word = "attrition";
-let msg;
-let text;
-let ipa = "";
 let ipaButtons = [];
-let voice_name = "Microsoft Guy Online (Natural) - English (United States)"
-let voiceKeys = ["m1us", "f1us", "m1uk", "f1uk"];
-insertStyleTag();
-createWindow();
+
+const speak = (function (){
+    let msg;
+    let word = "attrition";
+    let iVoice = 117;
+    let rate = 0.5;
+    let pause = true;
+    const voices = {
+        "m1us": "Microsoft Guy Online (Natural) - English (United States)",
+        "m2us": "Microsoft Roger Online (Natural) - English (United States)",
+        "m3us": "Microsoft Steffan Online (Natural) - English (United States)",
+        "m4us": "Microsoft Christopher Online (Natural) - English (United States)",
+        "m5us": "Microsoft Eric Online (Natural) - English (United States)",
+        "f1us": "Microsoft Aria Online (Natural) - English (United States)",
+        "f2us": "Microsoft Ana Online (Natural) - English (United States)",
+        "f3us": "Microsoft Jenny Online (Natural) - English (United States)",
+        "f4us": "Microsoft Michelle Online (Natural) - English (United States)",
+    };
+    function recurvise_func () {
+        window.speechSynthesis.cancel();
+        if (pause === true) {return};
+        msg = new SpeechSynthesisUtterance();
+        msg.voice = window.speechSynthesis.getVoices()[iVoice];//.filter(voice => voice.name === voice_name)[0];
+        msg.onend = _ => recurvise_func() ;
+        msg.text = word;
+        msg.rate = rate;
+        window.speechSynthesis.speak(msg);
+        console.log(msg.text);
+    }
+    function repeat(word_) {
+        window.speechSynthesis.cancel();
+        if (word_ !== undefined) {
+            word = word_;
+        }
+        pause = false;
+        recurvise_func();
+    }
+    function stop() {
+        window.speechSynthesis.cancel();
+        pause = true;
+    }
+    function setRate(rate_) {
+        rate = rate_;
+        repeat();
+    }
+    function setVoiceKey(voiceKey) {
+        const voice_name = voices[voiceKey]
+        if (voice_name === undefined) {
+            console.log(`"${voiceKey}" is not found`)
+            return;
+        } else {
+            const voices = window.speechSynthesis.getVoices();
+            const voices_name = voices.map(voice => voice.name);
+            iVoice = voices_name.indexOf(voice_name);
+        }
+        repeat();
+    }
+    function getVoicesKey() {
+        return Object.keys(voices);
+    }
+    function getWord() {
+        return word;
+    }
+    return {repeat, stop, setRate, setVoiceKey, getVoicesKey, getWord}
+})();
 
 function removeAllChildNodes(parent) {
     while (parent.firstChild) {
@@ -90,12 +147,13 @@ function createDivVoicekey(voiceKey){
     div.style.padding = "10px";
     div.style.paddingRight = "0";
     div.addEventListener('click', function() {
+        const voiceKeys = speak.getVoicesKey();
         for (const divId of voiceKeys) {
             const divVoiceKey = document.querySelector("#" + divId);
             divVoiceKey.style.textDecoration = "";
         }
         div.style.textDecoration = "underline";
-        voice_name = getVoiceName(voiceKey)
+        speak.setVoiceKey(voiceKey)
     });
     return div
 }
@@ -125,7 +183,7 @@ function createInputWord(){
     input.style.fontFamily = "'Arial', sans-serif";
     input.style.fontSize = "large";
     input.oninput = function () {
-        repeated_word = input.value;
+        speak.repeat(input.value);
         divIpa = document.querySelector("#divIpa");
         divIpa.innerHTML = "/" + DictIpa[input.value] + "/" || "";
         createIpaButtons();
@@ -142,7 +200,7 @@ function createDivIpa(){
     p.style.cursor = "pointer";
     p.onclick = function() {
         const address = "https://www.google.com/search?q=how+to+pronounce+";
-        window.open(address + repeated_word, "_blank");
+        window.open(address + speak.getWord(), "_blank");
     }
     return p;
 }
@@ -187,7 +245,6 @@ function createGoButton(){
     bttn.style.border = "1px solid black";
     bttn.style.backgroundColor = "#b2d5b2";
     bttn.addEventListener("click", function () {
-        console.log("Right button clicked");
         ipa = getActiveIPAButtons().join("");
         const new_word = findRandomKeyBySubstring(ipa, DictIpa)
         document.querySelector("#inputWord").value = new_word;
@@ -203,7 +260,29 @@ function createGoButton(){
     return bttn;
 }
 
+function createWindowWarningOnlyEdge(){
+    resetBody();
+
+    const divApp = createDivApp();
+    document.body.appendChild(divApp);
+
+    const divWindow = createDivWindow();
+    divApp.appendChild(divWindow);
+    
+    const closeButton = createCloseButton();
+    divWindow.appendChild(closeButton);
+
+    const warning = createDivIpa();
+    warning.innerText = "This game only works in Microsoft Edge";
+    divWindow.appendChild(warning);
+}
+
 function createWindow() {
+    const isEdge = /Edg/.test(navigator.userAgent);
+    if (!isEdge) {
+        return createWindowWarningOnlyEdge(); 
+    }
+
     resetBody();
 
     const divApp = createDivApp();
@@ -218,12 +297,13 @@ function createWindow() {
     const divContainerVoiceKeys = createDivContainerVoiceKeys();
     divWindow.appendChild(divContainerVoiceKeys)
     
-    for (const voiceKey of voiceKeys) {
+    const voices = speak.getVoicesKey();
+    for (const voiceKey of voices) {
         const divVoiceKey = createDivVoicekey(voiceKey)
         divContainerVoiceKeys.appendChild(divVoiceKey);
     }
 
-    const divFirstVoiceKey = document.querySelector("#" + voiceKeys[0])
+    const divFirstVoiceKey = document.querySelector("#" + voices[0])
     divFirstVoiceKey.style.textDecoration = "underline";
     
     const inputWord = createInputWord();
@@ -235,11 +315,11 @@ function createWindow() {
     const ipaButtonsContainer = createContainerIpaButtons()
     divWindow.appendChild(ipaButtonsContainer);
     
-    document.querySelector("#inputWord").value = repeated_word;
+    document.querySelector("#inputWord").value = "attrition";
     const event = new Event("input");
     document.querySelector("#inputWord").dispatchEvent(event);
 
-    repeat_word();
+    speak.repeat();
 }
 
 function createIpaButtons() {
@@ -307,90 +387,4 @@ function findRandomKeyBySubstring(inputString, dictionary) {
   return randomKey;
 }
 
-function getVoiceName(nameKey) {
-    
-    const DictVoicesEdge = {
-        "m1us": "Microsoft Guy Online (Natural) - English (United States)",
-        "f1us": "Microsoft Ana Online (Natural) - English (United States)",
-        "m1uk": "Microsoft Ryan Online (Natural) - English (United Kingdom)",
-        "f1uk": "Microsoft Sonia Online (Natural) - English (United Kingdom)",
-    }
-    const DictVoicesChrome ={
-        "m1us": "Google US English",
-        "f1us": "Google US English",
-        "m1uk": "Google UK English Male",
-        "f1uk": "Google UK English Female",
-    }
-    const voice_name_edge = DictVoicesEdge[nameKey];
-    const voice_name_chrome = DictVoicesChrome[nameKey];
-    isEdgeVoice = window.speechSynthesis.getVoices().filter(voice => voice.name === voice_name_edge)[0];
-    isChromeVoice = window.speechSynthesis.getVoices().filter(voice => voice.name === voice_name_chrome)[0];
-    if (isEdgeVoice !== undefined) {
-        return voice_name_edge;
-    } else if (isChromeVoice !== undefined) {
-        return voice_name_chrome;
-    } else {
-        console.log("Voice not found");
-        return window.speechSynthesis.getVoices()[0].name;
-    }
-}
-
-function speak(text, rate = 1) {
-    return new Promise(resolve => {
-        msg = new SpeechSynthesisUtterance();
-        msg.voice = window.speechSynthesis.getVoices().filter(voice => voice.name === voice_name)[0];
-        msg.onend = resolve ;
-        msg.text = text;
-        msg.rate = rate;
-        window.speechSynthesis.speak(msg);
-        console.log(msg.text);
-    });
-}
-
-async function repeat_word() {
-    const nOuterLoop = 1000;
-    const nInnerLoop = 1;
-    const rates = [0.1, 1];
-    for (const i of new Array(nOuterLoop)) {
-        for (const k of new Array(nInnerLoop)) {
-            for (const rate of rates) {
-                // if (repeated_word === undefined) {return};
-                try {
-                    // console.log("----");
-                    await Promise.race([speak(repeated_word, rate), timeout(6000)]);
-                } catch (error) {
-                    console.log("Error")
-                    // console.log(error);
-                }
-            }
-        }
-    }
-}
-
-function timeout(ms) {
-    return new Promise((resolve, reject) => {
-      setTimeout(() => {
-        reject(new Error('Promise timed out.'));
-      }, ms);
-    });
-}
-
-function insertStyleTag() {
-    if (!document.querySelector('#style001')) {
-        let style = document.createElement('style');
-        style.id = "style001";
-        style.innerHTML = getStrStyle001();
-        document.head.appendChild(style);
-    }
-}
-
-function getStrStyle001(){
-    return `
-        .ipaBttnBorder:hover {
-            border: 2px solid black;
-        }
-        .ipaBttnBorder {
-            border: 1px solid black;
-        }
-    `
-}
+createWindow();
