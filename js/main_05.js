@@ -1,11 +1,8 @@
 // global words
-
-let word;
 let msg;
-let voice_name = "Microsoft Guy Online (Natural) - English (United States)"
-let voiceKeys = ["m1us", "f1us", "m1uk", "f1uk"];
-
-createWindowGame();
+let repeated_word = "attrition";
+let voice_name; //= getVoiceName("m1us")
+let interval_id;
 
 function resetBody(){
     x = document.body
@@ -34,17 +31,6 @@ function createDivCol(){
     return x;
 }
 
-function createDivRow_App(){
-    const x = createDivRow();
-    x.id = "divApp";
-    x.style.flexWrap = "wrap";
-    x.style.padding = "20px";
-    x.style.fontFamily = "Verdana, sans-serif";
-    x.style.width = "100%";
-    x.style.height = "100%";
-    return x;
-}
-
 function createBttn(){
     const x = document.createElement("button");
     x.style.margin = "0px";
@@ -64,10 +50,43 @@ function createBttn(){
     return x;
 }
 
+function createBttnInsert(){
+    const x = createBttn();
+    x.id = "bttnInsert";
+    x.innerHTML = "+";
+    x.onclick = function() {
+        const divWindowInsert = createDivWindowInsert();
+        document.body.appendChild(divWindowInsert);
+    }
+    return x;
+}
+
 function createBttnWord(word){
     const x = createBttn();
     x.id = "bttnWord_" + word;
     x.innerHTML = word;
+    x.onclick = function(event) {
+        const x = event.target;
+        if (x.style.backgroundColor === "white") {
+            window.speechSynthesis.cancel();
+            repeated_word = x.innerHTML
+            if (interval_id === undefined) {
+                interval_id = setInterval(function() {
+                    voice_name = getVoiceName("m1us")
+                    speak(repeated_word, rate = 0.2)
+                }, 2000);
+            }
+            x.style.backgroundColor = "lightgreen";
+        } else if (x.style.backgroundColor === "lightgreen") {
+            clearInterval(interval_id);
+            interval_id = undefined;
+            window.speechSynthesis.cancel();
+            const address = "https://www.google.com/search?q=how+to+pronounce+";
+            window.open(address + x.innerHTML, "_blank");
+        } else {
+            x.style.backgroundColor = "white";
+        }
+    }
     return x;
 }
 
@@ -90,92 +109,16 @@ function createH3Word(){
     return x;
 }
 
-function createInputSyllable(syllable){
-    const x = document.createElement("input");
-    x.name = syllable;
-    x.style.width = "80px";
-    x.style.height = "45px";
-    x.style.fontSize = "medium";
-    x.style.textAlign = "center";
-    x.style.fontFamily = "Verdana, sans-serif";
-    x.style.outline = 'none';
-    x.style.border = "0px solid black";
-    x.style.borderBottom = "1px solid black";
-    x.oninput = function(event) {
-        const syllableInput = event.target;
-        const is_syllable_input_correct = isSyllableInputCorrect(syllableInput)
-        if (is_syllable_input_correct === true) {
-            x.style.backgroundColor = "lightgreen";
-        } else if (is_syllable_input_correct === false) {
-            x.style.backgroundColor = "lightcoral";
-        } else {
-            x.style.backgroundColor = "white";
-        }
-    }
-    return x;
-}
-
-function createDivSyllables(){
-    const x = createDivHor();
-    x.id = "divSyllables";
-    x.style.justifyContent = "center";
-    x.style.alignItems = "center";
-    x.minHeight = "45px";
-    return x;
-}
-
-function createDivBttns(){
-    const x = createDivHor();
-    x.id = "divBttns";
-    x.style.justifyContent = "center";
-    x.style.alignItems = "center";
-    return x;
-}
-
-function createBttnCheck(){
-    const x = createBttn();
-    x.id = "bttnCheck";
-    x.innerHTML = "Check";
-    x.onclick = function() {
-        const address = "https://www.google.com/search?q=how+to+pronounce+";
-        window.open(address + x.innerHTML, "_blank");
-    }
-    return x;
-}
-
-function createBttnNext(){
-    const x = createBttn();
-    x.id = "bttnCheck";
-    x.innerHTML = "Next";
-    x.onclick = _ => resetGame();
-    return x;
-}
-
 function createDivApp(){
     const x = createDiv();
     x.id = "divApp";
-    x.style.flexDirection = "column";
+    x.style.flexDirection = "row";
+    x.style.flexWrap = "wrap";
     x.style.alignItems = "center";
     x.style.padding = "20px";
     x.style.fontFamily = "Verdana, sans-serif";
     x.style.width = "100%";
     x.style.height = "100%";
-    return x;
-}
-
-function createDivWindow() {
-    const x = createDiv();
-    x.id = "divWindow";
-    x.style.flexDirection = "column";
-    x.style.justifyContent = "center";
-    x.style.textAlign = "center";
-    x.style.width = "100%"
-    x.style.maxWidth = "800px";
-    x.style.height = "300px";
-    x.style.backgroundColor = "white";
-    x.style.border = "1px solid black";
-    x.style.position = "absolute";
-    x.style.gap = "25px";
     return x;
 }
 
@@ -193,103 +136,45 @@ function createCloseButton(){
     x.innerHTML = "&times;";
     x.style.backgroundColor = "white";
     x.onclick = _ => window.location.href = "index.html";
-    x.addEventListener("mouseover", function() {
-      x.style.backgroundColor = "red";
+    x.addEventListener("mouseover", function(event) {
+        event.target.style.backgroundColor = "red";
     });
-    x.addEventListener("mouseout", function() {
-      x.style.backgroundColor = "white";
+    x.addEventListener("mouseout", function(event) {
+        event.target.style.backgroundColor = "white";
+    });
+    x.addEventListener("mousedown", function(event) {
+        event.target.parentElement.remove();
     });
     return x
 }
 
-function createDivContainerVoiceKeys(){
-    const x = document.createElement('div');
-    x.id = "divContainerVoiceKeys";
-    x.style.fontFamily = "'Arial', sans-serif";
-    x.style.fontSize = "medium";
-    x.style.display = "flex";
-    x.style.flexDirection = "row";
+function createDivWindowInsert() {
+    const x = createDivCol();
+    x.id = "divWindowWord";
+    x.style.top = "50%";
+    x.style.left = "50%";
+    x.style.transform = "translate(-50%, -50%)";
+    x.style.width = "400px";
+    x.style.height = "200px";
+    x.style.backgroundColor = "white";
+    x.style.border = "1px solid black";
     x.style.position = "absolute";
-    x.style.top = "0";
-    x.style.left = "0";
-    x.style.padding = "15px";
-    x.style.gap = "15px";
+    x.style.gap = "25px";
+
+    const closeButton = createCloseButton();
+    x.appendChild(closeButton);
+
+    const h3Word_spelling = createH3Word();
+    h3Word_spelling.id = "h3Word_spelling";
+    h3Word_spelling.innerHTML = "spelling";
+    x.appendChild(h3Word_spelling);
+
+    const h3Word_pronunciation = createH3Word();
+    h3Word_pronunciation.id = "h3Word_pronunciation";
+    h3Word_pronunciation.innerHTML = "pronunciation";
+    x.appendChild(h3Word_pronunciation);
+
     return x;
-}
-
-function createDivVoicekey(voiceKey){
-    const x = document.createElement('div');
-    x.id = voiceKey;
-    x.innerHTML = voiceKey;
-    x.style.cursor = "pointer";
-    x.addEventListener('click', function() {
-        for (const divId of voiceKeys) {
-            const divVoiceKey = document.querySelector("#" + divId);
-            divVoiceKey.style.textDecoration = "";
-        }
-        x.style.textDecoration = "underline";
-        voice_name = getVoiceName(voiceKey)
-    });
-    return x
-}
-
-function createWindowIndex(){
-    resetBody(document.body);
-
-    const divApp = createDivApp();
-    document.body.appendChild(divApp);
-
-    const divWindow = createDivWindow();
-    divApp.appendChild(divWindow);
-    
-    const closeButton = createCloseButton();
-    closeButton.onclick = _ => window.location.href = "index.html";
-    divWindow.appendChild(closeButton);
-    
-    const divRow1 = createDivRow1();
-    divRow1.innerText = "Choose a game";
-    divWindow.appendChild(divRow1);
-
-    const divRow2 = createDivRow2();
-    divWindow.appendChild(divRow2);
-
-    for (const letter_word of letter_words) {
-        const bttnLetter = createBttnLetter(letter_word);
-        divRow2.appendChild(bttnLetter);
-    }
-
-    const divRow3 = createDivRow3();
-    divWindow.appendChild(divRow3);
-}
-
-function createWindowGame() {
-    resetBody(document.body);
-
-    const divApp = createDivApp();
-    document.body.appendChild(divApp);
-
-    const divWindow = createDivWindow();
-    divApp.appendChild(divWindow);
-    
-    const closeButton = createCloseButton();
-    closeButton.onclick = _ => createWindowIndex();
-    divWindow.appendChild(closeButton);
-
-    const divContainerVoiceKeys = createDivContainerVoiceKeys();
-    divWindow.appendChild(divContainerVoiceKeys)
-    
-    for (const voiceKey of voiceKeys) {
-        const divVoiceKey = createDivVoicekey(voiceKey)
-        divContainerVoiceKeys.appendChild(divVoiceKey);
-    }
-
-    const h3Word = createH3Word();
-    divWindow.appendChild(h3Word);
-
-    const divSyllables = createDivSyllables();
-    divWindow.appendChild(divSyllables);
-
-    resetGame()
 }
 
 function getVoiceName(nameKey) {
@@ -320,20 +205,55 @@ function getVoiceName(nameKey) {
 }
 
 function speak(text, rate = 1) {
-    msg = new SpeechSynthesisUtterance();
-    msg.voice = window.speechSynthesis.getVoices().filter(voice => voice.name === voice_name)[0];
-    msg.rate = rate;
-    window.speechSynthesis.speak(msg);
-    console.log("word played");
+    return new Promise(resolve => {
+        msg = new SpeechSynthesisUtterance();
+        msg.voice = window.speechSynthesis.getVoices().filter(voice => voice.name === voice_name)[0];
+        msg.onend = resolve ;
+        msg.text = text;
+        msg.rate = rate;
+        window.speechSynthesis.speak(msg);
+        console.log(msg.text);
+    });
+}
+
+async function repeat_word() {
+    const loop = 100;
+    const rates = [0.1, 0.1];
+    for (const _ of new Array(loop)) {
+        for (const rate of rates) {
+            try {
+                await Promise.race([speak(repeated_word, rate), timeout(6000)]);
+            } catch (error) {
+                console.log("Error")
+            }
+        }
+    }
+}
+
+function timeout(ms) {
+    return new Promise((_, reject) => {
+      setTimeout(() => {
+        reject(new Error('Promise timed out.'));
+      }, ms);
+    });
 }
 
 function run(){
     const divApp = createDivApp();
     document.body.appendChild(divApp);
-    for (const word of words) {
+    const bttnInsert = createBttnInsert();
+    bttnInsert.onclick = function (){
+        clearInterval(interval_id);
+        interval_id = undefined;
+        window.speechSynthesis.cancel();
+    }
+    divApp.appendChild(bttnInsert);
+    for (const word in words) {
         const bttnWord = createBttnWord(word);
         divApp.appendChild(bttnWord);
     }
 }
+
+
 
 run();

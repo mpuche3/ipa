@@ -1,4 +1,7 @@
-const ml_txt = `
+
+console.log("ml.js")
+
+window.strBook_ml = `
 Description.
 Preparing for a job interview as a data analyst or simply looking to refresh your knowledge in Machine Learning? Look no further. This book provides a comprehensive exploration of the dynamic world of machine learning. From fundamental principles to advanced techniques, it covers everything you need to navigate this fascinating field with confidence.
 Whether you're deciphering the intricacies of Supervised Learning, Unsupervised Learning, and Reinforcement Learning, or grappling with complex concepts like feature engineering, loss functions, and gradient descent, this book serves as your guide. The text demystifies key machine learning models such as Neural Networks and Support Vector Machines, offering insights that are both deep and accessible.

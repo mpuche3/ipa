@@ -71,6 +71,10 @@ function createCloseButton(){
     bttn.innerHTML = "&times;";
     bttn.style.backgroundColor = "white";
     bttn.addEventListener("click", function () {
+        // const divWindow = document.querySelector("#divWindow");
+        // const divApp = document.querySelector("#divApp");
+        // divApp.removeChild(divWindow);
+        // repeated_word = "";
         window.location.href = "index.html";
     });
     bttn.addEventListener("mouseover", function() {
@@ -308,7 +312,6 @@ function findRandomKeyBySubstring(inputString, dictionary) {
 }
 
 function getVoiceName(nameKey) {
-    
     const DictVoicesEdge = {
         "m1us": "Microsoft Guy Online (Natural) - English (United States)",
         "f1us": "Microsoft Ana Online (Natural) - English (United States)",
