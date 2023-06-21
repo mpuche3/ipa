@@ -1,3 +1,4 @@
+// "https://accenthero.com/app/pronunciation-practice/english/american/" +    
 let ipaButtons = [];
 
 const speak = (function (){
@@ -16,12 +17,12 @@ const speak = (function (){
         "f2us": "Microsoft Ana Online (Natural) - English (United States)",
         "f3us": "Microsoft Jenny Online (Natural) - English (United States)",
         "f4us": "Microsoft Michelle Online (Natural) - English (United States)",
-    };
+    }
     function recurvise_func () {
         window.speechSynthesis.cancel();
         if (pause === true) {return};
         msg = new SpeechSynthesisUtterance();
-        msg.voice = window.speechSynthesis.getVoices()[iVoice];//.filter(voice => voice.name === voice_name)[0];
+        msg.voice = window.speechSynthesis.getVoices()[iVoice];
         msg.onend = _ => recurvise_func() ;
         msg.text = word;
         msg.rate = rate;
@@ -334,7 +335,7 @@ function createIpaButtons() {
     ipaButtons = [];
     for (let i = 0; i < ipaText.length; i++) {
         const char = ipaText[i];
-        if (char === "ˌ" || char === "ˈ") {continue;}
+        // if (char === "ˌ" || char === "ˈ") {continue;}
         const ipaButton = createIpaButton(char)
         ipaButtons.push(ipaButton);
         ipaButtonsContainer.appendChild(ipaButton);
