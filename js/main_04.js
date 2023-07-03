@@ -161,6 +161,7 @@ function createInputSyllable(syllable){
     x.style.borderBottom = "1px solid black";
     x.oninput = function(event) {
         const syllableInput = event.target;
+        syllableInput.value = syllableInput.value.toLowerCase();
         const is_syllable_input_correct = isSyllableInputCorrect(syllableInput)
         if (is_syllable_input_correct === true) {
             x.style.backgroundColor = "lightgreen";
