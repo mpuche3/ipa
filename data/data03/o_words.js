@@ -1,0 +1,15 @@
+o_words = [
+    ["cot", "caught"],
+    ["tock", "talk"],
+    ["tot", "taught"],
+    ["bot", "bought"],
+    ["chock", "chalk"],
+    ["stock", "stalk"],
+    ["wok", "walk"],
+    ["bold", "balled"],
+    ["don", "dawn"],
+    ["not", "nought"],
+    ["rot", "wrought"],
+    ["sod", "sawed"],
+    ["sot", "sought"],
+]
