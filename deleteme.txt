@@ -277,7 +277,7 @@ Running /·ruh·nuhng·/
 Shows /·showz·/
 Space /·spays·/
 Summer /·suh·mr·/
-AmericaUnited /·States /·- /·Country /·in /·North /·America /·uh·meh·ruh·kuh·/
+America /·uh·meh·ruh·kuh·/
 Beautiful /·byoo·tuh·fl·/
 Killed /·kild·/
 Strong /·straang·/
@@ -388,7 +388,7 @@ League /·leeg·/
 Trust /·truhst·/
 Central /·sen·truhl·/
 Changes /·chayn·juhz·/
-EnglandUK /·constituent /·country /·ing·gluhnd·/
+England /·ing·gluhnd·/
 Forward /·for·wrd·/
 Groups /·groops·/
 Range /·raynj·/
@@ -426,7 +426,7 @@ Decided /·dee·sai·duhd·/
 Decision /·duh·si·zhn·/
 Enjoy /·uhn·joy·/
 Entire /·uhn·tai·ur·/
-FrenchFrench /·language /·- /·Spoken /·language /·french·/
+French /·french·/
 January /·jan·yoo·eh·ree·/
 Perhaps /·pr·haps·/
 Situation /·si·choo·ay·shn·/
@@ -452,7 +452,7 @@ Simple /·sim·pl·/
 Simply /·sim·plee·/
 Staff /·staf·/
 Super /·soo·pr·/
-WashingtonAmerican /·state /·waa·shuhng·tn·/
+Washington /·waa·shuhng·tn·/
 Began /·bee·gan·/
 Built /·bilt·/
 Career /·kr·eer·/
@@ -476,7 +476,7 @@ Version /·vur·zhn·/
 Voice /·voys·/
 Whose /·hooz·/
 Writing /·rai·tuhng·/
-AustraliaCountry /·in /·Oceania /·aa·stray·lee·uh·/
+Australia /·aa·stray·lee·uh·/
 EarthPlanet /·urth·/
 Forget /·fr·get·/
 Internet /·in·tr·net·/
@@ -500,7 +500,7 @@ Build /·bild·/
 Cases /·kay·suhz·/
 District /·di·struhkt·/
 EuropeContinent /·yur·uhp·/
-IndiaCountry /·in /·South /·Asia /·in·dee·uh·/
+India /·in·dee·uh·/
 Minister /·mi·nuh·str·/
 Percent /·pr·sent·/
 Products /·praa·duhkts·/
@@ -528,7 +528,7 @@ Specific /·spuh·si·fuhk·/
 Standard /·stan·drd·/
 Tonight /·tuh·nite·/
 Write /·rite·/
-AlbumMusical /·album /·type /·al·bm·/
+Album /·al·bm·/
 Century /·sen·chr·ee·/
 Charge /·chaarj·/
 Create /·kree·ayt·/
@@ -556,7 +556,7 @@ Allow /·uh·lau·/
 Association /·uh·sow·see·ay·shn·/
 Brown /·brown·/
 Capital /·ka·puh·tl·/
-ChineseChinese /·language /·- /·Spoken /·language /·chai·neez·/
+Chinese /·chai·neez·/
 Committee /·kuh·mi·tee·/
 Conference /·kaan·fr·uhns·/
 Difference /·di·fr·uhns·/
@@ -569,12 +569,12 @@ Population /·paa·pyuh·lay·shn·/
 Potential /·puh·ten·shl·/
 Pressure /·preh·shr·/
 Radio /·ray·dee·ow·/
-RussianRussian /·Language /·- /·Spoken /·language /·ruh·shn·/
+Russian /·ruh·shn·/
 Station /·stay·shn·/
 Treatment /·treet·muhnt·/
 Western /·weh·strn·/
 Beginning /·bee·gi·nuhng·/
-CaliforniaAmerican /·state /·ka·luh·for·nyuh·/
+California /·ka·luh·for·nyuh·/
 Campaign /·kam·payn·/
 Certainly /·sur·tuhn·lee·/
 Completely /·kuhm·pleet·lee·/
@@ -744,7 +744,7 @@ Anyway /·eh·nee·way·/
 Bought /·baat·/
 Calls /·kaalz·/
 Choose /·chooz·/
-ChristmasChristmas /·Day /·- /·Festivity /·kri·smuhs·/
+Christmas /·kri·smuhs·/
 Color /·kuh·lr·/
 Commission /·kuh·mi·shn·/
 Competition /·kaam·puh·ti·shn·/
@@ -754,7 +754,7 @@ Dream /·dreem·/
 Easily /·ee·zuh·lee·/
 Finish /·fi·nuhsh·/
 Increased /·uhn·kreest·/
-IndianIndia /·- /·Country /·in /·South /·Asia /·in·dee·uhn·/
+Indian /·in·dee·uhn·/
 Literally /·li·tr·uh·lee·/
 Marriage /·meh·ruhj·/
 Names /·naymz·/
@@ -776,7 +776,6 @@ Drink /·dringk·/
 Driving /·drai·vuhng·/
 Established /·uh·sta·bluhsht·/
 Feels /·feelz·/
-To /·/ /·German /·pronunciationSounds /·liketuu·/
 Greater /·gray·tr·/
 Largest /·laar·juhst·/
 Machine /·muh·sheen·/
@@ -798,12 +797,12 @@ Explain /·uhk·splayn·/
 Fully /·fu·lee·/
 Highly /·hai·lee·/
 Holding /·howl·duhng·/
-JapanJapanese /·Language /·- /·Spoken /·language /·juh·pan·/
+Japan /·juh·pan·/
 Parties /·paar·teez·/
 Plant /·plant·/
 Reality /·ree·a·luh·tee·/
 Smith /·smith·/
-TexasAmerican /·state /·tek·suhs·/
+Texas/·tek·suhs·/
 Worse /·wurs·/
 Advice /·uhd·vise·/
 Agreement /·uh·gree·muhnt·/
@@ -865,7 +864,7 @@ Library /·lai·breh·ree·/
 Located /·low·kay·tuhd·/
 Location /·low·kay·shn·/
 Murder /·mur·dr·/
-Getty /·ImagesObamaBarack /·Obama /·- /·44th /·U.S. /·President /·ow·baa·muh·/
+Obama /·ow·baa·muh·/
 Offered /·aa·frd·/
 Queen /·kween·/
 Showed /·showd·/
@@ -936,7 +935,7 @@ Americans /·uh·meh·ruh·knz·/
 Appeared /·uh·peerd·/
 Becomes /·bee·kuhmz·/
 Brand /·brand·/
-ChicagoCity /·in /·Illinois /·shuh·kaa·gow·/
+Chicago /·shuh·kaa·gow·/
 Count /·kownt·/
 Covered /·kuh·vrd·/
 Critical /·kri·tuh·kl·/
@@ -994,13 +993,13 @@ Enter /·en·tr·/
 Follows /·faa·lowz·/
 Foundation /·fown·day·shn·/
 Individuals /·in·duh·vi·joo·uhlz·/
-JapaneseJapanese /·Language /·- /·Spoken /·language /·ja·puh·neez·/
+Japanese /·ja·puh·neez·/
 Leaders /·lee·drz·/
 Memory /·meh·mr·ee·/
 Prime /·prime·/
 Selling /·seh·luhng·/
 Served /·survd·/
-SilverChemical /·element /·sil·vr·/
+Silver /·sil·vr·/
 Spread /·spred·/
 Waste /·wayst·/
 Weird /·weerd·/
@@ -1080,7 +1079,7 @@ Drugs /·druhgz·/
 Efforts /·eh·frts·/
 Garden /·gaar·dn·/
 Housing /·hau·suhng·/
-IsraelCountry /·in /·the /·Middle /·East /·iz·ray·uhl·/
+Israel /·iz·ray·uhl·/
 Labor /·lay·br·/
 Leadership /·lee·dr·shuhp·/
 Length /·length·/
@@ -1091,7 +1090,7 @@ Possibly /·paa·suh·blee·/
 Prove /·proov·/
 Setting /·seh·tuhng·/
 Skills /·skilz·/
-SoftwareSoftware /·grouping /·saaf·twehr·/
+Software /·saaf·twehr·/
 Thousands /·thau·zndz·/
 Tough /·tuhf·/
 Units /·yoo·nuhts·/
@@ -1104,7 +1103,7 @@ Connection /·kuh·nek·shn·/
 Dress /·dres·/
 Easier /·ee·zee·ur·/
 Fellow /·feh·low·/
-FloridaAmerican /·state /·flaw·ruh·duh·/
+Florida /·flaw·ruh·duh·/
 Horse /·hors·/
 Knowing /·now·uhng·/
 Liked /·liket·/
@@ -1131,7 +1130,7 @@ Frank /·frangk·/
 Guide /·gide·/
 Images /·i·muh·juhz·/
 Investigation /·uhn·veh·stuh·gay·shn·/
-MexicoCountry /·in /·North /·America /·mek·suh·kow·/
+Mexico /·mek·suh·kow·/
 Operating /·aa·pr·ay·tuhng·/
 Paying /·pay·uhng·/
 Presented /·pruh·zen·tuhd·/
@@ -1196,7 +1195,7 @@ Reduce /·ruh·doos·/
 Shoot /·shoot·/
 Sides /·sidez·/
 Solid /·saa·luhd·/
-SpanishSpanish /·Language /·- /·Spoken /·language /·spae·nuhsh·/
+Spanish /·spae·nuhsh·/
 Sport /·sport·/
 Steps /·steps·/
 Stress /·stres·/
@@ -1204,12 +1203,12 @@ Taste /·tayst·/
 Victory /·vik·tr·ee·/
 Afternoon /·af·tr·noon·/
 Assistant /·uh·si·stnt·/
-BritainUnited /·Kingdom /·- /·Country /·in /·Europe /·bri·tn·/
+Britain /·bri·tn·/
 Citizens /·si·tuh·znz·/
 Classic /·kla·suhk·/
 Clothes /·klowthz·/
 Decisions /·dee·si·zhnz·/
-ElectricElectricity /·uh·lek·truhk·/
+Electric /·uh·lek·truhk·/
 Emergency /·uh·mur·juhn·see·/
 Entered /·en·trd·/
 Entirely /·uhn·tai·ur·lee·/
@@ -1278,7 +1277,7 @@ Treated /·tree·tuhd·/
 Turning /·tur·nuhng·/
 Afraid /·uh·frayd·/
 Border /·bor·dr·/
-CanadianCanada /·- /·Country /·in /·North /·America /·kuh·nay·dee·uhn·/
+Canadian /·kuh·nay·dee·uhn·/
 Command /·kuh·mand·/
 Crowd /·krowd·/
 Dating /·day·tuhng·/
@@ -1347,7 +1346,7 @@ Performed /·pr·formd·/
 Planet /·pla·nuht·/
 Relationships /·ruh·lay·shuhn·shuhps·/
 Restaurant /·reh·str·aant·/
-ScotlandUK /·constituent /·country /·skaat·luhnd·/
+Scotland /·skaat·luhnd·/
 Selected /·suh·lek·tuhd·/
 Shared /·shehrd·/
 Shopping /·shaa·puhng·/
@@ -1364,7 +1363,7 @@ Allows /·uh·lowz·/
 Appeal /·uh·peel·/
 Applied /·uh·plide·/
 Artists /·aar·tuhsts·/
-BostonCity /·in /·Massachusetts /·baa·stn·/
+Boston /·baa·stn·/
 Confirmed /·kuhn·furmd·/
 Device /·duh·vise·/
 Drama /·draa·muh·/
@@ -1414,9 +1413,9 @@ Falling /·faa·luhng·/
 Holiday /·haa·luh·day·/
 Interests /·in·tr·uhsts·/
 Internal /·uhn·tur·nuhl·/
-IrelandIsland /·in /·Europe /·ai·ur·luhnd·/
-ItalianItalian /·Language /·- /·Spoken /·language /·uh·ta·lee·uhn·/
-ItalyCountry /·in /·Europe /·i·tuh·lee·/
+Ireland /·ai·ur·luhnd·/
+Italian /·uh·ta·lee·uhn·/
+Italy /·i·tuh·lee·/
 Jersey /·jur·zee·/
 Laugh /·laf·/
 Letters /·leh·trz·/
@@ -1446,7 +1445,7 @@ Focused /·fow·kuhst·/
 Identity /·ai·den·tuh·tee·/
 Journey /·jur·nee·/
 Kitchen /·ki·chn·/
-KoreaSouth /·Korea /·- /·Country /·in /·East /·Asia /·kr·ee·uh·/
+Korea /·kr·ee·uh·/
 Leads /·leedz·/
 Maintain /·mayn·tayn·/
 Measure /·meh·zhr·/
@@ -1579,7 +1578,7 @@ Virginia /·vr·ji·nyuh·/
 Voted /·vow·tuhd·/
 Voting /·vow·tuhng·/
 Walls /·waalz·/
-Getty /·ImagesAlcoholAlcoholic /·drink /·- /·Drink /·al·kuh·haal·/
+Alcohol /·al·kuh·haal·/
 Assembly /·uh·sem·blee·/
 Breakfast /·brek·fuhst·/
 Bright /·brite·/
@@ -1603,7 +1602,7 @@ Guilty /·gil·tee·/
 Humans /·hyoo·muhnz·/
 Hundreds /·huhn·druhdz·/
 Improved /·uhm·proovd·/
-JewishJewish /·people /·- /·Ethnicity /·joo·uhsh·/
+Jewish /·joo·uhsh·/
 Largely /·laarj·lee·/
 Laughing /·la·fuhng·/
 Markets /·maar·kuhts·/
@@ -1637,7 +1636,7 @@ Mainly /·mayn·lee·/
 Maximum /·mak·suh·muhm·/
 Newspaper /·nooz·pay·pr·/
 Offering /·aa·fr·uhng·/
-PaintingVisual /·art /·form /·payn·tuhng·/
+Painting /·payn·tuhng·/
 Republic /·ruh·puh·bluhk·/
 Returns /·ruh·turnz·/
 Scared /·skehrd·/
@@ -1697,7 +1696,7 @@ Wednesday /·wenz·day·/
 Admit /·uhd·mit·/
 Attitude /·a·tuh·tood·/
 Branch /·branch·/
-BrazilCountry /·in /·South /·America /·bruh·zil·/
+Brazil /·bruh·zil·/
 Conducted /·kuhn·duhk·tuhd·/
 Decades /·deh·kaydz·/
 Dedicated /·deh·duh·kay·tuhd·/
@@ -1730,7 +1729,7 @@ Bunch /·buhnch·/
 Category /·ka·tuh·gaw·ree·/
 CheeseDairy /·product /·cheez·/
 Chemical /·keh·muh·kl·/
-WireImageClintonBill /·Clinton /·- /·42nd /·U.S. /·President /·klin·tn·/
+Clinton /·klin·tn·/
 Competitive /·kuhm·peh·tuh·tuhv·/
 Detail /·dee·tayl·/
 Fruit /·froot·/
@@ -1784,7 +1783,7 @@ Pattern /·pa·trn·/
 Performing /·pr·for·muhng·/
 Personnel /·pr·suh·nel·/
 Perspective /·pr·spek·tuhv·/
-PregnantPregnancy /·- /·Sickness /·preg·nuhnt·/
+Pregnant /·preg·nuhnt·/
 Premier /·pruh·meer·/
 Promote /·pruh·mowt·/
 Revolution /·reh·vuh·loo·shn·/
@@ -1793,11 +1792,11 @@ Severe /·suh·veer·/
 SleepingSleep /·slee·puhng·/
 Suppose /·suh·powz·/
 Tournament /·tur·nuh·muhnt·/
-TurkeyCountry /·in /·the /·Middle /·East /·tur·kee·/
+Turkey /·tur·kee·/
 Victim /·vik·tm·/
 Victims /·vik·tmz·/
 Agents /·ay·jnts·/
-NurPhoto /·via /·Getty /·ImagesAmazonAmazon.com /·- /·E-commerce /·company /·a·muh·zaan·/
+Amazon /·a·muh·zaan·/
 Arrest /·uh·rest·/
 Attend /·uh·tend·/
 Brilliant /·bril·ynt·/
@@ -1813,7 +1812,7 @@ Deputy /·deh·pyuh·tee·/
 Dirty /·dur·tee·/
 Doctors /·daak·trz·/
 Earned /·urnd·/
-ElectronicElectronics /·- /·Discipline /·uh·luhk·traa·nuhk·/
+Electronic /·uh·luhk·traa·nuhk·/
 Error /·eh·rr·/
 Existence /·uhg·zi·stns·/
 Experiences /·uhk·spee·ree·uhn·suhz·/
@@ -1826,7 +1825,7 @@ Maintenance /·mayn·tuh·nuhns·/
 Manner /·ma·nr·/
 Noise /·noyz·/
 Origin /·aw·ruh·jn·/
-PakistanCountry /·in /·South /·Asia /·pa·kuh·stan·/
+Pakistan /·pa·kuh·stan·/
 Panel /·pa·nuhl·/
 Personality /·pr·suh·na·luh·tee·/
 Plate /·playt·/
@@ -1849,7 +1848,7 @@ Absolute /·ab·suh·loot·/
 Agencies /·ay·juhn·seez·/
 BaseballSport /·bays·baal·/
 Bathroom /·bath·room·/
-BibleThe /·Bible /·- /·Religious /·text /·bai·bl·/
+Bible /·bai·bl·/
 Cable /·kay·bl·/
 Championship /·cham·pee·uhn·shuhp·/
 Checked /·chekt·/
@@ -1875,7 +1874,7 @@ Refused /·ruh·fyoozd·/
 Reporting /·ruh·por·tuhng·/
 Sight /·site·/
 Significantly /·suhg·ni·fuh·kuhnt·lee·/
-SovietSoviet /·Union /·- /·Country /·sow·vee·uht·/
+Soviet /·sow·vee·uht·/
 Weapon /·weh·pn·/
 Widely /·wide·lee·/
 Worldwide /·wurld·wide·/
@@ -1893,7 +1892,7 @@ Height /·hite·/
 Hidden /·hi·dn·/
 Invited /·uhn·vai·tuhd·/
 Letting /·leh·tuhng·/
-ManchesterCity /·in /·England /·man·cheh·str·/
+Manchester /·man·cheh·str·/
 Motor /·mow·tr·/
 Officially /·uh·fi·shuh·lee·/
 Portion /·por·shn·/
@@ -1910,7 +1909,7 @@ Secondary /·seh·kuhn·deh·ree·/
 Somehow /·suhm·hau·/
 Stayed /·stayd·/
 Suffering /·suh·fr·uhng·/
-SydneyCity /·in /·Australia /·sid·nee·/
+Sydney /·sid·nee·/
 Tries /·trize·/
 Ultimate /·uhl·tuh·muht·/
 Unknown /·uhn·nown·/
@@ -1933,7 +1932,7 @@ Experts /·ek·sprts·/
 Expressed /·uhk·sprest·/
 External /·uhk·stur·nuhl·/
 Fantasy /·fan·tuh·see·/
-HollywoodNeighborhood /·in /·Los /·Angeles, /·California /·haa·lee·wud·/
+Hollywood /·haa·lee·wud·/
 Immediate /·uh·mee·dee·uht·/
 Introduction /·in·truh·duhk·shn·/
 License /·lai·sns·/
@@ -1971,7 +1970,7 @@ Entitled /·uhn·tai·tld·/
 Exact /·uhg·zakt·/
 Exposed /·uhk·spowzd·/
 Injured /·in·jrd·/
-Getty /·ImagesJordanCountry /·in /·the /·Middle /·East /·jor·dn·/
+Jordan /·jor·dn·/
 Kinds /·kinedz·/
 Loans /·lownz·/
 Opposed /·uh·powzd·/
@@ -2005,7 +2004,7 @@ Fairly /·fehr·lee·/
 FingersFinger /·fing·grz·/
 Founded /·fown·duhd·/
 Functions /·fuhngk·shnz·/
-GreekGreek /·language /·- /·Human /·language /·greek·/
+Greek /·greek·/
 Inner /·i·nr·/
 Islands /·ai·luhndz·/
 Marked /·maarkt·/
@@ -2031,7 +2030,7 @@ Tradition /·truh·di·shn·/
 Visited /·vi·zuh·tuhd·/
 Visual /·vi·zhoo·uhl·/
 Wheel /·weel·/
-ZealandIsland /·in /·Denmark /·zee·luhnd·/
+Zealand /·zee·luhnd·/
 Achieved /·uh·cheevd·/
 Admitted /·uhd·mi·tuhd·/
 Appointment /·uh·poynt·muhnt·/
@@ -2055,7 +2054,7 @@ Highway /·hai·way·/
 Historic /·huh·staw·ruhk·/
 Improvement /·uhm·proov·muhnt·/
 Initially /·uh·ni·shuh·lee·/
-KoreanKorean /·language /·- /·Spoken /·language /·kr·ee·uhn·/
+Korean /·kr·ee·uhn·/
 Marks /·maarks·/
 Monster /·maan·str·/
 Obtained /·uhb·taynd·/
@@ -2075,7 +2074,7 @@ Studied /·stuh·deed·/
 Suggests /·suhg·jests·/
 Surrounding /·sr·own·duhng·/
 Topic /·taa·puhk·/
-TorontoCity /·in /·Canada /·tr·aan·tow·/
+Toronto /·tr·aan·tow·/
 Universal /·yoo·nuh·vur·sl·/
 Visitors /·vi·zuh·trz·/
 Wanting /·waan·tuhng·/
@@ -2083,7 +2082,7 @@ Consistent /·kuhn·si·stnt·/
 Continuing /·kuhn·ti·nyoo·uhng·/
 Exists /·uhg·zists·/
 Finger /·fing·gr·/
-GuitarMusical /·instrument /·guh·taar·/
+Guitar /·guh·taar·/
 Heading /·heh·duhng·/
 Ignore /·uhg·nor·/
 Involving /·uhn·vaal·vuhng·/
@@ -2108,7 +2107,7 @@ Rescue /·reh·skyoo·/
 Resulting /·ruh·zuhl·tuhng·/
 Sessions /·seh·shnz·/
 Sharp /·shaarp·/
-SoccerFootball /·- /·Sport /·saa·kr·/
+Soccer /·saa·kr·/
 Stable /·stay·bl·/
 Structures /·struhk·chrz·/
 Supplies /·suh·plize·/
@@ -2171,7 +2170,7 @@ Carefully /·kehr·fuh·lee·/
 Choices /·choy·suhz·/
 Closing /·klow·zuhng·/
 Cloud /·klowd·/
-ColoradoAmerican /·state /·kaa·lr·aa·dow·/
+Colorado /·kaa·lr·aa·dow·/
 Colors /·kuh·lrz·/
 Courses /·kor·suhz·/
 Courts /·korts·/
@@ -2181,7 +2180,7 @@ Establish /·uh·sta·bluhsh·/
 Extension /·uhk·sten·shn·/
 Files /·filez·/
 Founder /·fown·dr·/
-GeorgiaAmerican /·state /·jor·juh·/
+Georgia /·jor·juh·/
 Hills /·hilz·/
 Hitting /·hi·tuhng·/
 Infrastructure /·in·fruh·struhk·chr·/
@@ -2234,7 +2233,7 @@ Formal /·for·muhl·/
 Formula /·for·myuh·luh·/
 Governments /·guh·vrn·muhnts·/
 Gross /·grows·/
-HorsesHorse /·- /·Animal /·hor·suhz·/
+Horses /·hor·suhz·/
 Hungry /·huhng·gree·/
 Informed /·uhn·formd·/
 Innocent /·i·nuh·snt·/
@@ -2247,7 +2246,7 @@ Palace /·pa·luhs·/
 Passes /·pa·suhz·/
 Penalty /·peh·nuhl·tee·/
 Phones /·fownz·/
-PhotographyVisual /·art /·form /·fuh·taa·gruh·fee·/
+Photography /·fuh·taa·gruh·fee·/
 Producing /·pruh·doo·suhng·/
 Publication /·puh·bluh·kay·shn·/
 Rating /·ray·tuhng·/
@@ -2333,7 +2332,7 @@ Grounds /·growndz·/
 Helpful /·help·fl·/
 Horror /·haw·rr·/
 Label /·lay·bl·/
-LiverpoolLiverpool /·F.C. /·- /·Football /·club /·li·vr·pool·/
+Liverpool /·li·vr·pool·/
 Locked /·laakt·/
 Naked /·nay·kuhd·/
 Opens /·ow·pnz·/
@@ -2366,8 +2365,8 @@ Behalf /·buh·haf·/
 Capture /·kap·chr·/
 Centers /·sen·trz·/
 Ceremony /·seh·ruh·mow·nee·/
-ComicComics /·- /·Visual /·art /·form /·kaa·muhk·/
-DallasCity /·in /·Texas /·da·luhs·/
+Comic /·kaa·muhk·/
+Dallas /·da·luhs·/
 Designer /·duh·zai·nr·/
 Diamond /·dai·muhnd·/
 Disappointed /·di·suh·poyn·tuhd·/
@@ -2397,7 +2396,7 @@ Nervous /·nur·vuhs·/
 Newly /·noo·lee·/
 Ordinary /·or·duh·neh·ree·/
 Participate /·paar·ti·suh·payt·/
-PhiladelphiaCity /·in /·Pennsylvania /·fi·luh·del·fee·uh·/
+Philadelphia /·fi·luh·del·fee·uh·/
 Prayer /·prehr·/
 Principles /·prin·suh·plz·/
 Racist /·ray·suhst·/
@@ -2410,8 +2409,8 @@ Struck /·struhk·/
 Studying /·stuh·dee·uhng·/
 Supports /·suh·ports·/
 Trash /·trash·/
-VegasLas /·Vegas /·- /·City /·in /·Nevada /·vay·guhs·/
-VirusType /·of /·infectious /·agent /·vai·ruhs·/
+Vegas /·vay·guhs·/
+Virus /·vai·ruhs·/
 Walker /·waa·kr·/
 Whoever /·hoo·eh·vr·/
 Amounts /·uh·mownts·/
@@ -2427,7 +2426,7 @@ Crack /·krak·/
 Demands /·duh·mandz·/
 DragonMythical /·creature /·dra·gn·/
 Dramatic /·druh·ma·tuhk·/
-DutchDutch /·language /·- /·Spoken /·language /·duhch·/
+Dutch /·duhch·/
 Engineers /·en·juh·neerz·/
 Evolution /·eh·vuh·loo·shn·/
 Foods /·foodz·/
@@ -2456,14 +2455,14 @@ Whereas /·weh·raz·/
 Abandoned /·uh·ban·dnd·/
 Acquired /·uh·kwai·urd·/
 Actors /·ak·trz·/
-Getty /·ImagesAlexanderAlexander /·the /·Great /·- /·Former /·King /·of /·Macedonia /·a·luhg·zan·dr·/
+Alexander /·a·luhg·zan·dr·/
 Alliance /·uh·lai·uhns·/
 Annoying /·uh·noy·uhng·/
 Buddy /·buh·dee·/
 Buried /·beh·reed·/
 Butter /·buh·tr·/
 Cares /·kehrz·/
-ColumbiaColumbia /·Sportswear /·- /·Outerwear /·company /·kuh·luhm·bee·uh·/
+Columbia /·kuh·luhm·bee·uh·/
 Conclusion /·kuhn·kloo·zhn·/
 Confirm /·kuhn·furm·/
 Congratulations /·kuhn·gra·chuh·lay·shnz·/
@@ -2492,10 +2491,10 @@ Obtain /·uhb·tayn·/
 Organic /·or·ga·nuhk·/
 Ownership /·ow·nr·shuhp·/
 Participants /·paar·ti·suh·pnts·/
-PennsylvaniaAmerican /·state /·pen·suhl·vay·nyuh·/
+Pennsylvania /·pen·suhl·vay·nyuh·/
 Poetry /·pow·uh·tree·/
 Printed /·prin·tuhd·/
-RugbyRugby /·union /·- /·Sport /·ruhg·bee·/
+Rugby /·ruhg·bee·/
 Sheet /·sheet·/
 Signing /·sai·nuhng·/
 Smooth /·smooth·/
@@ -2503,8 +2502,8 @@ Spiritual /·spee·ruh·chool·/
 Stops /·staaps·/
 String /·string·/
 Sudden /·suh·dn·/
-SwedenCountry /·in /·Europe /·swee·dn·/
-SyriaCountry /·in /·the /·Middle /·East /·see·ree·uh·/
+Sweden /·swee·dn·/
+Syria /·see·ree·uh·/
 Throwing /·throw·uhng·/
 Thrown /·thrown·/
 Vacation /·vay·kay·shn·/
@@ -2515,7 +2514,7 @@ Atlantic /·uht·lan·tuhk·/
 Bench /·bench·/
 Bother /·baa·thr·/
 Broadcast /·braad·kast·/
-CambridgeCity /·in /·England /·kaym·bruhj·/
+Cambridge /·kaym·bruhj·/
 Citizen /·si·tuh·zn·/
 Cleaning /·klee·nuhng·/
 Compete /·kuhm·peet·/
@@ -2527,7 +2526,7 @@ Critics /·kri·tuhks·/
 Damaged /·da·muhjd·/
 Disaster /·duh·za·str·/
 Discover /·duh·skuh·vr·/
-DisneyThe /·Walt /·Disney /·Company /·- /·Mass /·media /·company /·diz·nee·/
+Disney /·diz·nee·/
 Equally /·ee·kwuh·lee·/
 Fallen /·faa·luhn·/
 Figured /·fi·gyrd·/
@@ -2540,7 +2539,7 @@ Lifetime /·life·time·/
 Liquid /·li·kwuhd·/
 Makeup /·may·kuhp·/
 Medal /·meh·dl·/
-MortgageMortgage /·loan /·mor·guhj·/
+Mortgage /·mor·guhj·/
 Narrative /·neh·ruh·tuhv·/
 Narrow /·neh·row·/
 Observed /·uhb·zurvd·/
@@ -2554,7 +2553,7 @@ Researchers /·ree·sr·chrz·/
 Resource /·ree·sors·/
 Roger /·raa·jr·/
 Sciences /·sai·uhn·suhz·/
-SeattleCity /·in /·Washington /·State /·see·a·tl·/
+Seattle /·see·a·tl·/
 Serves /·survz·/
 Shell /·shel·/
 Silly /·si·lee·/
@@ -2564,7 +2563,7 @@ Translation /·tranz·lay·shn·/
 Visible /·vi·zuh·bl·/
 Amendment /·uh·mend·muhnt·/
 Angle /·ang·gl·/
-ArizonaAmerican /·state /·eh·ruh·zow·nuh·/
+Arizona /·eh·ruh·zow·nuh·/
 Arrive /·uh·rive·/
 Belong /·buh·laang·/
 Bishop /·bi·shuhp·/
@@ -2674,8 +2673,8 @@ Juice /·joos·/
 Landscape /·land·skayp·/
 Logic /·laa·juhk·/
 Meets /·meets·/
-MelbourneCity /·in /·Australia /·mel·brn·/
-MicrosoftMicrosoft /·Corporation /·- /·Technology /·corporation /·mai·kruh·saaft·/
+Melbourne /·mel·brn·/
+Microsoft /·mai·kruh·saaft·/
 Objective /·uhb·jek·tuhv·/
 Privacy /·prai·vuh·see·/
 Procedures /·pruh·see·jrz·/
@@ -2701,14 +2700,14 @@ Ambassador /·am·ba·suh·dr·/
 Awarded /·uh·wor·duhd·/
 Banking /·bang·kuhng·/
 Breast /·brest·/
-ChelseaChelsea /·F.C. /·- /·Football /·club /·chel·see·/
+Chelsea /·chel·see·/
 Chemistry /·keh·muh·stree·/
 Concluded /·kuhn·kloo·duhd·/
 Consumption /·kuhn·suhmp·shn·/
 Corruption /·kr·uhp·shn·/
 Cotton /·kaa·tn·/
 Crossed /·kraast·/
-DetroitCity /·in /·Michigan /·duh·troyt·/
+Detroit /·duh·troyt·/
 Dozen /·duh·zn·/
 EnginesEngine /·en·jnz·/
 Exception /·uhk·sep·shn·/
@@ -2742,7 +2741,7 @@ Reporter /·ruh·por·tr·/
 Risks /·risks·/
 Screaming /·skree·muhng·/
 Sequence /·see·kwns·/
-SingaporeCountry /·in /·Asia /·sing·uh·por·/
+Singapore /·sing·uh·por·/
 Stretch /·strech·/
 TennisSport /·teh·nuhs·/
 Terrorist /·teh·rr·uhst·/
@@ -2833,7 +2832,7 @@ InfectionDisease /·uhn·fek·shn·/
 Intention /·uhn·ten·shn·/
 Jokes /·jowks·/
 Mechanical /·muh·ka·nuh·kl·/
-NigeriaCountry /·in /·West /·Africa /·nai·jee·ree·uh·/
+Nigeria /·nai·jee·ree·uh·/
 Parks /·paarks·/
 Participation /·paar·ti·suh·pay·shn·/
 Periods /·pee·ree·uhdz·/
@@ -2915,7 +2914,7 @@ Tissue /·ti·shoo·/
 Trailer /·tray·lr·/
 Trends /·trendz·/
 Trials /·trai·uhlz·/
-UkraineCountry /·in /·Europe /·yoo·krayn·/
+Ukraine /·yoo·krayn·/
 Versus /·vur·suhz·/
 Virtual /·vur·choo·uhl·/
 Walks /·waaks·/
@@ -2948,27 +2947,27 @@ Explore /·uhk·splor·/
 Fewer /·fyoo·ur·/
 Footage /·fu·tuhj·/
 Giants /·jai·uhnts·/
-HamiltonPlay /·by /·Lin-Manuel /·Miranda /·ha·muhl·tn·/
+Hamilton /·ha·muhl·tn·/
 Implementation /·im·pluh·men·tay·shn·/
-IndianaAmerican /·state /·in·dee·a·nuh·/
+Indiana /·in·dee·a·nuh·/
 Investigate /·uhn·veh·stuh·gayt·/
 Jonathan /·jaa·nuh·thn·/
 Laboratory /·la·bruh·taw·ree·/
 LincolnCar /·model /·ling·kn·/
 Literary /·li·tr·eh·ree·/
-MassachusettsAmerican /·state /·ma·suh·choo·suhts·/
+Massachusetts/·ma·suh·choo·suhts·/
 Midnight /·mid·nite·/
-MinnesotaAmerican /·state /·mi·nuh·sow·tuh·/
-MouseComputer /·mouse /·- /·Computer /·peripheral /·mows·/
+Minnesota /·mi·nuh·sow·tuh·/
+Mouse /·mows·/
 Oscar /·aa·skr·/
 Packed /·pakt·/
 Praise /·prayz·/
 Presentation /·preh·zuhn·tay·shn·/
-PsychologyAcademic /·discipline /·sai·kaa·luh·jee·/
+Psychology /·sai·kaa·luh·jee·/
 Relation /·ruh·lay·shn·/
 Restrictions /·ruh·strik·shnz·/
 Rocket /·raa·kuht·/
-SaudiSaudi /·Arabia /·- /·Country /·in /·the /·Middle /·East /·sau·dee·/
+Saudi /·sau·dee·/
 Secrets /·see·kruhts·/
 Slave /·slayv·/
 Stability /·stuh·bi·luh·tee·/
@@ -2980,7 +2979,7 @@ Toilet /·toy·luht·/
 Treaty /·tree·tee·/
 Triple /·tri·pl·/
 Unlikely /·uhn·lai·klee·/
-VietnamCountry /·in /·Asia /·vee·uht·naam·/
+Vietnam /·vee·uht·naam·/
 Viewed /·vyood·/
 Affair /·uh·fehr·/
 Agenda /·uh·jen·duh·/
@@ -3001,12 +3000,12 @@ Fortune /·for·chn·/
 Gates /·gayts·/
 Goodbye /·gud·bai·/
 Graham /·gram·/
-HardwareComputer /·hardware /·haard·wehr·/
+Hardware /·haard·wehr·/
 Hurts /·hurts·/
 Intellectual /·in·tuh·lek·choo·uhl·/
 Involvement /·uhn·vaalv·muhnt·/
-KentuckyAmerican /·state /·kuhn·tuh·kee·/
-OregonAmerican /·state /·aw·ruh·gn·/
+Kentucky /·kuhn·tuh·kee·/
+Oregon /·aw·ruh·gn·/
 Partly /·paart·lee·/
 Petition /·puh·ti·shn·/
 Phrase /·frayz·/
@@ -3066,7 +3065,7 @@ Journalists /·jur·nuh·luhsts·/
 Lifestyle /·life·stile·/
 Lighting /·lai·tuhng·/
 Performances /·pr·for·muhn·suhz·/
-PhilippinesCountry /·in /·Asia /·fi·luh·peenz·/
+Philippines /·fi·luh·peenz·/
 Recommendations /·reh·kuh·muhn·day·shnz·/
 Regarded /·ruh·gaar·duhd·/
 Relax /·ruh·laks·/
@@ -3106,17 +3105,17 @@ Filter /·fil·tr·/
 Galaxy /·ga·luhk·see·/
 Globe /·glowb·/
 Grades /·graydz·/
-GreeceCountry /·in /·the /·Balkans /·grees·/
+Greece /·grees·/
 Highlights /·hai·lites·/
 Hoped /·howpt·/
 Intent /·uhn·tent·/
 Involve /·uhn·vaalv·/
 Judgment /·juhj·muhnt·/
-Getty /·ImagesKennedyJohn /·F. /·Kennedy /·- /·35th /·U.S. /·President /·keh·nuh·dee·/
+Kennedy /·keh·nuh·dee·/
 Knight /·nite·/
-MalaysiaCountry /·in /·Asia /·muh·lay·zhuh·/
+Malaysia /·muh·lay·zhuh·/
 Mature /·muh·chur·/
-NetherlandsCountry /·in /·Europe /·neh·thr·luhndz·/
+Netherlands /·neh·thr·luhndz·/
 Peaceful /·pees·fl·/
 Photographer /·fuh·taa·gruh·fr·/
 Prevention /·pruh·ven·shn·/
@@ -3128,7 +3127,7 @@ Replied /·ruh·plide·/
 Requests /·ruh·kwests·/
 Revenge /·ruh·venj·/
 Satisfied /·sa·tuh·sfide·/
-SeedsSeed /·- /·Food /·seedz·/
+Seeds /·seedz·/
 Signals /·sig·nuhlz·/
 Spaces /·spay·suhz·/
 Spare /·spehr·/
@@ -3169,7 +3168,7 @@ Investments /·uhn·vest·muhnts·/
 Margin /·maar·jn·/
 MarylandAmerican /·state /·meh·ruh·luhnd·/
 Mechanism /·meh·kuh·ni·zm·/
-OklahomaOklahoma /·City /·- /·City /·in /·Oklahoma /·ow·kluh·how·muh·/
+Oklahoma /·ow·kluh·how·muh·/
 Opera /·aa·pr·uh·/
 Overcome /·ow·vr·kuhm·/
 Parallel /·peh·ruh·lel·/
@@ -3183,7 +3182,7 @@ Stroke /·strowk·/
 Stunning /·stuh·nuhng·/
 TanksTank /·tangks·/
 Topics /·taa·puhks·/
-TrainsTrain /·- /·Form /·of /·transport /·traynz·/
+Trains /·traynz·/
 Traveling /·tra·vuh·luhng·/
 Treating /·tree·tuhng·/
 Utility /·yoo·ti·luh·tee·/
@@ -3250,7 +3249,7 @@ Beliefs /·buh·leefs·/
 Boats /·bowts·/
 Boundaries /·bown·dr·eez·/
 Brick /·brik·/
-BrooklynBoroughs /·of /·New /·York /·City /·bru·kluhn·/
+Brooklyn /·bru·kluhn·/
 Colleges /·kaa·luh·juhz·/
 Considerable /·kuhn·si·dr·uh·bl·/
 Conventional /·kuhn·ven·shuh·nuhl·/
@@ -3268,7 +3267,7 @@ Guidelines /·gide·linez·/
 Handled /·han·dld·/
 Hosted /·how·stuhd·/
 Indians /·in·dee·uhnz·/
-IndonesiaIndonesian /·language /·- /·Indonesian /·language /·in·duh·nee·zhuh·/
+Indonesia /·in·duh·nee·zhuh·/
 Inquiry /·in·kwr·ee·/
 Inspector /·uhn·spek·tr·/
 Jumped /·juhmpt·/
@@ -3280,7 +3279,7 @@ Mercy /·mur·see·/
 Nevertheless /·neh·vr·thuh·les·/
 NewspapersNewspaper /·nooz·pay·prz·/
 Outer /·au·tr·/
-OxygenChemical /·element /·aak·suh·jn·/
+Oxygen /·aak·suh·jn·/
 Pissed /·pist·/
 Powder /·pau·dr·/
 Powered /·pau·urd·/
@@ -3334,14 +3333,14 @@ Functional /·fuhngk·shuh·nuhl·/
 Gather /·ga·thr·/
 Grandfather /·grand·faa·thr·/
 Habit /·ha·buht·/
-HarvardHarvard /·University /·- /·Private /·university /·in /·Cambridge, /·Massachusetts /·haar·vrd·/
+Harvard /·haar·vrd·/
 Indicates /·in·duh·kayts·/
 Isolated /·ai·suh·lay·tuhd·/
 Jealous /·jeh·luhs·/
 Knocked /·naakt·/
 Landed /·lan·duhd·/
 Laughed /·laft·/
-MarshallMarshall /·Amplification /·- /·Company /·maar·shl·/
+Marshall /·maar·shl·/
 Modified /·maa·duh·fide·/
 Municipal /·myoo·ni·suh·pl·/
 Naval /·nay·vl·/
@@ -3381,7 +3380,6 @@ Asset /·a·suht·/
 Assuming /·uh·soo·muhng·/
 Backing /·ba·kuhng·/
 Baker /·bay·kr·/
-To /·/ /·Brazilian /·Portuguese /·pronunciationSounds /·liketu·/
 Brush /·bruhsh·/
 Burden /·bur·dn·/
 Carries /·keh·reez·/
@@ -3393,7 +3391,7 @@ Coalition /·kow·uh·li·shn·/
 Complain /·kuhm·playn·/
 Complaints /·kuhm·playnts·/
 Controversial /·kaan·truh·vur·shl·/
-DenverCity /·in /·Colorado /·den·vr·/
+Denver /·den·vr·/
 Describing /·duh·skrai·buhng·/
 Differently /·di·fr·uhnt·lee·/
 Directions /·dr·ek·shnz·/
@@ -3415,12 +3413,12 @@ Jumping /·juhm·puhng·/
 Laptop /·lap·taap·/
 Legendary /·leh·juhn·deh·ree·/
 Maker /·may·kr·/
-MarioMario /·Series /·- /·Game /·series /·maa·ree·ow·/
+Mario /·maa·ree·ow·/
 Opponents /·uh·pow·nuhnts·/
 Outdoor /·owt·dor·/
 Photograph /·fow·tuh·graf·/
 Quarters /·kwor·trz·/
-QueenslandAustralian /·State /·kweenz·land·/
+Queensland /·kweenz·land·/
 Rangers /·rayn·jrz·/
 Ranks /·rangks·/
 Reception /·ruh·sep·shn·/
@@ -3438,7 +3436,7 @@ Strict /·strikt·/
 Subsequently /·suhb·suh·kwuhnt·lee·/
 Substance /·suhb·stns·/
 Suggestion /·suhg·jes·chn·/
-SwitzerlandCountry /·in /·Europe /·swit·sr·luhnd·/
+Switzerland /·swit·sr·luhnd·/
 Syndrome /·sin·drowm·/
 Tasks /·tasks·/
 Trips /·trips·/
@@ -3450,16 +3448,15 @@ Accidentally /·ak·suh·den·tuh·lee·/
 Affordable /·uh·for·duh·bl·/
 Amateur /·a·muh·chr·/
 Appeals /·uh·peelz·/
-ArgentinaCountry /·in /·South /·America /·aar·juhn·tee·nuh·/
-BaltimoreCity /·in /·Maryland /·baal·tuh·mor·/
-BatmanComic /·book /·character /·bat·man·/
+Argentina /·aar·juhn·tee·nuh·/
+Baltimore /·baal·tuh·mor·/
+Batman /·bat·man·/
 Bearing /·beh·ruhng·/
 Beats /·beets·/
 Biology /·bai·aa·luh·jee·/
 Bobby /·baa·bee·/
 Briefly /·bree·flee·/
 Canal /·kuh·nal·/
-CancelledBritish /·pronunciationSounds /·likekan·sld·/
 Cheaper /·chee·pr·/
 Climb /·klime·/
 Competing /·kuhm·pee·tuhng·/
@@ -3500,14 +3497,14 @@ Productive /·prow·duhk·tuhv·/
 Reminds /·ruh·minedz·/
 Reserves /·ruh·zurvz·/
 Safely /·say·flee·/
-ShirtsShirt /·- /·Garment /·shurts·/
+Shirts /·shurts·/
 Shorter /·shor·tr·/
 Slight /·slite·/
 Socialist /·sow·shuh·luhst·/
 Streaming /·stree·muhng·/
 Targeted /·taar·guh·tuhd·/
 Tension /·ten·shn·/
-ThailandCountry /·in /·Asia /·tai·land·/
+Thailand /·tai·land·/
 Theories /·thee·ur·eez·/
 Touching /·tuh·chuhng·/
 Transactions /·tran·zak·shnz·/
@@ -3523,7 +3520,7 @@ Bitter /·bi·tr·/
 Blown /·blown·/
 Branches /·bran·chuhz·/
 Campaigns /·kam·paynz·/
-ChipsPotato /·chip /·- /·Food /·chips·/
+Chips /·chips·/
 Clever /·kleh·vr·/
 Clinic /·kli·nuhk·/
 Closest /·klow·suhst·/
@@ -3562,7 +3559,7 @@ Manufacturer /·ma·nyoo·fak·chr·ur·/
 Meters /·mee·trz·/
 Negotiations /·nuh·gow·shee·ay·shnz·/
 Nonsense /·naan·sens·/
-OntarioCanadian /·Province /·aan·teh·ree·ow·/
+Ontario /·aan·teh·ree·ow·/
 Operational /·aa·pr·ay·shuh·nuhl·/
 Phoenix /·fee·nuhks·/
 Playoffs /·play·aafs·/
@@ -3575,9 +3572,9 @@ Slavery /·slay·vr·ee·/
 Sorts /·sorts·/
 Souls /·sowlz·/
 Stole /·stowl·/
-SwedishSwedish /·language /·- /·Spoken /·language /·swee·duhsh·/
-SwissSwitzerland /·- /·Country /·in /·Europe /·swis·/
-TennesseeAmerican /·state /·teh·nuh·see·/
+Swedish /·swee·duhsh·/
+Swiss /·swis·/
+Tennessee /·teh·nuh·see·/
 Transaction /·tran·zak·shn·/
 Transformation /·tran·sfr·may·shn·/
 Veteran /·veh·tr·uhn·/
@@ -3613,16 +3610,16 @@ Germans /·jur·muhnz·/
 Hated /·hay·tuhd·/
 Incorporated /·uhn·kor·pr·ay·tuhd·/
 Influenced /·in·floo·uhnst·/
-JerusalemCapital /·of /·Israel /·jr·oo·suh·luhm·/
+Jerusalem /·jr·oo·suh·luhm·/
 Kidding /·ki·duhng·/
 Laser /·lay·zr·/
 Loyal /·loy·uhl·/
-MarijuanaCannabis /·- /·Drug /·meh·ruh·waa·nuh·/
+Marijuana /·meh·ruh·waa·nuh·/
 Mentally /·men·tuh·lee·/
 Missions /·mi·shnz·/
 Occupation /·aa·kyuh·pay·shn·/
 Opponent /·uh·pow·nuhnt·/
-PaintingsPainting /·- /·Visual /·art /·form /·payn·tuhngz·/
+Paintings /·payn·tuhngz·/
 Patch /·pach·/
 Patience /·pay·shns·/
 Pointing /·poyn·tuhng·/
@@ -3640,7 +3637,7 @@ Striking /·strai·kuhng·/
 Terrorists /·teh·rr·uhsts·/
 Tourist /·too·ruhst·/
 Transit /·tran·zuht·/
-TrucksTruck /·- /·Body /·style /·truhks·/
+Trucks /·truhks·/
 Trusted /·truh·stuhd·/
 Vessels /·veh·slz·/
 Volumes /·vaal·yoomz·/
@@ -3650,13 +3647,13 @@ Wright /·rite·/
 Adopt /·uh·daapt·/
 Airlines /·ehr·linez·/
 AlaskaAmerican /·state /·uh·la·skuh·/
-AlbumsAlbum /·- /·Musical /·album /·type /·al·bmz·/
+Albums /·al·bmz·/
 Anytime /·eh·nee·time·/
 Bacteria /·bak·tee·ree·uh·/
 Beings /·bee·uhngz·/
 Beside /·buh·side·/
 Blade /·blayd·/
-BottlesBottle /·- /·Beer /·container /·baa·tlz·/
+Bottles /·baa·tlz·/
 Bucks /·buhks·/
 Camps /·kamps·/
 Cargo /·kaar·gow·/
@@ -3688,10 +3685,10 @@ Graphics /·gra·fuhks·/
 Humor /·hyoo·mr·/
 Insight /·in·site·/
 Invested /·uhn·veh·stuhd·/
-FilmMagicJenniferJennifer /·Lopez /·- /·American /·actress /·jeh·nuh·fr·/
-LouisianaAmerican /·state /·loo·ee·zee·a·nuh·/
+Jennifer /·jeh·nuh·fr·/
+LouisianaAmerican /·loo·ee·zee·a·nuh·/
 Meals /·meelz·/
-MississippiAmerican /·state /·mi·suh·si·pee·/
+Mississippi /·mi·suh·si·pee·/
 Nerve /·nurv·/
 Nightmare /·nite·mehr·/
 Operators /·aa·pr·ay·trz·/
@@ -3796,13 +3793,13 @@ Stressed /·strest·/
 Structural /·struhk·chr·uhl·/
 Suite /·sweet·/
 Tropical /·traa·puh·kl·/
-UkrainianUkrainian /·language /·- /·Spoken /·language /·yoo·kray·nee·uhn·/
+Ukrainian /·yoo·kray·nee·uhn·/
 Unnecessary /·uhn·neh·suh·seh·ree·/
 Verse /·vurs·/
 Victor /·vik·tr·/
 Vintage /·vin·tuhj·/
 Warned /·wornd·/
-WatsonWatsons /·- /·Health /·care /·company /·waat·sn·/
+Watson /·waat·sn·/
 Acres /·ay·krz·/
 Adapted /·uh·dap·tuhd·/
 Adoption /·uh·daap·shn·/
@@ -3891,10 +3888,10 @@ Exhibit /·uhg·zi·buht·/
 Gentleman /·jen·tuhl·muhn·/
 HalloweenCelebration /·haa·luh·ween·/
 Hammer /·ha·mr·/
-Getty /·ImagesHitler /·hit·lr·/
+Hitler /·hit·lr·/
 Hosting /·how·stuhng·/
 Imposed /·uhm·powzd·/
-IndigenousIndigenous /·peoples /·uhn·di·juh·nuhs·/
+Indigenous /·uhn·di·juh·nuhs·/
 Infinite /·in·fuh·nuht·/
 Installation /·in·stuh·lay·shn·/
 Interactions /·in·tr·ak·shnz·/
@@ -3908,7 +3905,7 @@ MaineAmerican /·state /·mayn·/
 Makers /·may·krz·/
 Manhattan /·man·ha·tn·/
 Marathon /·meh·ruh·thaan·/
-MarvelMarvel /·Comics /·- /·Publishing /·company /·maar·vl·/
+Marvel /·maar·vl·/
 Moreover /·maw·row·vr·/
 Parade /·pr·ayd·/
 Paradise /·peh·ruh·dise·/
@@ -3938,7 +3935,7 @@ Sunshine /·suhn·shine·/
 Teens /·teenz·/
 Tommy /·taa·mee·/
 Travelling /·tra·vuh·luhng·/
-VancouverCity /·in /·Canada /·van·koo·vr·/
+Vancouver /·van·koo·vr·/
 Vocal /·vow·kl·/
 Warrior /·waw·ree·ur·/
 Worries /·wur·eez·/
@@ -3949,7 +3946,7 @@ Adventures /·uhd·ven·chrz·/
 Appearing /·uh·pee·ruhng·/
 BaconFood /·bay·kn·/
 Barrier /·beh·ree·ur·/
-BelgiumCountry /·in /·Europe /·bel·jm·/
+Belgium /·bel·jm·/
 Believing /·buh·lee·vuhng·/
 Blacks /·blaks·/
 Bombs /·baamz·/
@@ -3974,7 +3971,7 @@ Inform /·uhn·form·/
 Lesbian /·lez·bee·uhn·/
 Lovers /·luh·vrz·/
 Mathematics /·ma·thuh·ma·tuhks·/
-MedicationPharmaceutical /·drug /·meh·duh·kay·shn·/
+Medication /·meh·duh·kay·shn·/
 Minded /·mine·duhd·/
 NorwayCountry /·in /·Europe /·nor·way·/
 Portfolio /·port·fow·lee·ow·/
@@ -3996,7 +3993,7 @@ Strain /·strayn·/
 Suspected /·suh·spek·tuhd·/
 Swift /·swift·/
 Tackle /·ta·kl·/
-TigersTiger /·- /·Animal /·tai·grz·/
+Tigers /·tai·grz·/
 Timeline /·time·line·/
 Torture /·tor·chr·/
 Traded /·tray·duhd·/
@@ -4008,7 +4005,7 @@ Vegetables /·vej·tuh·blz·/
 Vertical /·vur·tuh·kl·/
 Violation /·vai·uh·lay·shn·/
 Wallet /·waa·luht·/
-WelshWelsh /·language /·- /·Spoken /·language /·welsh·/
+Welsh /·welsh·/
 Workshop /·wurk·shaap·/
 Wrapped /·rapt·/
 Aboard /·uh·bord·/
@@ -4127,11 +4124,11 @@ Gentlemen /·jen·tuhl·muhn·/
 Goodness /·gud·nuhs·/
 GuiltEmotion /·gilt·/
 Haven /·hay·vn·/
-HelicopterAircraft /·type /·heh·luh·kaap·tr·/
+Helicopter /·heh·luh·kaap·tr·/
 Homework /·howm·wrk·/
 Households /·hows·howldz·/
 Infected /·uhn·fek·tuhd·/
-KenyaCountry /·in /·East /·Africa /·ken·yuh·/
+Kenya /·ken·yuh·/
 Lesser /·leh·sr·/
 Liberals /·li·br·uhlz·/
 Mandatory /·man·duh·taw·ree·/
@@ -4143,7 +4140,7 @@ Observation /·aab·zr·vay·shn·/
 Operates /·aa·pr·ayts·/
 Permitted /·pr·mi·tuhd·/
 Phenomenon /·fuh·naa·muh·naan·/
-PittsburghCity /·in /·Pennsylvania /·pits·brg·/
+Pittsburgh /·pits·brg·/
 Playoff /·play·aaf·/
 Precise /·pruh·sise·/
 Profession /·pruh·feh·shn·/
@@ -4169,18 +4166,18 @@ Washing /·waa·shuhng·/
 Adjacent /·uh·jay·snt·/
 Agreements /·uh·gree·muhnts·/
 Appreciation /·uh·pree·shee·ay·shn·/
-ArabiaPeninsula /·in /·Asia /·uh·ray·bee·uh·/
+Arabia /·uh·ray·bee·uh·/
 Athletic /·ath·leh·tuhk·/
 Authorized /·aa·thr·ized·/
 Banner /·ba·nr·/
-BeijingCapital /·of /·China /·bay·jing·/
+Beijing /·bay·jing·/
 Blocking /·blaa·kuhng·/
 CaribbeanRegion /·kr·i·bee·uhn·/
 Charm /·chaarm·/
 Chasing /·chay·suhng·/
 Climbing /·klai·muhng·/
 Complaining /·kuhm·play·nuhng·/
-CookiesCookie /·- /·Food /·ku·keez·/
+Cookies /·ku·keez·/
 Cruel /·krool·/
 Curriculum /·kr·i·kyoo·luhm·/
 Deadline /·ded·line·/
@@ -4196,7 +4193,7 @@ Exercises /·ek·sr·sai·zuhz·/
 Feminist /·feh·muh·nuhst·/
 Governing /·guh·vr·nuhng·/
 Interface /·in·tr·fays·/
-JewelryJewellery /·- /·Organisation /·type /·jool·ree·/
+Jewelry /·jool·ree·/
 Journalism /·jur·nuh·li·zm·/
 Julia /·joo·lee·uh·/
 Jungle /·juhng·gl·/
@@ -4211,7 +4208,7 @@ Provisions /·pruh·vi·zhnz·/
 Pursuit /·pr·soot·/
 Reflected /·ruh·flek·tuhd·/
 Reminder /·ruh·mine·dr·/
-RichmondCity /·in /·Virginia /·rich·muhnd·/
+Richmond /·rich·muhnd·/
 Ridge /·rij·/
 Samsung /·sam·suhng·/
 Scholars /·skaa·lrz·/
@@ -4223,7 +4220,7 @@ Tends /·tendz·/
 Tribe /·tribe·/
 Unfortunate /·uhn·for·chuh·nuht·/
 Variable /·veh·ree·uh·bl·/
-VictorianVictorian /·era /·vuhk·taw·ree·uhn·/
+Victorian /·vuhk·taw·ree·uhn·/
 Worrying /·wur·ee·uhng·/
 Zones /·zownz·/
 Adjusted /·uh·juh·stuhd·/
@@ -4238,11 +4235,11 @@ Chains /·chaynz·/
 Closure /·klow·zhr·/
 Cognitive /·kaag·nuh·tuhv·/
 Competitors /·kuhm·peh·tuh·trz·/
-ConnecticutAmerican /·state /·kuh·neh·tuh·kuht·/
+Connecticut /·kuh·neh·tuh·kuht·/
 Cooked /·kukt·/
 Deciding /·dee·sai·duhng·/
 Defender /·duh·fen·dr·/
-DentalDentistry /·- /·Branch /·of /·medicine /·den·tl·/
+Dental /·den·tl·/
 Diplomatic /·di·pluh·ma·tuhk·/
 Divisions /·duh·vi·zhnz·/
 Editorial /·eh·duh·taw·ree·uhl·/
@@ -4315,7 +4312,7 @@ Declaration /·deh·klr·ay·shn·/
 Derby /·dur·bee·/
 Distinction /·duh·stingk·shn·/
 Donations /·dow·nay·shnz·/
-DragonsDragon /·- /·Mythical /·creature /·dra·gnz·/
+Dragons /·dra·gnz·/
 Draws /·draaz·/
 Examined /·uhg·za·muhnd·/
 Facial /·fay·shl·/
@@ -4374,7 +4371,7 @@ Bombing /·baa·muhng·/
 Challenged /·cha·luhnjd·/
 Cigarettes /·si·gr·ets·/
 Consisting /·kuhn·si·stuhng·/
-DairyDairy /·product /·- /·Food /·deh·ree·/
+Dairy /·deh·ree·/
 Dakota /·duh·kow·tuh·/
 Darling /·daar·luhng·/
 Delighted /·duh·lai·tuhd·/
@@ -4389,7 +4386,7 @@ Edges /·eh·juhz·/
 Entries /·en·treez·/
 Evolved /·ee·vaalvd·/
 Fixing /·fik·suhng·/
-FlagsFlag /·- /·Official /·symbol /·variety /·flagz·/
+Flags /·flagz·/
 Flies /·flize·/
 Forecast /·for·kast·/
 Governance /·guh·vr·nuhns·/
@@ -4409,7 +4406,7 @@ Mentions /·men·shnz·/
 Musicians /·myoo·zi·shnz·/
 OlivePlant /·aa·luhv·/
 Passionate /·pa·shuh·nuht·/
-PotatoesPotato /·- /·Food /·puh·tay·towz·/
+Potatoes /·puh·tay·towz·/
 Prevented /·pruh·ven·tuhd·/
 Receiver /·ruh·see·vr·/
 Recommendation /·reh·kuh·men·day·shn·/
@@ -4455,8 +4452,8 @@ Comparable /·kaam·pr·uh·bl·/
 Confirmation /·kaan·fr·may·shn·/
 Contributing /·kuhn·tri·byoo·tuhng·/
 Diameter /·dai·a·muh·tr·/
-DubaiCity /·in /·the /·United /·Arab /·Emirates /·doo·bai·/
-DublinCapital /·of /·the /·Republic /·of /·Ireland /·duh·bluhn·/
+Dubai /·doo·bai·/
+Dublin /·duh·bluhn·/
 Dynamics /·dai·na·muhks·/
 ElephantAnimal /·eh·luh·fnt·/
 Enhanced /·uhn·hanst·/
@@ -4485,7 +4482,7 @@ Lords /·lordz·/
 Merchant /·mur·chnt·/
 Merit /·meh·ruht·/
 Micro /·mai·krow·/
-NintendoVideo /·game /·company /·nuhn·ten·dow·/
+Nintendo /·nuhn·ten·dow·/
 Objectives /·uhb·jek·tuhvz·/
 Obsessed /·uhb·sest·/
 Overwhelming /·ow·vr·wel·muhng·/
@@ -4534,7 +4531,7 @@ Answering /·an·sr·uhng·/
 Assess /·uh·ses·/
 Assumption /·uh·suhmp·shn·/
 Assured /·uh·shurd·/
-AustriaCountry /·in /·Europe /·aa·stree·uh·/
+Austria /·aa·stree·uh·/
 Avoided /·uh·voy·duhd·/
 Avoiding /·uh·voy·duhng·/
 Basket /·ba·skuht·/
@@ -4545,7 +4542,7 @@ Bucket /·buh·kuht·/
 Burger /·bur·gr·/
 Capability /·kay·puh·bi·luh·tee·/
 Charming /·chaar·muhng·/
-ChiefsKansas /·City /·Chiefs /·- /·American /·football /·team /·cheefs·/
+Chiefs /·cheefs·/
 Commented /·kaa·men·tuhd·/
 Computing /·kuhm·pyoo·tuhng·/
 Concentrate /·kaan·suhn·trayt·/
@@ -4569,7 +4566,7 @@ Horizon /·hr·ai·zn·/
 Hostile /·haa·stl·/
 Imagined /·uh·ma·jnd·/
 Inhabitants /·in·ha·buh·tnts·/
-IntelSemiconductor /·corporation /·in·tel·/
+Intel /·in·tel·/
 Kicks /·kiks·/
 Legends /·leh·jndz·/
 MagazinesMagazine /·ma·guh·zeenz·/
@@ -4578,10 +4575,10 @@ Measuring /·meh·zhr·uhng·/
 Miserable /·mi·zr·uh·bl·/
 Momentum /·mow·men·tm·/
 Monkey /·muhng·kee·/
-MontrealCity /·in /·Canada /·maan·tree·aal·/
-MotorcycleSports /·equipment /·mow·tr·sai·kl·/
+Montreal /·maan·tree·aal·/
+Motorcycle /·mow·tr·sai·kl·/
 Nationwide /·nay·shuhn·wide·/
-NewcastleNewcastle /·upon /·Tyne /·- /·City /·in /·England /·noo·ka·sl·/
+Newcastle /·noo·ka·sl·/
 Nicely /·nai·slee·/
 Ninth /·nineth·/
 Nomination /·naa·muh·nay·shn·/
@@ -4624,7 +4621,7 @@ Ashamed /·uh·shaymd·/
 Assure /·uh·shur·/
 Bailey /·bay·lee·/
 Ballot /·ba·luht·/
-BatteriesElectric /·battery /·ba·tr·eez·/
+Batteries /·ba·tr·eez·/
 Blessing /·bleh·suhng·/
 Cemetery /·seh·muh·teh·ree·/
 Chambers /·chaym·brz·/
@@ -4722,7 +4719,7 @@ Disturbing /·duh·stur·buhng·/
 DressesDress /·- /·Garment /·dreh·suhz·/
 Effectiveness /·uh·fek·tuhv·nuhs·/
 Eliminated /·uh·li·muh·nay·tuhd·/
-Getty /·ImagesEllenEllen /·DeGeneres /·- /·American /·comedian /·eh·luhn·/
+Ellen /·eh·luhn·/
 Embarrassed /·uhm·beh·ruhst·/
 Exceptional /·ik·sep·shuh·nuhl·/
 Filing /·fai·luhng·/
@@ -4762,9 +4759,9 @@ Speeds /·speedz·/
 Stack /·stak·/
 Stance /·stans·/
 Static /·sta·tuhk·/
-SubwayFast /·food /·restaurant /·company /·suhb·way·/
+Subway /·suhb·way·/
 Supportive /·suh·por·tuhv·/
-SurgicalSurgery /·- /·Medical /·specialty /·sur·juh·kl·/
+Surgical /·sur·juh·kl·/
 Symbols /·sim·blz·/
 Tablet /·ta·bluht·/
 Thesis /·thee·suhs·/
@@ -4783,18 +4780,17 @@ Argues /·aar·gyooz·/
 Audit /·aa·duht·/
 Authentic /·aa·then·tuhk·/
 Backwards /·ba·kwrdz·/
-BlondeBritish /·pronunciationSounds /·likeblond·/
 Blows /·blowz·/
 Brooks /·bruks·/
 Clearing /·klee·ruhng·/
 Clips /·klips·/
 Collar /·kaa·lr·/
-ColumbusCity /·in /·Ohio /·kuh·luhm·buhs·/
+Columbus /·kuh·luhm·buhs·/
 Comply /·kuhm·plai·/
 Counted /·kown·tuhd·/
 Crashed /·krasht·/
 Creepy /·kree·pee·/
-DenmarkCountry /·in /·Europe /·den·maark·/
+Denmark /·den·maark·/
 Divorced /·duh·vorst·/
 Donate /·dow·nayt·/
 Drawings /·draa·uhngz·/
@@ -4808,7 +4804,7 @@ Finale /·fuh·na·lee·/
 Flavor /·flay·vr·/
 Floors /·florz·/
 Freaking /·free·kuhng·/
-GlovesGlove /·- /·Garment /·gluhvz·/
+Gloves /·gluhvz·/
 Harper /·haar·pr·/
 Ignorance /·ig·nr·uhns·/
 Ignoring /·uhg·naw·ruhng·/
@@ -4830,7 +4826,7 @@ Newest /·noo·uhst·/
 Nonetheless /·nuhn·thuh·les·/
 Opposing /·uh·pow·zuhng·/
 Origins /·aw·ruh·jnz·/
-OrlandoCity /·in /·Florida /·or·lan·dow·/
+Orlando /·or·lan·dow·/
 Physicians /·fuh·zi·shnz·/
 Pipeline /·pipe·line·/
 Placement /·plays·muhnt·/
@@ -4839,7 +4835,7 @@ Pricing /·prai·suhng·/
 Questioning /·kwes·chuh·nuhng·/
 Renewed /·ruh·nood·/
 Shallow /·sha·low·/
-ShanghaiMunicipality /·in /·China /·shang·hai·/
+Shanghai /·shang·hai·/
 Singh /·sing·/
 Sketch /·skech·/
 Smells /·smelz·/
@@ -4858,12 +4854,12 @@ Yelling /·yeh·luhng·/
 Yorkshire /·york·shr·/
 Achieving /·uh·chee·vuhng·/
 Aliens /·ay·lee·uhnz·/
-AmsterdamCapital /·of /·the /·Netherlands /·am·str·dam·/
+Amsterdam /·am·str·dam·/
 Analyst /·a·nuh·luhst·/
-ArabicArabic /·Language /·- /·Spoken /·language /·eh·ruh·buhk·/
+Arabic /·eh·ruh·buhk·/
 Arctic /·aark·tuhk·/
 Assists /·uh·sists·/
-Getty /·ImagesBristolCity /·in /·England /·bri·stl·/
+Bristol /·bri·stl·/
 Burnt /·burnt·/
 CaloriesCalorie /·ka·lr·eez·/
 CannabisDrug /·ka·nuh·buhs·/
@@ -5099,7 +5095,7 @@ Wrist /·rist·/
 Abused /·uh·byoozd·/
 Acute /·uh·kyoot·/
 Admiral /·ad·mr·uhl·/
-Getty /·ImagesArnoldArnold /·Schwarzenegger /·- /·Former /·Governor /·of /·California /·aar·nuhld·/
+Arnold /·aar·nuhld·/
 Arrange /·uh·raynj·/
 Banana /·buh·na·nuh·/
 Behave /·bee·hayv·/
@@ -5141,7 +5137,7 @@ Inspire /·uhn·spai·ur·/
 Institutional /·in·stuh·too·shuh·nuhl·/
 Interim /·in·tr·uhm·/
 Interviewed /·in·tr·vyood·/
-Getty /·ImagesJeffersonThomas /·Jefferson /·- /·3rd /·U.S. /·President /·jeh·fr·sn·/
+Jefferson /·jeh·fr·sn·/
 Kindly /·kined·lee·/
 Kindness /·kined·nuhs·/
 Leaked /·leekt·/
@@ -5164,7 +5160,7 @@ Puppy /·puh·pee·/
 Recruitment /·ruh·kroot·muhnt·/
 Screwed /·skrood·/
 Shades /·shaydz·/
-Getty /·ImagesShakespeareWilliam /·Shakespeare /·- /·English /·playwright /·shayk·speer·/
+Shakespeare /·shayk·speer·/
 Slice /·slise·/
 Spelling /·speh·luhng·/
 Spurs /·spurz·/
@@ -5295,11 +5291,11 @@ Intake /·in·tayk·/
 Irrelevant /·ur·eh·luh·vnt·/
 Kitty /·ki·tee·/
 Manufacture /·ma·nyoo·fak·chr·/
-Getty /·ImagesMarthaMartha /·Stewart /·- /·American /·businesswoman /·maar·thuh·/
+Martha /·maar·thuh·/
 Medals /·meh·dlz·/
 MercedesMercedes-Benz /·- /·Luxury /·vehicles /·company /·mr·say·deez·/
 Mistaken /·mi·stay·kn·/
-Getty /·ImagesMoses /·mow·zuhs·/
+Moses /·mow·zuhs·/
 NashvilleCity /·in /·Tennessee /·na·shvil·/
 NebraskaAmerican /·state /·nuh·brae·skuh·/
 Needle /·nee·dl·/
@@ -5343,7 +5339,7 @@ Autism /·aa·ti·zm·/
 Bachelor /·ba·chuh·lr·/
 Berry /·beh·ree·/
 Billions /·bil·ynz·/
-Getty /·ImagesBradyTom /·Brady /·- /·American /·football /·quarterback /·bray·dee·/
+Brady /·bray·dee·/
 Bulls /·bulz·/
 Bullying /·bu·lee·uhng·/
 Capitalism /·ka·puh·tuh·li·zm·/
@@ -5581,7 +5577,7 @@ Plasma /·plaz·muh·/
 Punish /·puh·nuhsh·/
 Purse /·purs·/
 Quarterback /·kwor·tr·bak·/
-Getty /·ImagesReaganRonald /·Reagan /·- /·40th /·U.S. /·President /·ray·gn·/
+Reagan /·ray·gn·/
 Relieved /·ruh·leevd·/
 Replies /·ruh·plize·/
 Reservation /·reh·zr·vay·shn·/
@@ -5726,7 +5722,7 @@ Implied /·uhm·plide·/
 Inability /·i·nuh·bi·luh·tee·/
 Incoming /·in·kuh·muhng·/
 IsaacAbraham's /·son /·ai·zuhk·/
-Getty /·ImagesLeicesterCity /·in /·England /·leh·str·/
+Leicester /·leh·str·/
 Litigation /·li·tuh·gay·shn·/
 MineralsMineral /·mi·nr·uhlz·/
 Miners /·mai·nrz·/
@@ -5897,7 +5893,7 @@ Implementing /·im·pluh·men·tuhng·/
 Inherited /·uhn·heh·ruh·tuhd·/
 Killers /·ki·lrz·/
 Labeled /·lay·bld·/
-Getty /·ImagesLeBronLeBron /·James /·- /·American /·professional /·basketball /·player /·luh·braan·/
+LeBronLeBron /·luh·braan·/
 Liberation /·li·br·ay·shn·/
 Likelihood /·lai·klee·hud·/
 Massacre /·ma·suh·kr·/
@@ -5906,7 +5902,7 @@ Nationalist /·na·shuh·nuh·luhst·/
 Nationals /·na·shuh·nuhlz·/
 Necessity /·nuh·seh·suh·tee·/
 Nickname /·nik·naym·/
-UIG /·via /·Getty /·ImagesNixonRichard /·Nixon /·- /·37th /·U.S. /·President /·nik·sn·/
+Nixon /·nik·sn·/
 Observer /·uhb·zur·vr·/
 Optional /·aap·shuh·nuhl·/
 Parked /·paarkt·/
@@ -6092,18 +6088,18 @@ Hacking /·ha·kuhng·/
 Hawks /·haaks·/
 Highlighted /·hai·lai·tuhd·/
 Holocaust /·haa·luh·kaast·/
-Getty /·ImagesHomerGreek /·poet /·how·mr·/
+Homer /·how·mr·/
 Imprisonment /·im·pri·zuhn·muhnt·/
 Indonesian /·in·duh·nee·zhn·/
 Jenny /·jeh·nee·/
 Lacks /·laks·/
 Landlord /·land·lord·/
 Landmark /·land·maark·/
-LankaSri /·Lanka /·- /·Country /·in /·South /·Asia /·laang·kuh·/
+Lanka /·laang·kuh·/
 Launches /·laan·chuhz·/
 Leaning /·lee·nuhng·/
 Liable /·lai·uh·bl·/
-MemphisCity /·in /·Tennessee /·mem·fuhs·/
+Memphis /·mem·fuhs·/
 Midst /·midst·/
 Misery /·mi·zr·ee·/
 Module /·maa·jool·/
@@ -6123,7 +6119,7 @@ Raids /·raydz·/
 Recruit /·ruh·kroot·/
 Resting /·reh·stuhng·/
 Rogue /·rowg·/
-Getty /·ImagesRooseveltFranklin /·D. /·Roosevelt /·- /·32nd /·U.S. /·President /·row·zuh·velt·/
+Roosevelt /·row·zuh·velt·/
 Salaries /·sa·lr·eez·/
 Seated /·see·tuhd·/
 Sharply /·shaarp·lee·/
@@ -6149,11 +6145,11 @@ Adjustment /·uh·juhst·muhnt·/
 Assignments /·uh·sine·muhnts·/
 Attachment /·uh·tach·muhnt·/
 Baron /·beh·ruhn·/
-BeatlesThe /·Beatles /·- /·Rock /·band /·bee·tlz·/
-BelfastCapital /·of /·Northern /·Ireland /·bel·fast·/
+Beatles /·bee·tlz·/
+Belfast /·bel·fast·/
 Blaming /·blay·muhng·/
 Bomber /·baa·mr·/
-BunnyRabbit /·- /·Animal /·buh·nee·/
+Bunny /·buh·nee·/
 Candle /·kan·dl·/
 Carved /·kaarvd·/
 Choir /·kwai·ur·/
@@ -6170,7 +6166,7 @@ Critically /·kri·tuh·klee·/
 Distracted /·duh·strak·tuhd·/
 Dolphins /·daal·fnz·/
 Estates /·uh·stayts·/
-FerrariFerrari /·S.p.A. /·- /·Car /·manufacturer /·fr·aa·ree·/
+Ferrari /·fr·aa·ree·/
 Filters /·fil·trz·/
 Fools /·foolz·/
 Fourteen /·for·teen·/
@@ -6193,8 +6189,8 @@ Knocking /·naa·kuhng·/
 Leaks /·leeks·/
 Leverage /·leh·vr·ij·/
 Lining /·lai·nuhng·/
-LutherBritish /·thriller /·series /·loo·thr·/
-ManilaCapital /·of /·the /·Philippines /·muh·ni·luh·/
+Luther /·loo·thr·/
+Manila /·muh·ni·luh·/
 Mankind /·man·kined·/
 Mapping /·ma·puhng·/
 Masks /·masks·/
@@ -6233,13 +6229,13 @@ Thief /·theef·/
 Transported /·tran·spor·tuhd·/
 Tribunal /·trai·byoo·nuhl·/
 Undoubtedly /·uhn·dau·tuhd·lee·/
-UniformsUniform /·- /·Costume /·yoo·nuh·formz·/
+Uniforms /·yoo·nuh·formz·/
 Verify /·veh·ruh·fai·/
 Villain /·vi·luhn·/
 Whistle /·wi·sl·/
 Workshops /·wurk·shaaps·/
 Yearly /·yeer·lee·/
-YemenCountry /·in /·the /·Middle /·East /·yeh·muhn·/
+Yemen /·yeh·muhn·/
 Abusive /·uh·byoo·siv·/
 Alley /·a·lee·/
 Announcing /·uh·nown·suhng·/
@@ -6247,7 +6243,7 @@ Appetite /·a·puh·tite·/
 Backyard /·bak·yaard·/
 Billboard /·bil·bord·/
 Blades /·blaydz·/
-Getty /·ImagesBorisBoris /·Johnson /·- /·Former /·Prime /·Minister /·of /·the /·United /·Kingdom /·baw·ruhs·/
+Boris /·baw·ruhs·/
 Bully /·bu·lee·/
 Burke /·burk·/
 Cables /·kay·blz·/
@@ -6285,9 +6281,9 @@ Marsh /·maarsh·/
 Marshal /·maar·shl·/
 Maturity /·muh·chur·uh·tee·/
 Messy /·meh·see·/
-MinneapolisCity /·in /·Minnesota /·mi·nee·a·puh·luhs·/
+Minneapolis /·mi·nee·a·puh·luhs·/
 Molly /·maa·lee·/
-Gamma-Rapho /·via /·Getty /·ImagesMuhammadReligious /·leader /·muh·haa·muhd·/
+Muhammad /·muh·haa·muhd·/
 Neighboring /·nay·br·uhng·/
 Ninja /·nin·juh·/
 Optimistic /·aap·tuh·mi·stik·/
@@ -6301,7 +6297,7 @@ Problematic /·praa·bluh·ma·tik·/
 Proceeded /·pruh·see·duhd·/
 Promotional /·pruh·mow·shuh·nuhl·/
 Prospective /·pruh·spek·tuhv·/
-PsychiatricPsychiatry /·- /·Medical /·specialty /·sai·kee·a·truhk·/
+Psychiatric /·sai·kee·a·truhk·/
 Regulate /·reh·gyuh·layt·/
 RenaissanceArt /·period /·reh·nuh·saans·/
 Repeal /·ruh·peel·/
@@ -6333,7 +6329,7 @@ AlbertaCanadian /·Province /·al·bur·tuh·/
 Antique /·an·teek·/
 Autonomy /·aa·taa·nuh·mee·/
 Baptist /·bap·tuhst·/
-Getty /·ImagesBidenJoe /·Biden /·- /·46th /·U.S. /·President /·bai·dn·/
+BidenJoe /·Biden /·- /·46th /·U.S. /·President /·bai·dn·/
 Booking /·bu·kuhng·/
 Breeze /·breez·/
 Browns /·brownz·/
@@ -6417,7 +6413,7 @@ Symbolic /·sim·baa·lik·/
 Taxpayer /·taks·pay·ur·/
 Tempted /·temp·tuhd·/
 Thrust /·thruhst·/
-Getty /·Images /·for /·Entertainment /·WeeklyTrevorTrevor /·Noah /·- /·South /·African /·comedian /·treh·vr·/
+ /·for /·Entertainment /·WeeklyTrevorTrevor /·Noah /·- /·South /·African /·comedian /·treh·vr·/
 Trilogy /·tri·luh·jee·/
 Weights /·wayts·/
 Wheelchair /·weel·chehr·/
@@ -6614,7 +6610,7 @@ Breakthrough /·brayk·throo·/
 Charities /·cheh·ruh·teez·/
 Cheering /·chee·ruhng·/
 Chooses /·choo·zuhz·/
-Getty /·ImagesChurchillWinston /·Churchill /·- /·Former /·Prime /·Minister /·of /·the /·United /·Kingdom /·chur·chil·/
+ChurchillWinston /·Churchill /·- /·Former /·Prime /·Minister /·of /·the /·United /·Kingdom /·chur·chil·/
 Combinations /·kaam·buh·nay·shnz·/
 Commenting /·kaa·men·tuhng·/
 Competitions /·kaam·puh·ti·shnz·/
@@ -6623,7 +6619,7 @@ Convey /·kuhn·vay·/
 Critique /·kruh·teek·/
 Crushing /·kruh·shuhng·/
 Curved /·kurvd·/
-De /·Agostini /·via /·Getty /·ImagesCyrusCyrus /·the /·Great /·- /·Persian /·king /·sai·ruhs·/
+De /·Agostini /·via /·CyrusCyrus /·the /·Great /·- /·Persian /·king /·sai·ruhs·/
 Decay /·duh·kay·/
 Declining /·duh·klai·nuhng·/
 Depressing /·duh·preh·suhng·/
@@ -6642,7 +6638,7 @@ Fireworks /·fai·ur·wurks·/
 Flown /·flown·/
 Founders /·fown·drz·/
 Freeman /·free·muhn·/
-Getty /·ImagesGandhiMahatma /·Gandhi /·- /·Indian /·lawyer /·gaan·dee·/
+GandhiMahatma /·Gandhi /·- /·Indian /·lawyer /·gaan·dee·/
 Gateway /·gay·tway·/
 Guarantees /·geh·ruhn·teez·/
 Humidity /·hyoo·mi·duh·tee·/
@@ -6709,7 +6705,7 @@ Utilized /·yoo·tuh·lized·/
 Vicious /·vi·shuhs·/
 Victories /·vik·tr·eez·/
 Vikings /·vai·kuhngz·/
-Getty /·ImagesVodkaAlcoholic /·beverage /·vaad·kuh·/
+VodkaAlcoholic /·beverage /·vaad·kuh·/
 Wholly /·how·lee·/
 Accidental /·ak·suh·den·tl·/
 Accounted /·uh·kown·tuhd·/
@@ -6729,7 +6725,7 @@ CapitaBusiness /·process /·outsourcing /·company /·ka·puh·tuh·/
 Certainty /·sur·tuhn·tee·/
 Cheeks /·cheeks·/
 ChickensChicken /·- /·Birds /·chi·knz·/
-Getty /·ImagesChristinaChristina /·Aguilera /·- /·American /·singer-songwriter /·kruh·stee·nuh·/
+ChristinaChristina /·Aguilera /·- /·American /·singer-songwriter /·kruh·stee·nuh·/
 Citation /·sai·tay·shn·/
 Clues /·klooz·/
 Collectively /·kuh·lek·tuhv·lee·/
@@ -7177,7 +7173,7 @@ DronesUnmanned /·aerial /·vehicle /·- /·Aircraft /·type /·drownz·/
 DurhamCity /·in /·England /·dur·uhm·/
 Ecological /·ee·kuh·laa·juh·kl·/
 Ecosystem /·ee·kow·si·stm·/
-Getty /·ImagesElvisElvis /·Presley /·- /·American /·singer /·el·vuhs·/
+ElvisElvis /·Presley /·- /·American /·singer /·el·vuhs·/
 Exclude /·uhk·sklood·/
 Exempt /·uhg·zempt·/
 Exposing /·uhk·spow·zuhng·/
@@ -7250,7 +7246,7 @@ UgandaCountry /·in /·East /·Africa /·yoo·gaan·duh·/
 Unwanted /·uhn·waan·tuhd·/
 Variant /·veh·ree·uhnt·/
 Vegetarian /·veh·juh·teh·ree·uhn·/
-ImaZins /·via /·Getty /·ImagesVernonRapper /·vur·nuhn·/
+ImaZins /·via /·VernonRapper /·vur·nuhn·/
 Visibility /·vi·zuh·bi·luh·tee·/
 Warnings /·wor·nuhngz·/
 Wherein /·weh·rin·/
@@ -7331,7 +7327,7 @@ Memoir /·mem·waar·/
 MiguelAmerican /·singer /·muh·gel·/
 Modification /·maa·duh·fuh·kay·shn·/
 Nailed /·nayld·/
-De /·Agostini/Getty /·ImagesNapoleonNapoleon /·Bonaparte /·- /·Former /·Emperor /·of /·the /·French /·nuh·pow·lee·uhn·/
+De /·Agostini/NapoleonNapoleon /·Bonaparte /·- /·Former /·Emperor /·of /·the /·French /·nuh·pow·lee·uhn·/
 Objection /·uhb·jek·shn·/
 Obliged /·uh·blijed·/
 Observers /·uhb·zur·vrz·/
@@ -7659,7 +7655,7 @@ Drying /·drai·uhng·/
 Dwelling /·dweh·luhng·/
 DwightDwight /·Schrute /·- /·Fictional /·character /·dwite·/
 Ecology /·ee·kaa·luh·jee·/
-Getty /·ImagesEinsteinAlbert /·Einstein /·- /·Theoretical /·physicist /·ine·stine·/
+EinsteinAlbert /·Einstein /·- /·Theoretical /·physicist /·ine·stine·/
 Emergence /·ee·mur·jns·/
 Enclosed /·uhn·klowzd·/
 Endurance /·uhn·dur·uhns·/
@@ -7773,14 +7769,14 @@ EmiratesAirline /·eh·mr·uhts·/
 Employing /·uhm·ploy·uhng·/
 Employs /·uhm·ployz·/
 Escaping /·uh·skay·puhng·/
-Getty /·ImagesEthiopiaCountry /·in /·East /·Africa /·ee·thee·ow·pee·uh·/
+EthiopiaCountry /·in /·East /·Africa /·ee·thee·ow·pee·uh·/
 Ethnicity /·eth·ni·suh·tee·/
 Eventual /·uh·ven·choo·uhl·/
 ExercisingExercise /·ek·sr·sai·zuhng·/
 Faded /·fay·duhd·/
 Firstly /·furst·lee·/
 Fluids /·floo·idz·/
-Getty /·ImagesFrancoFrancisco /·Franco /·- /·Former /·Caudillo /·of /·Spain /·frang·kow·/
+FrancoFrancisco /·Franco /·- /·Former /·Caudillo /·of /·Spain /·frang·kow·/
 Gangs /·gangz·/
 Gases /·ga·suhz·/
 Genus /·jee·nuhs·/
@@ -7798,7 +7794,7 @@ Innovations /·i·nuh·vay·shnz·/
 Lambert /·lam·brt·/
 Lamps /·lamps·/
 Longtime /·laang·time·/
-Getty /·ImagesMadonnaAmerican /·singer-songwriter /·muh·daa·nuh·/
+MadonnaAmerican /·singer-songwriter /·muh·daa·nuh·/
 Magnet /·mag·nuht·/
 Metaphor /·meh·tuh·for·/
 Millionaire /·mi·lee·uh·nehr·/
@@ -7838,7 +7834,7 @@ Solitary /·saa·luh·teh·ree·/
 Sorrow /·saa·row·/
 Squares /·skwehrz·/
 Starters /·staar·trz·/
-Getty /·ImagesStokeStoke-on-Trent /·- /·City /·in /·England /·stowk·/
+StokeStoke-on-Trent /·- /·City /·in /·England /·stowk·/
 Taller /·taa·lr·/
 Termination /·tr·muh·nay·shn·/
 Thigh /·thai·/
@@ -7900,7 +7896,7 @@ GoatsGoat /·- /·Animal /·gowts·/
 GreaseFilm /·series /·grees·/
 Greeks /·greeks·/
 Guessed /·gest·/
-Corbis /·via /·Getty /·ImagesHaitiCountry /·in /·the /·Caribbean /·hay·tee·/
+Corbis /·via /·HaitiCountry /·in /·the /·Caribbean /·hay·tee·/
 Hallway /·haal·way·/
 HarleyHarley-Davidson /·- /·Company /·haar·lee·/
 Heavens /·heh·vnz·/
@@ -8177,7 +8173,7 @@ Irregular /·ur·eh·gyuh·lr·/
 Juicy /·joo·see·/
 Jumper /·juhm·pr·/
 Justices /·juh·stuh·suhz·/
-Getty /·ImagesKardashianKim /·Kardashian /·- /·American /·media /·personality /·kaar·da·shee·uhn·/
+KardashianKim /·Kardashian /·- /·American /·media /·personality /·kaar·da·shee·uhn·/
 Leaking /·lee·kuhng·/
 Mammals /·ma·muhlz·/
 Manually /·ma·nyoo·uh·lee·/
@@ -8206,7 +8202,7 @@ Residency /·reh·zi·duhn·see·/
 Resolutions /·reh·zuh·loo·shnz·/
 Responsive /·ri·spaan·siv·/
 Richest /·ri·chuhst·/
-Getty /·ImagesRooneyWayne /·Rooney /·- /·English /·association /·football /·manager /·roo·nee·/
+RooneyWayne /·Rooney /·- /·English /·association /·football /·manager /·roo·nee·/
 Rulers /·roo·lrz·/
 SalemCity /·in /·Massachusetts /·say·luhm·/
 Santos /·san·tows·/
@@ -8258,7 +8254,7 @@ Coaster /·kow·str·/
 Coated /·kow·tuhd·/
 Constituency /·kuhn·sti·choo·uhn·see·/
 Contingent /·kuhn·tin·jnt·/
-LightRocket /·via /·Getty /·ImagesCornellCornell /·University /·- /·Land-grant /·university /·in /·Ithaca, /·New /·York /·kor·nel·/
+LightRocket /·via /·CornellCornell /·University /·- /·Land-grant /·university /·in /·Ithaca, /·New /·York /·kor·nel·/
 Corrections /·kr·ek·shnz·/
 Costing /·kaa·stuhng·/
 Cyclists /·sai·kluhsts·/
@@ -8342,7 +8338,7 @@ Solicitor /·suh·li·suh·tr·/
 Sophomore /·saaf·mor·/
 Spreads /·spredz·/
 SquirrelSquirrels /·- /·Rodents /·skwur·uhl·/
-Getty /·ImagesStalinJoseph /·Stalin /·- /·Former /·Premier /·of /·the /·Soviet /·Union /·staa·luhn·/
+StalinJoseph /·Stalin /·- /·Former /·Premier /·of /·the /·Soviet /·Union /·staa·luhn·/
 StickersSticker /·sti·krz·/
 Stigma /·stig·muh·/
 Strengthened /·streng·thnd·/
@@ -8371,7 +8367,7 @@ Boiled /·boyld·/
 Bonding /·baan·duhng·/
 Bounds /·bowndz·/
 Breeds /·breedz·/
-Getty /·ImagesByronLord /·Byron /·- /·English /·poet /·bai·ruhn·/
+ByronLord /·Byron /·- /·English /·poet /·bai·ruhn·/
 Cardiovascular /·kaar·dee·ow·va·skyuh·lr·/
 Clone /·klown·/
 Clusters /·kluh·strz·/
@@ -8581,7 +8577,7 @@ Stimulate /·sti·myuh·layt·/
 Strangely /·straynj·lee·/
 Surveyed /·sr·vayd·/
 Susceptible /·suh·sep·tuh·bl·/
-Getty /·ImagesTheodoreTheodore /·Roosevelt /·- /·26th /·U.S. /·President /·thee·uh·dor·/
+TheodoreTheodore /·Roosevelt /·- /·26th /·U.S. /·President /·thee·uh·dor·/
 ThighsThigh /·thize·/
 Tipped /·tipt·/
 ToiletsToilet /·toy·luhts·/
@@ -8723,7 +8719,7 @@ Blackberry /·blak·beh·ree·/
 Bolton /·bowl·tn·/
 BombayMumbai /·- /·City /·in /·India /·baam·bay·/
 Booze /·booz·/
-Getty /·ImagesBrennanJohn /·O. /·Brennan /·- /·Former /·Director /·of /·the /·Central /·Intelligence /·Agency /·breh·nuhn·/
+BrennanJohn /·O. /·Brennan /·- /·Former /·Director /·of /·the /·Central /·Intelligence /·Agency /·breh·nuhn·/
 BronxBoroughs /·of /·New /·York /·City /·braangks·/
 Buzzing /·buh·zuhng·/
 Caliber /·ka·luh·br·/
@@ -8829,7 +8825,7 @@ Underwent /·uhn·dr·went·/
 Vacancy /·vay·kuhn·see·/
 Villains /·vi·luhnz·/
 Vocational /·vow·kay·shuh·nuhl·/
-Bongarts/Getty /·ImagesWengerArsène /·Wenger /·- /·French /·former /·association /·football /·manager /·weng·ur·/
+Bongarts/WengerArsène /·Wenger /·- /·French /·former /·association /·football /·manager /·weng·ur·/
 Wickets /·wi·kuhts·/
 Withstand /·wuhth·stand·/
 Woodland /·wud·luhnd·/
@@ -8886,7 +8882,7 @@ Entertained /·en·tr·taynd·/
 Erosion /·ur·ow·zhn·/
 Explores /·uhk·splorz·/
 Fibers /·fai·brz·/
-ullstein /·bild /·via /·Getty /·ImagesFitzgeraldF. /·Scott /·Fitzgerald /·- /·American /·novelist /·fuhts·jeh·ruhld·/
+ullstein /·bild /·via /·FitzgeraldF. /·Scott /·Fitzgerald /·- /·American /·novelist /·fuhts·jeh·ruhld·/
 Flank /·flangk·/
 Flare /·flehr·/
 Fleeing /·flee·uhng·/
@@ -8973,7 +8969,7 @@ AllergiesAllergy /·- /·Disease /·a·lr·jeez·/
 Amnesty /·am·nuh·stee·/
 Angus /·ang·guhs·/
 Apologized /·uh·paa·luh·jized·/
-Gamma-Rapho /·via /·Getty /·ImagesAssadBashar /·al-Assad /·- /·President /·of /·Syria /·aa·saad·/
+Gamma-Rapho /·via /·AssadBashar /·al-Assad /·- /·President /·of /·Syria /·aa·saad·/
 Assertion /·uh·sur·shn·/
 Astronomy /·uh·straa·nuh·mee·/
 Attic /·a·tuhk·/
@@ -9085,7 +9081,7 @@ Tariffs /·teh·ruhfs·/
 Temporal /·tem·pr·uhl·/
 Tracker /·tra·kr·/
 Turbine /·tur·bine·/
-Getty /·ImagesTysonMike /·Tyson /·- /·American /·former /·professional /·boxer /·tai·sn·/
+TysonMike /·Tyson /·- /·American /·former /·professional /·boxer /·tai·sn·/
 Unavailable /·uh·nuh·vay·luh·bl·/
 Universally /·yoo·nuh·vur·suh·lee·/
 Unlucky /·uhn·luh·kee·/
@@ -9247,14 +9243,14 @@ Beaver /·bee·vr·/
 Boasts /·bowsts·/
 BrunswickBrunswick /·Corporation /·bruhnz·wuhk·/
 Caller /·kaa·lr·/
-ullstein /·bild /·via /·Getty /·ImagesCarnegieAndrew /·Carnegie /·- /·Scottish-American /·industrialist /·kaar·nuh·gee·/
+ullstein /·bild /·via /·CarnegieAndrew /·Carnegie /·- /·Scottish-American /·industrialist /·kaar·nuh·gee·/
 Casualty /·ka·zhoo·uhl·tee·/
 Cavity /·ka·vuh·tee·/
 Colts /·kowlts·/
 Comforting /·kuhm·fr·tuhng·/
 Courthouse /·kort·hows·/
 Crank /·krangk·/
-Gamma-Rapho /·via /·Getty /·ImagesDanteDante /·Alighieri /·- /·Italian /·poet /·daan·tay·/
+Gamma-Rapho /·via /·DanteDante /·Alighieri /·- /·Italian /·poet /·daan·tay·/
 Decks /·deks·/
 Diaries /·dai·ur·eez·/
 Differing /·di·fr·uhng·/
@@ -9539,7 +9535,7 @@ Devised /·duh·vized·/
 Discarded /·duh·skaar·duhd·/
 Disrupt /·duh·sruhpt·/
 Donating /·dow·nay·tuhng·/
-Getty /·ImagesDonovanMusician /·daa·nuh·vn·/
+DonovanMusician /·daa·nuh·vn·/
 Drills /·drilz·/
 Dynamite /·dai·nuh·mite·/
 Echoes /·eh·kowz·/
@@ -9654,7 +9650,7 @@ Catastrophic /·ka·tuh·straa·fuhk·/
 Caucus /·kaa·kuhs·/
 Charcoal /·chaar·kowl·/
 Cheesy /·chee·zee·/
-Getty /·ImagesCherylSinger /·sheh·ruhl·/
+CherylSinger /·sheh·ruhl·/
 ChokingInjury /·chow·kuhng·/
 CitrusPlant /·si·truhs·/
 ClocksClock /·- /·Measuring /·device /·klaaks·/
@@ -9811,7 +9807,7 @@ Distressed /·duh·strest·/
 DoverTown /·in /·England /·dow·vr·/
 Dungeon /·duhn·jn·/
 Dwell /·dwel·/
-Corbis /·via /·Getty /·ImagesEdisonThomas /·Edison /·- /·American /·inventor /·eh·duh·sn·/
+Corbis /·via /·EdisonThomas /·Edison /·- /·American /·inventor /·eh·duh·sn·/
 Enforcing /·uhn·for·suhng·/
 Entrepreneurship /·aan·truh·pruh·nur·shuhp·/
 Essentials /·uh·sen·chlz·/
@@ -10060,7 +10056,7 @@ Thugs /·thuhgz·/
 Tipping /·ti·puhng·/
 Topping /·taa·puhng·/
 Tracing /·tray·suhng·/
-Getty /·ImagesTrumanHarry /·S. /·Truman /·- /·33rd /·U.S. /·President /·troo·muhn·/
+TrumanHarry /·S. /·Truman /·- /·33rd /·U.S. /·President /·troo·muhn·/
 Upstream /·uhp·streem·/
 Vapor /·vay·pr·/
 Veronica /·vr·aa·nuh·kuh·/
@@ -10071,7 +10067,7 @@ WembleyHamlet /·in /·England /·wem·blee·/
 Winchester /·win·cheh·str·/
 Witty /·wi·tee·/
 Woven /·wow·vn·/
-Getty /·ImagesWyattWyatt /·Earp /·- /·American /·law /·enforcement /·officer /·wai·uht·/
+WyattWyatt /·Earp /·- /·American /·law /·enforcement /·officer /·wai·uht·/
 Acquaintance /·uh·kwayn·tns·/
 Ambassadors /·am·ba·suh·drz·/
 Ambush /·am·bush·/
@@ -10079,7 +10075,7 @@ Amend /·uh·mend·/
 Arranging /·uh·rayn·juhng·/
 Arrogance /·eh·ruh·gns·/
 Attendees /·uh·ten·deez·/
-Getty /·ImagesAudreyAudrey /·Hepburn /·- /·British /·actress /·aa·dree·/
+AudreyAudrey /·Hepburn /·- /·British /·actress /·aa·dree·/
 Aussie /·aa·see·/
 Awaits /·uh·wayts·/
 Baptism /·bap·tuh·zm·/
@@ -10167,7 +10163,7 @@ Outsider /·owt·sai·dr·/
 Overcoming /·ow·vr·kuh·muhng·/
 Palms /·paamz·/
 Penetrate /·peh·nuh·trayt·/
-Getty /·ImagesPhelpsMichael /·Phelps /·- /·American /·swimmer /·felps·/
+PhelpsMichael /·Phelps /·- /·American /·swimmer /·felps·/
 Pioneers /·pai·uh·neerz·/
 Plaintiff /·playn·tuhf·/
 Planners /·pla·nrz·/
@@ -10264,7 +10260,7 @@ Dolly /·daa·lee·/
 Downfall /·down·faal·/
 Downside /·down·side·/
 DryerClothes /·dryer /·drai·ur·/
-Heritage /·Images /·via /·Getty /·ImagesElijahProphet /·uh·lai·juh·/
+Heritage /·Images /·via /·ElijahProphet /·uh·lai·juh·/
 Empowerment /·uhm·pau·ur·muhnt·/
 Endings /·en·duhngz·/
 Energies /·eh·nr·jeez·/
@@ -10298,7 +10294,7 @@ LasersLaser /·lay·zrz·/
 LillyEli /·Lilly /·and /·Company /·- /·Pharmaceutical /·company /·li·lee·/
 MaltaCountry /·in /·Europe /·maal·tuh·/
 Markings /·maar·kuhngz·/
-Getty /·ImagesMcConnellMitch /·McConnell /·- /·Minority /·Leader /·of /·the /·United /·States /·Senate /·muh·kaa·nuhl·/
+McConnellMitch /·McConnell /·- /·Minority /·Leader /·of /·the /·United /·States /·Senate /·muh·kaa·nuhl·/
 McGregorConor /·McGregor /·- /·Irish /·mixed /·martial /·artist /·muh·greh·gr·/
 Menace /·meh·nuhs·/
 MethaneChemical /·compound /·meh·thayn·/
@@ -10422,7 +10418,7 @@ FloweringFlowering /·plant /·flau·ur·uhng·/
 Fractures /·frak·chrz·/
 Fragrance /·fray·gruhns·/
 FungusFood /·fuhng·guhs·/
-Getty /·ImagesGloucesterCity /·in /·England /·glaa·str·/
+GloucesterCity /·in /·England /·glaa·str·/
 Guarding /·gaar·duhng·/
 Gunfire /·guhn·fai·ur·/
 Harvesting /·haar·vuh·stuhng·/
@@ -10529,9 +10525,9 @@ Bilingual /·bai·ling·gwl·/
 Bombings /·baa·muhngz·/
 Bonded /·baan·duhd·/
 Boosting /·boo·stuhng·/
-Getty /·ImagesBoyleRobert /·Boyle /·- /·Natural /·philosopher /·boyl·/
+BoyleRobert /·Boyle /·- /·Natural /·philosopher /·boyl·/
 Brewers /·broo·urz·/
-Heritage /·Images /·via /·Getty /·ImagesBuchananJames /·Buchanan /·- /·15th /·U.S. /·President /·byoo·ka·nuhn·/
+Heritage /·Images /·via /·BuchananJames /·Buchanan /·- /·15th /·U.S. /·President /·byoo·ka·nuhn·/
 BuckinghamTown /·in /·England /·buh·kuhng·uhm·/
 Bundles /·buhn·dlz·/
 CalcuttaKolkata /·- /·City /·in /·India /·kal·kuh·tuh·/
@@ -10594,7 +10590,7 @@ Hateful /·hayt·fl·/
 Haunting /·haan·tuhng·/
 HepatitisDisease /·heh·puh·tai·tuhs·/
 Honoring /·aa·nr·uhng·/
-Getty /·ImagesHoraceRoman /·poet /·haw·ruhs·/
+HoraceRoman /·poet /·haw·ruhs·/
 Horrors /·haw·rrz·/
 HuntingtonHuntington /·Bancshares /·- /·Finance /·and /·insurance /·company /·huhn·ting·tn·/
 Inhabited /·uhn·ha·buh·tuhd·/
@@ -10624,7 +10620,7 @@ Outward /·owt·wrd·/
 Overrated /·ow·vr·ray·tuhd·/
 Packaged /·pa·kuhjd·/
 Packets /·pa·kuhts·/
-Getty /·ImagesPaigeProfessional /·wrestler /·payj·/
+PaigeProfessional /·wrestler /·payj·/
 Passports /·pas·ports·/
 PeanutsPeanut /·- /·Legume /·pee·nuhts·/
 Piracy /·pai·ruh·see·/
@@ -10684,10 +10680,10 @@ Anterior /·an·tee·ree·ur·/
 AppendixAnatomy /·uh·pen·duhks·/
 Attackers /·uh·ta·krz·/
 Auditorium /·aa·duh·taw·ree·uhm·/
-Pictures /·From /·History/Universal /·Images /·Group /·via /·Getty /·ImagesAugustineAugustine /·of /·Hippo /·- /·Theologian /·aa·guh·steen·/
+Pictures /·From /·History/Universal /·Images /·Group /·via /·AugustineAugustine /·of /·Hippo /·- /·Theologian /·aa·guh·steen·/
 Barking /·baar·kuhng·/
 BauerBauer /·Hockey /·- /·Sports /·equipment /·company /·bau·ur·/
-Getty /·ImagesBeckhamDavid /·Beckham /·- /·English /·former /·football /·player /·beh·km·/
+BeckhamDavid /·Beckham /·- /·English /·former /·football /·player /·beh·km·/
 Behaving /·bee·hay·vuhng·/
 BenignBenign /·tumor /·buh·nine·/
 BerkshireEnglish /·non-metropolitan /·county /·burk·shr·/
@@ -10725,7 +10721,7 @@ Drilled /·drild·/
 Dumpster /·duhmp·str·/
 Emailed /·ee·mayld·/
 Empower /·uhm·pau·ur·/
-Getty /·ImagesEthiopianEthiopia /·- /·Country /·in /·East /·Africa /·ee·thee·ow·pee·uhn·/
+EthiopianEthiopia /·- /·Country /·in /·East /·Africa /·ee·thee·ow·pee·uhn·/
 Existent /·uhg·zi·stnt·/
 Fabricated /·fa·bruh·kay·tuhd·/
 Filmmakers /·film·may·krz·/
@@ -10734,7 +10730,7 @@ Gatherings /·ga·thr·uhngz·/
 GeorgianGeorgian /·language /·- /·Spoken /·language /·jor·jn·/
 Getaway /·geh·tuh·way·/
 Heirs /·ehrz·/
-Getty /·ImagesHumphreyHubert /·Humphrey /·- /·Former /·US /·Vice /·President /·huhm·free·/
+HumphreyHubert /·Humphrey /·- /·Former /·US /·Vice /·President /·huhm·free·/
 Incidentally /·in·suh·den·tuh·lee·/
 Infinitely /·in·fuh·nuht·lee·/
 Inflated /·uhn·flay·tuhd·/
@@ -10869,7 +10865,7 @@ Destroyer /·dee·stroy·ur·/
 Diocese /·dai·uh·seez·/
 Dispersed /·dis·purst·/
 Doorstep /·dor·step·/
-Getty /·ImagesEliotT. /·S. /·Eliot /·- /·Poet /·eh·lee·uht·/
+EliotT. /·S. /·Eliot /·- /·Poet /·eh·lee·uht·/
 Embarked /·uhm·baarkt·/
 Enriched /·uhn·richt·/
 Equip /·uh·kwip·/
@@ -10978,10 +10974,10 @@ Twists /·twists·/
 Utilization /·yoo·tuh·luh·zay·shn·/
 VolkswagenVehicle /·manufacturer /·vowlk·swa·gn·/
 Walkers /·waa·krz·/
-Getty /·ImagesWoodwardBob /·Woodward /·- /·American /·journalist /·wud·wrd·/
+WoodwardBob /·Woodward /·- /·American /·journalist /·wud·wrd·/
 YugoslaviaCountry /·yoo·gow·slaa·vee·uh·/
 Actresses /·ak·truh·siz·/
-Getty /·ImagesAlonsoFernando /·Alonso /·- /·Spanish /·racing /·driver /·uh·laan·sow·/
+AlonsoFernando /·Alonso /·- /·Spanish /·racing /·driver /·uh·laan·sow·/
 Ancestor /·an·seh·str·/
 Astronomical /·a·struh·naa·muh·kl·/
 Attends /·uh·tendz·/
@@ -11043,7 +11039,7 @@ Forgiving /·fr·gi·vuhng·/
 Fractured /·frak·chrd·/
 Galactic /·guh·lak·tuhk·/
 Gardener /·gaar·duh·nr·/
-GettyGetty /·Images /·- /·Publishing /·company /·geh·tee·/
+Getty /·- /·Publishing /·company /·geh·tee·/
 Grassroots /·gras·roots·/
 Gravitational /·gra·vi·tay·shuh·nuhl·/
 Grazing /·gray·zuhng·/
@@ -11084,7 +11080,7 @@ Neatly /·neet·lee·/
 Negativity /·neh·guh·ti·vuh·tee·/
 NorthamptonTown /·in /·England /·north·amp·tn·/
 Noteworthy /·nowt·wur·thee·/
-Getty /·ImagesOprahOprah /·Winfrey /·- /·American /·host /·ow·pruh·/
+OprahOprah /·Winfrey /·- /·American /·host /·ow·pruh·/
 Overturned /·ow·vr·turnd·/
 Paddle /·pa·dl·/
 ParrotParrots /·- /·Birds /·peh·ruht·/
@@ -11119,7 +11115,7 @@ Sprayed /·sprayd·/
 Stacks /·staks·/
 Startups /·staar·tuhps·/
 StockingGarment /·staa·kuhng·/
-FIFA /·via /·Getty /·ImagesSuárezLuis /·Suárez /·- /·Uruguayan /·football /·player /·swaa·rez·/
+FIFA /·via /·SuárezLuis /·Suárez /·- /·Uruguayan /·football /·player /·swaa·rez·/
 Subscriptions /·suhb·skrip·shnz·/
 Suites /·sweets·/
 Supplemental /·suh·pluh·men·tl·/
@@ -11191,7 +11187,7 @@ Defiance /·dee·fai·uhns·/
 Deter /·duh·tur·/
 Diner /·dai·nr·/
 Dipping /·di·puhng·/
-Getty /·ImagesDisneylandTheme /·park /·in /·Anaheim, /·California /·diz·nee·land·/
+DisneylandTheme /·park /·in /·Anaheim, /·California /·diz·nee·land·/
 Disposition /·di·spuh·zi·shn·/
 Documentaries /·daa·kyuh·men·tr·eez·/
 Dripping /·dri·puhng·/
@@ -11230,7 +11226,7 @@ Inducing /·uhn·doo·suhng·/
 Injunction /·uhn·juhngk·shn·/
 Innate /·uh·nayt·/
 Instituted /·in·stuh·too·tuhd·/
-Heritage /·Images/Getty /·ImagesJeremiahProphet /·jeh·ruh·mai·uh·/
+Heritage /·Images/JeremiahProphet /·jeh·ruh·mai·uh·/
 KathrynKathryn /·Bernardo /·- /·Filipino /·actress /·ka·thruhn·/
 Keynote /·kee·nowt·/
 Kidnap /·kid·nap·/
@@ -11282,7 +11278,7 @@ SpinachVegetable /·spi·nuhch·/
 SquatExercise /·skwaat·/
 StirlingCity /·in /·Scotland /·stur·luhng·/
 Stoned /·stownd·/
-Getty /·ImagesStraussJohann /·Strauss /·II /·- /·Composer /·strows·/
+StraussJohann /·Strauss /·II /·- /·Composer /·strows·/
 Stressing /·streh·suhng·/
 Styling /·stai·luhng·/
 Sublime /·suh·blime·/
@@ -11425,7 +11421,7 @@ Summons /·suh·muhnz·/
 Swung /·swuhng·/
 Taboo /·tuh·boo·/
 Teaser /·tee·zr·/
-Getty /·ImagesThatcherMargaret /·Thatcher /·- /·Former /·Prime /·Minister /·of /·the /·United /·Kingdom /·tha·chr·/
+ThatcherMargaret /·Thatcher /·- /·Former /·Prime /·Minister /·of /·the /·United /·Kingdom /·tha·chr·/
 Throttle /·thraa·tl·/
 Tides /·tidez·/
 Trendy /·tren·dee·/
@@ -11448,7 +11444,7 @@ Warmed /·wormd·/
 Accelerating /·uhk·seh·lr·ay·tuhng·/
 Afforded /·uh·for·duhd·/
 Alias /·ay·lee·uhs·/
-Getty /·ImagesAnaheimCity /·in /·California /·a·nuh·hime·/
+AnaheimCity /·in /·California /·a·nuh·hime·/
 Anchored /·ang·krd·/
 Annoy /·uh·noy·/
 Antibody /·an·ti·baa·dee·/
@@ -11555,7 +11551,7 @@ OpiumDrug /·ow·pee·uhm·/
 Ovarian /·ow·veh·ree·uhn·/
 Penal /·pee·nuhl·/
 PetalsPetal /·peh·tlz·/
-Getty /·ImagesPicassoPablo /·Picasso /·- /·Spanish /·painter /·puh·kaa·sow·/
+PicassoPablo /·Picasso /·- /·Spanish /·painter /·puh·kaa·sow·/
 PiercedBody /·piercing /·peerst·/
 Pistols /·pi·stlz·/
 Plank /·plangk·/
@@ -11662,7 +11658,7 @@ Entertainer /·en·tr·tay·nr·/
 Entrusted /·uhn·truh·stuhd·/
 Ernie /·ur·nee·/
 Evidenced /·eh·vi·dnst·/
-Getty /·ImagesFallonJimmy /·Fallon /·- /·American /·stand-up /·comedian /·fa·luhn·/
+FallonJimmy /·Fallon /·- /·American /·stand-up /·comedian /·fa·luhn·/
 Fatalities /·fay·ta·luh·teez·/
 Festivities /·feh·sti·vuh·teez·/
 Finalist /·fai·nuh·luhst·/
@@ -11801,7 +11797,7 @@ Cupboard /·kuh·brd·/
 Customized /·kuh·stuh·mized·/
 Depended /·duh·pen·duhd·/
 Deprivation /·deh·pruh·vay·shn·/
-Getty /·ImagesDeweyJohn /·Dewey /·- /·American /·philosopher /·doo·ee·/
+DeweyJohn /·Dewey /·- /·American /·philosopher /·doo·ee·/
 Disqualified /·duh·skwaa·luh·fide·/
 Disrupted /·duh·sruhp·tuhd·/
 Diversified /·dai·vur·suh·fide·/
@@ -11845,7 +11841,7 @@ LashesEyelash /·la·shuhz·/
 LatviaCountry /·in /·Europe /·lat·vee·uh·/
 LavenderPlant /·la·vuhn·dr·/
 Lemonade /·leh·muhn·ayd·/
-Heritage /·Images/Getty /·ImagesLeninVladimir /·Lenin /·- /·Former /·Member /·of /·the /·Constituent /·Assembly /·of /·Russia /·leh·nuhn·/
+Heritage /·Images/LeninVladimir /·Lenin /·- /·Former /·Member /·of /·the /·Constituent /·Assembly /·of /·Russia /·leh·nuhn·/
 Lodging /·laa·juhng·/
 LowellCity /·in /·Massachusetts /·low·uhl·/
 Malls /·maalz·/
@@ -11894,11 +11890,11 @@ Rhythms /·ri·thmz·/
 Riddle /·ri·dl·/
 Rites /·rites·/
 Roach /·rowch·/
-Getty /·ImagesRockefellerJohn /·D. /·Rockefeller /·- /·American /·business /·magnate /·raa·kuh·feh·lr·/
+RockefellerJohn /·D. /·Rockefeller /·- /·American /·business /·magnate /·raa·kuh·feh·lr·/
 Royalties /·roy·uhl·teez·/
 Rubble /·ruh·bl·/
 Sacrificing /·sa·kruh·fai·suhng·/
-Getty /·ImagesSaddam /·suh·daam·/
+Saddam /·suh·daam·/
 SapphireGemstone /·sa·fai·ur·/
 Screwing /·skroo·uhng·/
 Sectional /·sek·shuh·nuhl·/
@@ -11927,7 +11923,7 @@ Torpedo /·tor·pee·dow·/
 Traitors /·tray·trz·/
 Trolley /·traa·lee·/
 Trolling /·trow·luhng·/
-Getty /·ImagesTrudeauJustin /·Trudeau /·- /·Prime /·Minister /·of /·Canada /·troo·dow·/
+TrudeauJustin /·Trudeau /·- /·Prime /·Minister /·of /·Canada /·troo·dow·/
 Undertook /·uhn·dr·tuk·/
 Undocumented /·uhn·daa·kyuh·men·tuhd·/
 Vaginal /·va·juh·nuhl·/
@@ -11981,7 +11977,7 @@ Disbelief /·dis·bi·leef·/
 Discreet /·duh·skreet·/
 Distracting /·duh·strak·tuhng·/
 Dizzy /·di·zee·/
-Getty /·ImagesEisenhowerDwight /·D. /·Eisenhower /·- /·34th /·U.S. /·President /·ai·zuhn·hau·ur·/
+EisenhowerDwight /·D. /·Eisenhower /·- /·34th /·U.S. /·President /·ai·zuhn·hau·ur·/
 Enact /·uh·nakt·/
 Evaluations /·uh·va·lyoo·ay·shnz·/
 EverestMount /·Everest /·- /·Mountain /·in /·Asia /·eh·vuh·ruhst·/
@@ -12116,7 +12112,7 @@ Assassins /·uh·sa·snz·/
 Ballad /·ba·luhd·/
 Banged /·bangd·/
 BaselCity /·in /·Switzerland /·baa·zl·/
-Getty /·ImagesBeckettSamuel /·Beckett /·- /·Irish /·novelist /·beh·kuht·/
+BeckettSamuel /·Beckett /·- /·Irish /·novelist /·beh·kuht·/
 Betray /·buh·tray·/
 Bigotry /·bi·guh·tree·/
 Biotechnology /·bai·ow·tek·naa·luh·jee·/
@@ -12169,7 +12165,7 @@ Fritz /·frits·/
 Froze /·frowz·/
 Frying /·frai·uhng·/
 Goodies /·gu·deez·/
-Getty /·ImagesGreenlandIsland /·country /·green·luhnd·/
+GreenlandIsland /·country /·green·luhnd·/
 Handbag /·hand·bag·/
 Handicapped /·han·dee·kapt·/
 Headquartered /·hed·kwor·trd·/
@@ -12193,7 +12189,7 @@ Midland /·mid·luhnd·/
 Miscellaneous /·mi·suh·lay·nee·uhs·/
 Misguided /·muhs·gai·duhd·/
 Motivations /·mow·tuh·vay·shnz·/
-Getty /·ImagesMozartWolfgang /·Amadeus /·Mozart /·- /·Composer /·mowt·saart·/
+MozartWolfgang /·Amadeus /·Mozart /·- /·Composer /·mowt·saart·/
 Muster /·muh·str·/
 Mutants /·myoo·tnts·/
 Muted /·myoo·tuhd·/
@@ -12251,7 +12247,7 @@ Unnecessarily /·uhn·neh·suh·seh·ruh·lee·/
 Unnoticed /·uhn·now·tuhst·/
 Untouched /·uhn·tuhcht·/
 Vibrations /·vai·bray·shnz·/
-ullstein /·bild /·via /·Getty /·ImagesVirgilRoman /·poet /·vur·jl·/
+ullstein /·bild /·via /·VirgilRoman /·poet /·vur·jl·/
 Visionary /·vi·zhuh·neh·ree·/
 Voodoo /·voo·doo·/
 Wilder /·wile·dr·/
@@ -12269,7 +12265,7 @@ Austerity /·aa·steh·ri·tee·/
 Awfully /·aa·fuh·lee·/
 BarcaFC /·Barcelona /·- /·Football /·club /·baar·kuh·/
 Battered /·ba·trd·/
-Getty /·ImagesBeethovenLudwig /·van /·Beethoven /·- /·German /·composer /·bay·tow·vn·/
+BeethovenLudwig /·van /·Beethoven /·- /·German /·composer /·bay·tow·vn·/
 Biking /·bai·kuhng·/
 Boosts /·boosts·/
 BouquetFlower /·bouquet /·bow·kay·/
@@ -12355,7 +12351,7 @@ Ledge /·lej·/
 Lunches /·luhn·chuhz·/
 MackayCity /·in /·Australia /·muh·kay·/
 MadeleineFood /·ma·duh·luhn·/
-Getty /·ImagesMandelaNelson /·Mandela /·- /·Former /·President /·of /·South /·Africa /·man·deh·luh·/
+MandelaNelson /·Mandela /·- /·Former /·President /·of /·South /·Africa /·man·deh·luh·/
 Marian /·meh·ree·uhn·/
 Mayors /·may·urz·/
 Melts /·melts·/
@@ -12472,7 +12468,7 @@ Conveyed /·kuhn·vayd·/
 Crabs /·krabz·/
 Cuddle /·kuh·dl·/
 Culprit /·kuhl·pruht·/
-Getty /·ImagesDariusDarius /·the /·Great /·- /·Persian /·ruler /·deh·ree·uhs·/
+DariusDarius /·the /·Great /·- /·Persian /·ruler /·deh·ree·uhs·/
 Daunting /·daan·tuhng·/
 Deviation /·dee·vee·ay·shn·/
 Diffusion /·di·fyoo·zhn·/
@@ -12508,7 +12504,7 @@ Hypocrite /·hi·puh·kruht·/
 Incorporation /·uhn·kor·pr·ay·shn·/
 Insure /·uhn·shur·/
 Joyful /·joy·fl·/
-Bridgeman /·via /·Getty /·ImagesJudahKingdom /·of /·Judah /·joo·duh·/
+Bridgeman /·via /·JudahKingdom /·of /·Judah /·joo·duh·/
 KabulCapital /·of /·Afghanistan /·kaa·bl·/
 Kickoff /·ki·kaaf·/
 LacrosseSport /·luh·kraas·/
@@ -12519,7 +12515,7 @@ Malibu /·ma·luh·boo·/
 MammothAnimal /·ma·muhth·/
 Martyrs /·maar·trz·/
 Matchup /·mach·uhp·/
-Getty /·ImagesMerkelAngela /·Merkel /·- /·Former /·Chancellor /·of /·Germany /·mur·kl·/
+MerkelAngela /·Merkel /·- /·Former /·Chancellor /·of /·Germany /·mur·kl·/
 ModemComputer /·peripheral /·class /·mow·dm·/
 Mosques /·maasks·/
 Motif /·mow·teef·/
@@ -12533,7 +12529,7 @@ Oversized /·ow·vr·sized·/
 PandoraJewellery /·company /·pan·daw·ruh·/
 Panicked /·pa·nuhkt·/
 Papal /·pay·pl·/
-Getty /·ImagesPattonGeorge /·S. /·Patton /·- /·General /·pa·tn·/
+PattonGeorge /·S. /·Patton /·- /·General /·pa·tn·/
 Peril /·peh·ruhl·/
 Plunged /·pluhnjd·/
 Polly /·paa·lee·/
@@ -12646,7 +12642,7 @@ Elevators /·eh·luh·vay·trz·/
 Encore /·aan·kor·/
 Engages /·uhn·gay·juhz·/
 Enormously /·uh·nor·muh·slee·/
-Corbis /·via /·Getty /·ImagesEpsteinJeffrey /·Epstein /·ep·stine·/
+Corbis /·via /·EpsteinJeffrey /·Epstein /·ep·stine·/
 Erupted /·ur·uhp·tuhd·/
 EspressoCoffee /·uh·spreh·sow·/
 Evade /·uh·vayd·/
@@ -12719,7 +12715,7 @@ Prescribe /·pruh·skribe·/
 Punitive /·pyoo·nuh·tuhv·/
 Quits /·kwits·/
 Rainforest /·rayn·faw·ruhst·/
-Getty /·ImagesRaphaelItalian /·painter /·raa·fai·el·/
+RaphaelItalian /·painter /·raa·fai·el·/
 Reborn /·ree·born·/
 Reddish /·reh·duhsh·/
 Refurbished /·ree·fur·buhsht·/
@@ -12737,7 +12733,7 @@ Rulings /·roo·luhngz·/
 Rumored /·roo·mrd·/
 Rupees /·roo·peez·/
 SamoaCountry /·in /·Oceania /·suh·mow·uh·/
-Getty /·ImagesSamsonJudge /·sam·sn·/
+SamsonJudge /·sam·sn·/
 Satin /·sa·tn·/
 Scatter /·ska·tr·/
 Scramble /·skram·bl·/
@@ -12778,7 +12774,7 @@ Visibly /·vi·zuh·blee·/
 Vowed /·vowd·/
 Waterways /·waa·tr·wayz·/
 Wetlands /·wet·luhndz·/
-Getty /·ImagesWhitmanWalt /·Whitman /·- /·American /·poet /·wit·muhn·/
+WhitmanWalt /·Whitman /·- /·American /·poet /·wit·muhn·/
 Wrecking /·reh·kuhng·/
 Abigail /·a·buh·gayl·/
 Abrupt /·uh·bruhpt·/
@@ -12787,7 +12783,7 @@ Adaptations /·a·duhp·tay·shnz·/
 Adversity /·ad·vur·si·tee·/
 Affidavit /·a·fuh·day·vuht·/
 Antics /·an·tiks·/
-Getty /·ImagesAntonyBrazilian /·football /·player /·an·tuh·nee·/
+AntonyBrazilian /·football /·player /·an·tuh·nee·/
 Appreciates /·uh·pree·shee·ayts·/
 ArtworksWork /·of /·art /·aart·wurks·/
 Asserts /·uh·surts·/
@@ -12816,7 +12812,7 @@ Compile /·kuhm·pile·/
 Compressor /·kuhm·preh·sr·/
 ComptonCity /·in /·California /·kaamp·tn·/
 Conferred /·kuhn·furd·/
-Prisma/Universal /·Images /·Group /·via /·Getty /·ImagesConstantinople /·kaan·stan·tuh·now·pl·/
+Prisma/Universal /·Images /·Group /·via /·Constantinople /·kaan·stan·tuh·now·pl·/
 Cougar /·koo·gr·/
 Creeps /·kreeps·/
 Cutler /·kuht·lr·/
@@ -12877,9 +12873,9 @@ MagnetsMagnet /·mag·nuhts·/
 Manageable /·ma·nuh·juh·bl·/
 Manslaughter /·man·slaa·tr·/
 Manuals /·man·yoo·uhlz·/
-Getty /·ImagesMeccaCity /·in /·Saudi /·Arabia /·meh·kuh·/
+MeccaCity /·in /·Saudi /·Arabia /·meh·kuh·/
 Meridian /·mr·i·dee·uhn·/
-Getty /·ImagesMikhailMikhail /·Gorbachev /·- /·Former /·President /·of /·the /·Soviet /·Union /·muh·kile·/
+MikhailMikhail /·Gorbachev /·- /·Former /·President /·of /·the /·Soviet /·Union /·muh·kile·/
 Misdemeanor /·mis·duh·mee·nr·/
 Misfortune /·mi·sfor·chn·/
 Mondays /·muhn·dayz·/
@@ -12981,7 +12977,7 @@ Constellation /·kaan·stuh·lay·shn·/
 Contour /·kaan·tor·/
 Crispy /·kri·spee·/
 Cropped /·kraapt·/
-Getty /·ImagesCrowleyAleister /·Crowley /·- /·English /·occultist /·krau·lee·/
+CrowleyAleister /·Crowley /·- /·English /·occultist /·krau·lee·/
 Curfew /·kur·fyoo·/
 Decidedly /·duh·sai·duhd·lee·/
 DelusionDisorder /·dee·loo·zhn·/
@@ -13028,7 +13024,7 @@ Intruder /·uhn·troo·dr·/
 Inward /·in·wrd·/
 Itching /·i·chuhng·/
 JarvisJ.A.R.V.I.S. /·- /·Fictional /·character /·jaar·vuhs·/
-Photo12/Universal /·Images /·Group /·via /·Getty /·ImagesJudasJudas /·Iscariot /·joo·duhs·/
+Photo12/Universal /·Images /·Group /·via /·JudasJudas /·Iscariot /·joo·duhs·/
 KaplanKaplan, /·Inc. /·- /·Education /·company /·ka·pluhn·/
 Kinky /·king·kee·/
 Landings /·lan·duhngz·/
@@ -13058,7 +13054,7 @@ OtterOtters /·- /·Animal /·aa·tr·/
 Parting /·paar·tuhng·/
 PelvicPelvis /·pel·vuhk·/
 Percussion /·pr·kuh·shn·/
-De /·Agostini/Getty /·ImagesPlatoPhilosopher /·play·tow·/
+De /·Agostini/PlatoPhilosopher /·play·tow·/
 Populist /·paa·pyuh·luhst·/
 Porous /·paw·ruhs·/
 Preached /·preecht·/
@@ -13115,7 +13111,7 @@ Welch /·welch·/
 Woken /·wow·kn·/
 Wrench /·rench·/
 Wretched /·reh·chuhd·/
-ullstein /·bild /·via /·Getty /·ImagesAdlerAlfred /·Adler /·- /·Austrian /·medical /·doctor /·ad·lr·/
+ullstein /·bild /·via /·AdlerAlfred /·Adler /·- /·Austrian /·medical /·doctor /·ad·lr·/
 Adolescence /·a·duh·leh·sns·/
 Affirmed /·uh·furmd·/
 Afterlife /·af·tr·life·/
@@ -13154,7 +13150,7 @@ Cosmopolitan /·kaaz·muh·paa·luh·tn·/
 Counselors /·kown·suh·lrz·/
 CoyoteAnimal /·kai·ow·tee·/
 Crippling /·kri·puh·luhng·/
-Corbis /·via /·Getty /·ImagesCromwellOliver /·Cromwell /·- /·English /·statesman /·kraam·wel·/
+Corbis /·via /·CromwellOliver /·Cromwell /·- /·English /·statesman /·kraam·wel·/
 Decorate /·deh·kr·ayt·/
 Decorating /·deh·kuh·ray·tuhng·/
 Deductible /·di·duhk·tuh·bl·/
@@ -13391,7 +13387,7 @@ Masonry /·may·suhn·ree·/
 Mechanically /·muh·ka·nuh·klee·/
 Millionaires /·mi·lyuh·nehrz·/
 Muffin /·muh·fn·/
-Getty /·ImagesNadalRafael /·Nadal /·- /·Spanish /·tennis /·player /·nuh·daal·/
+NadalRafael /·Nadal /·- /·Spanish /·tennis /·player /·nuh·daal·/
 OlivesOlive /·- /·Plant /·aa·luhvz·/
 Ostensibly /·aa·sten·suh·blee·/
 Outbreaks /·owt·brayks·/
@@ -13460,7 +13456,7 @@ Adjective /·a·juhk·tuhv·/
 Adjourned /·uh·jurnd·/
 Amnesia /·am·nee·zhuh·/
 Amplified /·am·pluh·fide·/
-Corbis /·via /·Getty /·ImagesAngolaCountry /·in /·Central /·Africa /·ang·gow·luh·/
+Corbis /·via /·AngolaCountry /·in /·Central /·Africa /·ang·gow·luh·/
 Angrily /·ang·gruh·lee·/
 Appellate /·uh·peh·luht·/
 Approving /·uh·proo·vuhng·/
@@ -13518,7 +13514,7 @@ Fumes /·fyoomz·/
 Garnered /·gaar·nrd·/
 Glazed /·glayzd·/
 Hardwood /·haar·dwud·/
-Getty /·ImagesHendrixJimi /·Hendrix /·- /·American /·guitarist /·hen·druhks·/
+HendrixJimi /·Hendrix /·- /·American /·guitarist /·hen·druhks·/
 Highness /·hai·nuhs·/
 HikesHiking /·hikes·/
 Hindsight /·hined·site·/
@@ -13576,7 +13572,7 @@ PhilliesPhiladelphia /·Phillies /·- /·Baseball /·team /·fi·leez·/
 Picky /·pi·kee·/
 Pistons /·pi·stnz·/
 Pizzas /·peet·suhz·/
-Getty /·ImagesPooleTown /·in /·England /·pool·/
+PooleTown /·in /·England /·pool·/
 Populace /·paa·pyuh·luhs·/
 PretoriaCapital /·of /·South /·Africa /·pruh·taw·ree·uh·/
 Pricey /·prai·see·/
@@ -13614,7 +13610,7 @@ Socioeconomic /·sow·see·ow·eh·kuh·naa·muhk·/
 Solicitors /·suh·li·suh·trz·/
 Spontaneously /·spaan·tay·nee·uh·slee·/
 Steamed /·steemd·/
-Getty /·ImagesStocktonCity /·in /·California /·staak·tn·/
+StocktonCity /·in /·California /·staak·tn·/
 StratfordLondon /·strat·frd·/
 Studs /·stuhdz·/
 SturgeonSturgeons /·- /·Fish /·stur·jn·/
@@ -13706,7 +13702,7 @@ Frantic /·fran·tuhk·/
 Fudge /·fuhj·/
 RedfernsGabrielleBritish /·singer /·ga·bree·el·/
 Gemma /·jeh·muh·/
-Getty /·ImagesGideonProphet /·gi·dee·uhn·/
+GideonProphet /·gi·dee·uhn·/
 Glide /·glide·/
 Glover /·gluh·vr·/
 Grieve /·greev·/
@@ -13755,7 +13751,7 @@ Montage /·maan·taazh·/
 MontereyCity /·in /·California /·maan·tr·ay·/
 NapoliS.S.C. /·Napoli /·- /·Football /·club /·na·puh·lee·/
 Negligent /·neh·gluh·jnt·/
-Getty /·ImagesNetanyahuBenjamin /·Netanyahu /·- /·Prime /·Minister /·of /·Israel /·neh·tuhn·yaa·hoo·/
+NetanyahuBenjamin /·Netanyahu /·- /·Prime /·Minister /·of /·Israel /·neh·tuhn·yaa·hoo·/
 NikonCorporation /·nai·kaan·/
 Optimize /·aap·tuh·mize·/
 Passionately /·pa·shuh·nuht·lee·/
@@ -13973,7 +13969,7 @@ TescoTesco /·PLC /·- /·Retail /·company /·teh·skow·/
 Thorpe /·thorp·/
 Towing /·tow·uhng·/
 Treacherous /·treh·chuh·ruhs·/
-Getty /·ImagesTurnbullMalcolm /·Turnbull /·- /·Former /·Prime /·Minister /·of /·Australia /·turn·bl·/
+TurnbullMalcolm /·Turnbull /·- /·Former /·Prime /·Minister /·of /·Australia /·turn·bl·/
 Undermined /·uhn·dr·mined·/
 Undermining /·uhn·dr·mai·nuhng·/
 Untold /·uhn·towld·/
@@ -13986,7 +13982,7 @@ Voicemail /·voy·smayl·/
 WakefieldCity /·in /·England /·wayk·feeld·/
 WatfordWatford /·F.C. /·- /·Football /·club /·waat·frd·/
 Wielding /·weel·duhng·/
-Getty /·ImagesWigginsAndrew /·Wiggins /·- /·Canadian /·professional /·basketball /·player /·wi·gnz·/
+WigginsAndrew /·Wiggins /·- /·Canadian /·professional /·basketball /·player /·wi·gnz·/
 Wingers /·wing·urz·/
 Wrongs /·raangz·/
 Abnormalities /·ab·nor·ma·luh·teez·/
@@ -14045,7 +14041,7 @@ Entrenched /·uhn·trencht·/
 Explanatory /·uhk·spla·nuh·taw·ree·/
 Extremism /·uhk·stree·mi·zm·/
 FairiesFairy /·- /·Mythical /·creature /·feh·reez·/
-Getty /·ImagesFaulknerWilliam /·Faulkner /·- /·American /·writer /·faak·nr·/
+FaulknerWilliam /·Faulkner /·- /·American /·writer /·faak·nr·/
 Filtration /·fuhl·tray·shn·/
 Finalized /·fai·nuh·lized·/
 Flagged /·flagd·/
@@ -14235,7 +14231,7 @@ Gilded /·gil·duhd·/
 Hallelujah /·ha·luh·loo·yuh·/
 Hastily /·hay·stuh·lee·/
 Headphone /·hed·fown·/
-ullstein /·bild /·via /·Getty /·ImagesHemingwayErnest /·Hemingway /·- /·American /·novelist /·heh·muhng·way·/
+ullstein /·bild /·via /·HemingwayErnest /·Hemingway /·- /·American /·novelist /·heh·muhng·way·/
 Horizontally /·haw·ruh·zaan·tuh·lee·/
 Hurtful /·hurt·fl·/
 Illuminate /·uh·loo·muh·nayt·/
@@ -14322,7 +14318,7 @@ Aching /·ay·kuhng·/
 Acquires /·uh·kwai·urz·/
 Afflicted /·uh·flik·tuhd·/
 Airfield /·ehr·feeld·/
-Pictures /·From /·History/Universal /·Images /·Group /·via /·Getty /·ImagesAkbarMughal /·Emperor /·aak·baar·/
+Pictures /·From /·History/Universal /·Images /·Group /·via /·AkbarMughal /·Emperor /·aak·baar·/
 Alienated /·ay·lee·uh·nay·tuhd·/
 Angered /·ang·grd·/
 Arrays /·ur·ayz·/
