@@ -2002,7 +2002,7 @@ Engineer /.en.juh.neer./
 Equivalent /.uh.kwi.vuh.lnt./
 Facing /.fei.sng./
 Fairly /.fer.lee./
-FingersFinger /.fing.grz./
+Fingers /.fing.grz./
 Founded /.fown.dd./
 Functions /.fngk.shnz./
 Greek /.greek./
@@ -2578,7 +2578,7 @@ Females /.fee.meilz./
 Findings /.fain.dngz./
 Firms /.furmz./
 Forum /.faw.rm./
-GiftsGift /.gifts./
+Gifts /.gifts./
 Grass /.gras./
 Hence /.hens./
 Increasingly /.uhn.kree.sng.lee./
@@ -2710,7 +2710,7 @@ Cotton /.kaa.tn./
 Crossed /.kraast./
 Detroit /.duh.troyt./
 Dozen /.duh.zn./
-EnginesEngine /.en.jnz./
+Engines /.en.jnz./
 Exception /.uhk.sep.shn./
 Expand /.uhks.pand./
 Fancy /.fan.see./
@@ -2810,7 +2810,7 @@ Column /.kaa.lm./
 Commit /.kuh.mit./
 Compensation /.kaam.pn.sei.shn./
 Composition /.kaam.puh.zi.shn./
-ComputersComputer /.km.pyoo.trz./
+Computers /.km.pyoo.trz./
 Conservation /.kaan.sr.vei.shn./
 Constitutional /.kaan.stuh.too.shuh.nl./
 Crossing /.kraa.sng./
@@ -3181,7 +3181,7 @@ Shocked /.shaakt./
 Sized /.saizd./
 Stroke /.strowk./
 Stunning /.stuh.nng./
-TanksTank /.tangks./
+Tanks /.tangks./
 Topics /.taa.pks./
 Trains /.treinz./
 Traveling /.tra.vuh.lng./
@@ -3278,7 +3278,7 @@ Maintaining /.mein.tei.nng./
 Measured /.me.zhrd./
 Mercy /.mur.see./
 Nevertheless /.ne.vr.thuh.les./
-NewspapersNewspaper /.nooz.pei.prz./
+Newspapers /.nooz.pei.prz./
 Outer /.au.tr./
 Oxygen /.aak.suh.jn./
 Pissed /.pist./
@@ -3306,7 +3306,7 @@ Trigger /.tri.gr./
 Venue /.ve.nyoo./
 Wages /.wei.jz./
 Wells /.welz./
-WheelsWheel /.weelz./
+Wheels /.weelz./
 Abortion /.uh.bor.shn./
 Accuracy /.a.kyr.uh.see./
 Albert /.al.brt./
@@ -4353,7 +4353,7 @@ Rewards /.ruh.wordz./
 Seemingly /.see.mng.lee./
 Senators /.se.nuh.trz./
 Severely /.suh.veer.lee./
-SharkSharks /.shaark./
+Shark /.shaark./
 Shocking /.shaa.kng./
 Southwest /.sowth.west./
 Studios /.stoo.dee.owz./
@@ -4570,7 +4570,7 @@ Inhabitants /.in.ha.buh.tnts./
 Intel /.in.tel./
 Kicks /.kiks./
 Legends /.le.jndz./
-MagazinesMagazine /.ma.guh.zeenz./
+Magazines /.ma.guh.zeenz./
 Matrix /.mei.truhks./
 Measuring /.me.zhr.uhng./
 Miserable /.mi.zr.uh.bl./
@@ -4714,10 +4714,10 @@ Declare /.duh.kler./
 Designers /.duh.zai.nrz./
 Detect /.duh.tekt./
 Diagnosed /.dai.uhg.nowzd./
-DieselDiesel /.dee.zl./
+Diesel /.dee.zl./
 Dimensions /.duh.men.shnz./
 Disturbing /.ds.tur.bng./
-DressesDress /.dre.sz./
+Dresses /.dre.sz./
 Effectiveness /.uh.fek.tv.ns./
 Eliminated /.uh.li.muh.nei.td./
 Ellen /.e.ln./
@@ -4745,7 +4745,7 @@ Orientation /.aw.ree.en.tei.shn./
 Passport /.pas.port./
 Penis /.pee.ns./
 Pills /.pilz./
-PlanetsPlanet /.pla.nts./
+Planets /.pla.nts./
 Rabbit /.ra.bt./
 Raises /.rei.zz./
 Ranges /.rein.jz./
@@ -4862,7 +4862,7 @@ Arctic /.aark.tk./
 Assists /.uh.sists./
 Bristol /.bri.stl./
 Burnt /.burnt./
-CaloriesCalorie /.ka.lr.eez./
+Calories /.ka.lr.eez./
 Cannabis /.ka.nuh.bs./
 Cease /.sees./
 Championships /.cham.pee.uhn.shuhps./
@@ -4912,13 +4912,13 @@ Semester /.suh.mes.tr./
 Sentiment /.sen.tuh.mnt./
 Servants /.sur.vnts./
 Shipped /.shipt./
-SocksSock /.saaks./
+Socks /.saaks./
 Suited /.soo.td./
 Supplement /.suh.pluh.mnt./
 Surviving /.sr.vai.vng./
 Thereby /.ther.bai./
 Threshold /.thresh.howld./
-TiresTire /.tai.urz./
+Tires /.tai.urz./
 Tribal /.trai.bl./
 Tribes /.traibz./
 Trunk /.truhngk./
@@ -5021,7 +5021,7 @@ Width /.width./
 Workout /.wurk.owt./
 Activated /.ak.tuh.vei.td./
 Adaptation /.a.dp.tei.shn./
-AluminumAluminium /.uh.loo.muh.nm./
+Aluminum /.uh.loo.muh.nm./
 Apartments /.uh.paart.mnts./
 Attitudes /.a.tuh.toodz./
 Attorneys /.uh.tur.neez./
@@ -5042,11 +5042,11 @@ Evaluate /.ee.val.yoo.eit./
 Formally /.for.muh.lee./
 Frames /.freimz./
 Goddess /.gaa.ds./
-HampshireEnglish /.hamp.shr./
+Hampshire /.hamp.shr./
 Harassment /.hr.as.mnt./
 Leeds /.leedz./
 Legit /.luh.jit./
-LiquorSpirit /.li.kr./
+Liquor /.li.kr./
 Loser /.loo.zr./
 Massage /.muh.saazh./
 Matched /.macht./
@@ -5057,7 +5057,7 @@ Nephew /.ne.fyoo./
 Notably /.now.tuh.blee./
 Orchestra /.or.kuhs.truh./
 Packages /.pa.kuh.jz./
-PakistaniPakistan /.pa.kuhs.ta.nee./
+Pakistani /.pa.kuhs.ta.nee./
 Participated /.paar.ti.suh.pei.td./
 Precision /.pruh.si.zhn./
 Preservation /.pre.zr.vei.shn./
@@ -5074,7 +5074,7 @@ Secretly /.see.kruht.lee./
 Seller /.se.lr./
 Sheer /.sheer./
 Shifts /.shifts./
-SimpsonThe /.simp.sn./
+Simpson /.simp.sn./
 Smallest /.smaa.lst./
 Specially /.spe.shuh.lee./
 Stark /.staark./
@@ -5147,7 +5147,7 @@ Lottery /.laa.tuh.ree./
 Magnitude /.mag.nuh.tood./
 Minus /.mai.ns./
 Noting /.now.tng./
-OrgansOrgan /.or.gnz./
+Organs /.or.gnz./
 Outlet /.owt.lt./
 Outlets /.owt.lts./
 Parameters /.pr.a.muh.trz./
@@ -5375,14 +5375,14 @@ Handy /.han.dee./
 Hardcore /.haard.kor./
 Harmful /.haarm.fl./
 Headache /.he.deik./
-HispanicPeople /.huh.spae.nk./
+Hispanic /.huh.spae.nk./
 Incentive /.uhn.sen.tv./
 Inclusive /.in.kloo.siv./
-InfectionsInfection /.uhn.fek.shnz./
+Infections /.uhn.fek.shnz./
 Kissing /.ki.sng./
 Lanes /.leinz./
 Licence /.lai.sns./
-LungsLung /.lngz./
+Lungs /.lngz./
 Madness /.mad.ns./
 Manga /.maang.guh./
 Memorable /.me.mr.uh.bl./
@@ -5471,7 +5471,7 @@ Lectures /.lek.chrz./
 Lightly /.lait.lee./
 Linking /.ling.kng./
 Maintains /.mein.teinz./
-MarbleRock /.maar.bl./
+Marble /.maar.bl./
 Maritime /.me.ruh.taim./
 Modes /.mowdz./
 Nominee /.naa.muh.nee./
@@ -5483,15 +5483,15 @@ Polar /.pow.lr./
 Prediction /.pree.dik.shn./
 Preview /.pree.vyoo./
 Pursuing /.pr.soo.uhng./
-PuzzleGame /.puh.zl./
+Puzzle /.puh.zl./
 Rapper /.ra.pr./
 Reconstruction /.ree.kns.truhk.shn./
 Renowned /.ruh.nownd./
 Revelation /.re.vuh.lei.shn./
 Scholar /.skaa.lr./
-SharksFish /.shaarks./
+Sharks/.shaarks./
 Shoots /.shoots./
-SkirtDress /.skurt./
+Skirt /.skurt./
 Socially /.sow.shuh.lee./
 Spike /.spaik./
 Sprint /.sprint./
@@ -5507,7 +5507,7 @@ Touchdown /.tch.down./
 Traits /.treits./
 Tricky /.tri.kee./
 Triumph /.trai.uhmf./
-UnderwearUndergarment /.uhn.dr.wer./
+Underwear /.uhn.dr.wer./
 Viable /.vai.uh.bl./
 Waist /.weist./
 Welcomed /.wel.kmd./
@@ -5605,18 +5605,18 @@ Traders /.trei.drz./
 Varieties /.vr.ai.uh.teez./
 Vegan /.vee.gn./
 Waking /.wei.kng./
-WalmartRetailer /.waal.maart./
+Walmart /.waal.maart./
 Wilderness /.wil.dr.ns./
 Admits /.uhd.mits./
 Adviser /.uhd.vai.zr./
 Anatomy /.uh.na.tuh.mee./
-Annie1982 /.a.nee./
+Annie /.a.nee./
 Announces /.uh.nown.sz./
 Applicants /.a.pluh.knts./
 Automobile /.aa.tuh.mow.beel./
 Breasts /.brests./
 Cement /.suh.ment./
-ChessGame /.ches./
+Chess /.ches./
 Citing /.sai.tng./
 Colonies /.kaa.luh.neez./
 Consequently /.kaan.suh.kwuhnt.lee./
@@ -5641,7 +5641,7 @@ Locks /.laaks./
 Lynch /.linch./
 Manages /.ma.nuh.jz./
 Masses /.ma.sz./
-MedicareUnited /.me.duh.ker./
+Medicare /.me.duh.ker./
 Modeling /.maa.duh.lng./
 Motive /.mow.tv./
 Nazis /.naat.seez./
@@ -5652,7 +5652,7 @@ Oppose /.uh.powz./
 Optimal /.aap.tuh.ml./
 Overtime /.ow.vr.taim./
 Packs /.paks./
-PlaystationPortable /.plei.stei.shn./
+Playstation /.plei.stei.shn./
 Postal /.pow.stl./
 Predictions /.pree.dik.shnz./
 Profound /.prow.fownd./
@@ -5736,7 +5736,7 @@ Painter /.pein.tr./
 Perth /.purth./
 Pierce /.peers./
 Pistol /.pi.stl./
-PrinterComputer /.prin.tr./
+Printer /.prin.tr./
 Prone /.prown./
 Raiders /.rei.drz./
 Readily /.re.duh.lee./
@@ -5744,7 +5744,7 @@ Reflecting /.ruh.flek.tng./
 Remembers /.ruh.mem.brz./
 Revival /.ruh.vai.vl./
 Sanctuary /.sangk.choo.e.ree./
-SatanGod /.sei.tn./
+Satan /.sei.tn./
 Satisfying /.sa.ts.fai.uhng./
 Securing /.suh.kyur.uhng./
 Sensors /.sen.srz./
@@ -5756,7 +5756,7 @@ Sleeve /.sleev./
 Sonic /.saa.nk./
 Soundtrack /.sownd.trak./
 Speeches /.spee.chz./
-SpineVertebral /.spain./
+Spine /.spain./
 Steering /.stee.rng./
 Substances /.sb.stuhn.sz./
 Sustain /.suhs.tein./
@@ -6014,7 +6014,7 @@ Mortality /.mor.ta.luh.tee./
 Notices /.now.tuh.sz./
 Obsession /.uhb.se.shn./
 Particle /.paar.tuh.kl./
-PeanutLegume /.pee.nt./
+Peanut /.pee.nt./
 Persistent /.pr.sis.tnt./
 Personalities /.pur.suh.na.li.teez./
 Petroleum /.puh.trow.lee.uhm./
@@ -6302,12 +6302,12 @@ Psychiatric /.sai.kee.a.truhk./
 Regulate /.re.gyuh.leit./
 Renaissance /.re.nuh.saans./
 Repeal /.ruh.peel./
-ReutersNew /.roy.trz./
+Reuters /.roy.trz./
 Riots /.rai.uhts./
 Roast /.rowst./
 Rubbish /.ruh.bsh./
 Salon /.suh.laan./
-SeventeenBoy /.se.vn.teen./
+Seventeen /.se.vn.teen./
 Shields /.sheeldz./
 Sliding /.slai.dng./
 Sodium /.sow.dee.uhm./
@@ -6326,7 +6326,7 @@ Unstable /.uhn.stei.bl./
 Vague /.veig./
 Abundance /.uh.bn.dns./
 Advancing /.uhd.van.sng./
-AlbertaCanadian /.al.bur.tuh./
+Alberta /.al.bur.tuh./
 Antique /.an.teek./
 Autonomy /.aa.taa.nuh.mee./
 Baptist /.bap.tst./
@@ -6361,7 +6361,7 @@ Fictional /.fik.shuh.nl./
 Fragile /.fra.jl./
 Fringe /.frinj./
 Fulfill /.fl.fil./
-GraniteForm /.gra.nt./
+Granite /.gra.nt./
 Greens /.greenz./
 Handbook /.hand.buk./
 Hardy /.haar.dee./
@@ -6540,7 +6540,7 @@ Exploitation /.eks.ploy.tei.shn./
 Futures /.fyoo.chrz./
 Genetics /.juh.ne.tks./
 Goose /.goos./
-GrillBarbecue /.gril./
+Grill /.gril./
 Grounded /.grown.dd./
 Hating /.hei.tng./
 Heroic /.hr.ow.uhk./
@@ -6978,7 +6978,7 @@ Inheritance /.uhn.he.ruh.tns./
 Introduces /.in.truh.doo.sz./
 Ironic /.ai.raa.nk./
 Lacked /.lakt./
-LuggageBaggage /.luh.gj./
+Luggage /.luh.gj./
 Madame /.ma.dm./
 Maggie /.ma.gee./
 Melting /.mel.tng./
@@ -7241,7 +7241,7 @@ Thomson /.taam.sn./
 Tortured /.tor.chrd./
 Traction /.trak.shn./
 Tractor /.trak.tr./
-TroutFish /.trowt./
+Trout/.trowt./
 Turnover /.tur.now.vr./
 Uganda /.yoo.gaan.duh./
 Unwanted /.uhn.waan.td./
@@ -8305,7 +8305,7 @@ MortgagesMortgage /.mor.guh.jz./
 Mourning /.mor.nng./
 MustardCondiment /.muhs.trd./
 Negatively /.ne.guh.tiv.lee./
-NissanAutomobile /.nee.saan./
+Nissan /.nee.saan./
 Objections /.uhb.jek.shnz./
 Persona /.pr.sow.nuh./
 Plaque /.plak./
@@ -9572,8 +9572,8 @@ Marital /.me.ruh.tl./
 Multitude /.ml.tuh.tood./
 Nanny /.na.nee./
 Nineteen /.nain.teen./
-NipplesNipple /.ni.plz./
-NucleusCell /.noo.klee.uhs./
+Nipples /.ni.plz./
+Nucleus /.noo.klee.uhs./
 Orbital /.or.buh.tl./
 Organism /.or.guh.ni.zm./
 Outgoing /.owt.gow.uhng./
@@ -9616,7 +9616,7 @@ Typhoon /.tai.foon./
 Unreal /.uhn.reel./
 Upheld /.uhp.held./
 Vaccination /.vak.suh.nei.shn./
-ValvesValve /.valvz./
+Valves /.valvz./
 Vampires /.vam.pai.urz./
 Vibration /.vai.brei.shn./
 Vitamins /.vai.tuh.mnz./
@@ -9992,7 +9992,7 @@ Lithium /.li.thee.uhm./
 Lucrative /.loo.kruh.tv./
 Managerial /.ma.nuh.jee.ree.uhl./
 Mandated /.man.dei.td./
-MangoFruit /.mang.gow./
+Mango /.mang.gow./
 Militants /.mi.luh.tnts./
 Moderately /.maa.duh.ruht.lee./
 Multimedia /.ml.tee.mee.dee.uh./
@@ -10086,7 +10086,7 @@ Bulbs /.blbz./
 Bureaucracy /.byoo.raa.kruh.see./
 Cabbage /.ka.bj./
 Cater /.kei.tr./
-CelticsBoston /.sel.tks./
+Celtics /.sel.tks./
 Chimney /.chim.nee./
 Chrysler /.krai.slr./
 Circulated /.sur.kyuh.lei.td./
@@ -10155,7 +10155,7 @@ Outsider /.owt.sai.dr./
 Overcoming /.ow.vr.kuh.mng./
 Palms /.paamz./
 Penetrate /.pe.nuh.treit./
-PhelpsMichael /.felps./
+Phelps /.felps./
 Pioneers /.pai.uh.neerz./
 Plaintiff /.plein.tf./
 Planners /.pla.nrz./
@@ -10277,11 +10277,11 @@ Inmate /.in.meit./
 Inscription /.uhn.skrip.shn./
 Interpreter /.uhn.tur.pruh.tr./
 Intuition /.uhn.too.i.shn./
-Invaluable /.in.val.yuh.bl./
+Invaluable /.in.va.lyuh.bl./
 Kaiser /.kai.zr./
 Kettle /.ke.tl./
-LaptopsLaptop /.lap.taaps./
-LasersLaser /.lei.zrz./
+Laptops /.lap.taaps./
+Lasers /.lei.zrz./
 Lilly /.li.lee./
 Malta /.maal.tuh./
 Markings /.maar.kngz./
@@ -10298,7 +10298,7 @@ Optimum /.aap.tuh.mm./
 Ounces /.own.sz./
 Overwhelmingly /.ow.vr.wel.ming.lee./
 OysterSeafood /.oy.str./
-Pastoral /.pas.tr.uhl./
+Pastoral /.pas.tuh.ruhl./
 Patented /.pa.tn.td./
 Pearls /.purlz./
 Physiological /.fi.zee.uh.laa.ji.kl./
@@ -10543,7 +10543,7 @@ Detecting /.duh.tek.tng./
 Dickens /.di.knz./
 Disable /.dis.ei.bl./
 Disconnected /.dis.kuh.nek.td./
-DishonestDishonesty /.dis.aa.nst./
+Dishonest /.dis.aa.nst./
 Dosage /.dow.sj./
 Doubtful /.dowt.fl./
 Dysfunction /.duh.sfuhngk.shn./
@@ -10580,7 +10580,7 @@ Hateful /.heit.fl./
 Haunting /.haan.tng./
 Hepatitis /.he.puh.tai.ts./
 Honoring /.aa.nr.uhng./
-HoraceRoman /.haw.rs./
+Horace /.haw.rs./
 Horrors /.haw.rrz./
 Huntington /.hn.ting.tn./
 Inhabited /.uhn.ha.buh.td./
@@ -10600,7 +10600,7 @@ Mediocre /.mee.dee.ow.kr./
 Mixes /.mik.sz./
 Morse /.mors./
 Mounts /.mownts./
-NiagaraNiagara /.nai.a.gruh./
+Niagara /.nai.a.gruh./
 Nicest /.nai.sst./
 Nicotine /.ni.kuh.teen./
 Nordic /.nor.dk./
@@ -10646,7 +10646,7 @@ Tread /.tred./
 Tripping /.tri.png./
 Truce /.troos./
 Tsunami /.soo.naa.mee./
-TurbinesTurbine /.tur.bainz./
+Turbines /.tur.bainz./
 Turmoil /.tur.moyl./
 Typed /.taipt./
 Tyranny /.tee.ruh.nee./
@@ -10665,7 +10665,7 @@ Accessibility /.uhk.se.suh.bi.luh.tee./
 Acquainted /.uh.kwein.td./
 Airplanes /.er.pleinz./
 Aloud /.uh.lowd./
-AngularWeb /.ang.gyoo.lr./
+Angular /.ang.gyoo.lr./
 Anterior /.an.tee.ree.ur./
 Appendix /.uh.pen.dks./
 Attackers /.uh.ta.krz./
@@ -10675,11 +10675,11 @@ Barking /.baar.kng./
 Bauer /.bau.ur./
 Beckham /.be.km./
 Behaving /.bee.hei.vng./
-BenignBenign /.buh.nain./
+Benign /.buh.nain./
 Berkshire /.burk.shr./
 Bleach /.bleech./
 Boast /.bowst./
-BrandyLiquor /.bran.dee./
+Brandy /.bran.dee./
 Brethren /.breth.rn./
 Brink /.bringk./
 Carving /.kaar.vng./
@@ -10796,7 +10796,7 @@ Usher /.uh.shr./
 Vacations /.vei.kei.shnz./
 Vascular /.va.skyuh.lr./
 Wholesome /.howl.sm./
-WileyPublishing /.wai.lee./
+Wiley /.wai.lee./
 Witnessing /.wit.nuh.sng./
 Workouts /.wur.kowts./
 Yielded /.yeel.dd./
@@ -10833,10 +10833,10 @@ Buckets /.buh.kts./
 Buckle /.buh.kl./
 Burlington /.bur.lng.tn./
 Bursts /.bursts./
-CanoeMeans /.kuh.noo./
+Canoe /.kuh.noo./
 Chilly /.chi.lee./
 Chords /.kordz./
-CiderBeverage /.sai.dr./
+Cider /.sai.dr./
 Clowns /.klownz./
 Clueless /.kloo.ls./
 Consciously /.kaan.shuh.slee./
@@ -10913,7 +10913,7 @@ Paycheck /.pei.chek./
 Peaches /.pee.chz./
 Picturesque /.pik.chr.esk./
 Pilgrimage /.pil.gruh.mj./
-PillowsPillow /.pi.lowz./
+Pillows /.pi.lowz./
 Pivot /.pi.vt./
 Pivotal /.pi.vuh.tl./
 Pressured /.pre.shrd./
@@ -10924,7 +10924,7 @@ Provoke /.pruh.vowk./
 Pulmonary /.pl.muh.ne.ree./
 Punishing /.puh.nuh.shng./
 Radicals /.ra.duh.klz./
-RaspberryFruit /.raz.be.ree./
+Raspberry /.raz.be.ree./
 Reconcile /.re.kn.sail./
 Regression /.ruh.gre.shn./
 Resilient /.ruh.zil.ynt./
@@ -10971,19 +10971,19 @@ Attire /.uh.tai.ur./
 Authored /.aa.thrd./
 Autograph /.aa.tuh.graf./
 Automobiles /.aa.tuh.muh.beelz./
-BarleyCereal /.baar.lee./
+Barley /.baar.lee./
 Bitten /.bi.tn./
 Blasted /.blas.td./
 Blasts /.blasts./
 Botanical /.buh.ta.nuh.kl./
 Bottled /.baa.tld./
-BracesDental /.brei.sz./
+Braces /.brei.sz./
 Breakout /.brei.kowt./
 Bumped /.bmpt./
 Bursting /.bur.stuhng./
 Catchy /.ka.chee./
 Ceremonial /.se.ruh.mow.nee.uhl./
-ChanelFashion /.shuh.nel./
+Chanel /.shuh.nel./
 Chilled /.child./
 Choreography /.kaw.ree.aa.gruh.fee./
 Cisco /.si.skow./
@@ -11006,7 +11006,7 @@ Disagreed /.di.suh.greed./
 Dissolve /.duh.zaalv./
 Diverted /.duh.vur.td./
 Dubious /.doo.bee.uhs./
-DudleyTown /.dd.lee./
+Dudley /.dd.lee./
 Eagerly /.ee.gr.lee./
 Ecclesiastical /.uh.klee.zee.as.tuh.kl./
 Egyptians /.i.jip.shnz./
@@ -11046,7 +11046,7 @@ Intellectuals /.in.tuh.lek.choo.uhlz./
 Intending /.uhn.ten.dng./
 Isabella /.i.zuh.be.luh./
 Jihad /.jee.haad./
-KidneysKidney /.kid.neez./
+Kidneys /.kid.neez./
 Lahore /.luh.hor./
 Lapse /.laps./
 Laundering /.laan.dr.uhng./
@@ -11175,7 +11175,7 @@ Diner /.dai.nr./
 Dipping /.di.png./
 Disneyland /.diz.nee.land./
 Disposition /.di.spuh.zi.shn./
-Documentaries /.daa.kyuh.men.tr.eez./
+Documentaries /.daa.kyuh.men.tuh.reez./
 Dripping /.dri.png./
 Ecstasy /.eks.tuh.see./
 Eighteenth /.ei.teenth./
@@ -11202,7 +11202,7 @@ Gradient /.grei.dee.uhnt./
 Gravy/.grei.vee./
 Grenades /.gruh.neidz./
 Harmed /.haarmd./
-HerringFish /.he.rng./
+Herring/.he.rng./
 Hires /.hai.urz./
 Hopper /.haa.pr./
 Hugging /.huh.gng./
@@ -11217,13 +11217,13 @@ Kathryn /.ka.thruhn./
 Keynote /.kee.nowt./
 Kidnap /.kid.nap./
 Koreans /.kr.ee.uhnz./
-KrishnaDeity /.krish.nuh./
+Krishna /.krish.nuh./
 Learners /.lur.nrz./
 Liquids /.li.kwuhdz./
 MeatsMeat /.meets./
 Motivational /.mow.tuh.vei.shuh.nl./
 Nightly /.nait.lee./
-NormandyAdministrative /.nor.mn.dee./
+Normandy /.nor.mn.dee./
 Notwithstanding /.naat.wths.tan.dng./
 Ordained /.or.deind./
 Originating /.uh.ri.juh.nei.tng./
@@ -11246,7 +11246,7 @@ Raptors /.rap.trz./
 Reinforcements /.ree.uhn.for.smuhnts./
 Repetition /.re.puh.ti.shn./
 Restraining /.rs.trei.nng./
-Retrospective /.re.truh.spek.tiv./
+Retrospective /.re.truhs.pek.tiv./
 Revise /.ruh.vaiz./
 Righteousness /.rai.chs.ns./
 Rinse /.rins./
@@ -11277,9 +11277,9 @@ Terrestrial /.tuh.res.tree.uhl./
 Textures /.teks.chrz./
 Thinkers /.thing.krz./
 Thorn /.thorn./
-Toned /.townd./
+Toned /.tound./
 Totals /.tow.tlz./
-Triggering /.tri.gr.uhng./
+Triggering /.tri.guh.rng./
 Tulsa /.tl.suh./
 Twenties /.twen.teez./
 Uncover /.uhn.kuh.vr./
@@ -11290,7 +11290,7 @@ Urgently /.ur.jnt.lee./
 Virginity /.vr.ji.ni.tee./
 Virtues /.vur.chooz./
 Volvo /.vowl.vow./
-Vouchers /.vau.chrz./.shz..shz.
+Vouchers /.vau.chrz./
 Waived /.weivd./
 Wharf /.worf./
 Wiser /.wai.zr./
@@ -11301,7 +11301,7 @@ Aggravated /.a.gruh.vei.td./
 Alleging /.uh.le.jng./
 Anomaly /.uh.naa.muh.lee./
 Aperture /.a.pr.chr./
-Apostles /.uh.paa.slz./
+Apostles /.uh.paas.lz./
 Apprenticeship /.uh.pren.ts.shp./
 Aspire /.uhs.pai.ur./
 Benches /.ben.chz./
@@ -11349,7 +11349,7 @@ Grumpy /.gruhm.pee./
 Guise /.gaiz./
 Halves /.havz./
 Heightened /.hai.tnd./
-Horizons /.hr.ai.znz./
+Horizons /.huh.rai.znz./
 Imitation /.i.muh.tei.shn./
 Immersion /.uh.mur.zhn./
 Inconvenient /.in.kn.vee.nynt./
@@ -11357,20 +11357,20 @@ Inspires /.uhn.spai.urz./
 Interfaces /.in.tr.fei.sz./
 Intrigued /.uhn.treegd./
 Intrinsic /.uhn.trin.sk./
-Irresistible /.ee.ruh.zi.stuh.bl./
-KittensKitten /.ki.tnz./
+Irresistible /.ee.ruh.zis.tuh.bl./
+Kittens /.ki.tnz./
 Landmarks /.land.maarks./
-Landslide /.land.slaid./
+Landslide /.lands.laid./
 Leash /.leesh./
 Makeover /.meik.ow.vr./
 Manned /.mand./
 Melodies /.me.luh.deez./
-Memorandum /.me.mr.an.dm./
+Memorandum /.me.muh.ran.dm./
 Mercer /.mur.sr./
 Mermaid /.mur.meid./
 Miriam /.mee.ree.uhm./
-Moderation /.maa.dr.ei.shn./
-Moroccan /.mr.aa.kn./
+Moderation /.maa.duh.rei.shn./
+Moroccan /.muh.raa.kn./
 Nobility /.now.bi.luh.tee./
 Notation /.now.tei.shn./
 Onstage /.aan.steij./
@@ -11388,7 +11388,7 @@ Raided /.rei.dd./
 Railroads /.reil.rowdz./
 Reggae /.re.gei./
 Relegated /.re.luh.gei.td./
-Respectfully /.ri.spekt.fuh.lee./
+Respectfully /.ris.pekt.fuh.lee./
 Reviewer /.ruh.vyoo.ur./
 Reviewers /.ruh.vyoo.urz./
 Shire /.shai.ur./
@@ -11398,7 +11398,7 @@ Sobbing /.saa.bng./
 Spitting /.spi.tng./
 Starved /.staarvd./
 Stirred /.sturd./
-StockingsStocking /.staa.kngz./
+Stockings /.staa.kngz./
 Stuffing/.stuh.fng./
 Substituted /.sb.stuh.too.td./
 Succeeds /.sk.seedz./
@@ -11406,7 +11406,7 @@ Summons /.suh.mnz./
 Swung /.swuhng./
 Taboo /.tuh.boo./
 Teaser /.tee.zr./
-ThatcherMargaret /.tha.chr./
+Thatcher /.tha.chr./
 Throttle /.thraa.tl./
 Tides /.taidz./
 Trendy /.tren.dee./
@@ -11455,7 +11455,7 @@ Changer /.chein.jr./
 Chestnut /.che.snuht./
 Cleaners /.klee.nrz./
 Cleanup /.klee.np./
-ClemsonClemson /.klem.sn./
+Clemson /.klem.sn./
 Cocks /.kaaks./
 Compose /.km.powz./
 Concise /.kn.sais./
@@ -11587,7 +11587,7 @@ Wandered /.waan.drd./
 Wrongly /.raang.lee./
 Abiding /.uh.bai.dng./
 Adele /.uh.del./
-AlcoholismMental /.al.kuh.haa.li.zm./
+Alcoholism /.al.kuh.haa.li.zm./
 Amplifier /.am.pluh.fai.ur./
 Arches /.aar.chz./
 Astounding /.uhs.town.dng./
@@ -11612,19 +11612,19 @@ CervicalCervical /.sur.vuh.kl./
 Checklist /.che.klist./
 Cherokee /.che.ruh.kee./
 Cheshire /.che.shr./
-Cinderella2015 /.sin.dr.e.luh./
-ClampTool /.klamp./
+Cinderella /.sin.duh.re.luh./
+Clamp /.klamp./
 Clans /.klanz./
 Competitiveness /.km.pe.tuh.tv.ns./
 Composers /.km.pow.zrz./
-Confederation /.kn.fe.dr.ei.shn./
+Confederation /.kn.fe.duh.rei.shn./
 Confidentiality /.kaan.fuh.den.shee.a.luh.tee./
 Configurations /.kn.fi.gyr.ei.shnz./
 Contradiction /.kaan.truh.dik.shn./
 Coronation /.kaw.ruh.nei.shn./
 Cracker /.kra.kr./
-CrackersCracker /.kra.krz./
-CrimeaCrimean /.krai.mee.uh./
+Crackers /.kra.krz./
+Crimea /.krai.mee.uh./
 Cumberland /.km.br.lnd./
 Cunning /.kuh.nng./
 Depiction /.di.pik.shn./
@@ -11683,7 +11683,7 @@ Mayhem /.mei.hem./
 Merging /.mur.jng./
 Mistakenly /.mi.stei.kn.lee./
 Mould /.mowld./
-NeuroscienceField /.nur.ow.sai.uhns./
+Neuroscience /.nur.ow.sai.uhns./
 Niger /.nai.jr./
 Nipple /.ni.pl./
 Noses /.now.zz./
@@ -11713,12 +11713,12 @@ Rendition /.ren.di.shn./
 Revisions /.ruh.vi.zhnz./
 Roadside /.rowd.said./
 Rovers /.row.vrz./
-SaskatchewanCanadian /.suhs.ka.chuh.waan./
+Saskatchewan /.suhs.ka.chuh.waan./
 Scientifically /.sai.uhn.ti.fi.kuh.lee./
 Scrambled /.skram.bld./
 Scratches /.skra.chz./
 Secretariat /.se.kruh.te.ree.uht./
-SemitismSemitic /.se.mai.ti.zm./
+Semitism /.se.mai.ti.zm./
 Shaky /.shei.kee./
 Shortcomings /.short.kuh.mngz./
 Shredded /.shre.dd./
@@ -11736,7 +11736,7 @@ StoutBeer /.stowt./
 Strategically /.struh.tee.juh.klee./
 Stripper /.stri.pr./
 Stump /.stuhmp./
-SubmarinesSubmarine /.sb.mr.eenz./
+Submarines /.sb.mr.eenz./
 Swimmers /.swi.mrz./
 Tentative /.ten.tuh.tv./
 Tongues /.tngz./
@@ -11783,7 +11783,7 @@ Cupboard /.kuh.brd./
 Customized /.kuhs.tuh.maizd./
 Depended /.duh.pen.dd./
 Deprivation /.de.pruh.vei.shn./
-DeweyJohn /.doo.ee./
+Dewey /.doo.ee./
 Disqualified /.ds.kwaa.luh.faid./
 Disrupted /.duh.sruhp.td./
 Diversified /.dai.vur.suh.faid./
@@ -11811,7 +11811,7 @@ Groundwater /.grownd.waa.tr./
 HeidiBook /.hai.dee./
 Hospitalized /.haas.puh.tuh.laizd./
 Hostilities /.haas.ti.luh.teez./
-HyundaiHyundai /.hn.dei./
+Hyundai /.hn.dei./
 Illusions /.uh.loo.zhnz./
 Inadvertently /.i.nd.vur.tnt.lee./
 Indifferent /.uhn.di.fuh.ruhnt./
@@ -12065,7 +12065,7 @@ Sterile /.ste.rl./
 Stride /.straid./
 Stringent /.strin.jnt./
 Surfaced /.sur.fst./
-SuzukiAutomobile /.suh.zoo.kee./
+Suzuki /.suh.zoo.kee./
 TacosTaco /.taa.kowz./
 Therapists /.the.ruh.psts./
 Torrent /.taw.rnt./
@@ -13390,7 +13390,7 @@ Protestants /.praa.ts.tnts./
 Prowess /.prau.uhs./
 Prussia /.pruh.shuh./
 Psychologically /.sai.kuh.laa.ji.klee./
-PulitzerPulitzer /.pu.lt.sr./
+Pulitzer /.pu.lt.sr./
 Pursuits /.pr.soots./
 Rattle /.ra.tl./
 Recycle /.ruh.sai.kl./
@@ -13508,7 +13508,7 @@ Infirmary /.uhn.fur.muh.ree./
 Inflict /.uhn.flikt./
 Inhibit /.uhn.hi.bt./
 Intellectually /.in.tuh.lek.choo.uh.lee./
-Interstellar2014 /.in.tr.ste.lr./
+Interstellar /.in.tr.ste.lr./
 Intoxicated /.uhn.taak.suh.kei.td./
 Involuntary /.uhn.vaa.ln.te.ree./
 Issuance /.i.shoo.uhns./
@@ -13522,7 +13522,7 @@ Likeness /.laik.ns./
 Loaned /.lownd./
 Lofty /.laaf.tee./
 Ludicrous /.loo.duh.kruhs./
-Maharashtra /.maa.hr.aash.truh./
+Maharashtra /.maa.huh.raash.truh./
 Maize /.meiz./
 Malice /.ma.ls./
 Marginalized /.maar.juh.nuh.laizd./
@@ -13552,7 +13552,7 @@ Phillies /.fi.leez./
 Picky /.pi.kee./
 Pistons /.pi.stnz./
 Pizzas /.peet.sz./
-PooleTown /.pool./
+Pool /.pool./
 Populace /.paa.pyuh.ls./
 Pretoria /.pruh.taw.ree.uh./
 Pricey /.prai.see./
@@ -13731,8 +13731,8 @@ Montage /.maan.taazh./
 Monterey /.maan.tr.ei./
 Napoli /.na.puh.lee./
 Negligent /.ne.gluh.jnt./
-NetanyahuBenjamin /.ne.tn.yaa.hoo./
-NikonCorporation /.nai.kaan./
+Netanyahu /.ne.tn.yaa.hoo./
+Nikon /.nai.kaan./
 Optimize /.aap.tuh.maiz./
 Passionately /.pa.shuh.nt.lee./
 Pastors /.pas.trz./
@@ -14133,7 +14133,7 @@ Uniting /.yoo.nai.tng./
 Urinary /.yur.uh.ne.ree./
 Valiant /.va.lee.uhnt./
 Vigilante /.vi.juh.lan.tee./
-ViperVipers /.vai.pr./
+Viper /.vai.pr./
 Weekday /.week.dei./
 Weirdest /.weer.dst./
 Whistles /.wi.slz./
@@ -14155,7 +14155,7 @@ Beige /.beizh./
 Blasphemy /.bla.sfuh.mee./
 Blinds /.blaindz./
 Blinking /.bling.kng./
-BlueberryFruit /.bloo.be.ree./
+Blueberry /.bloo.be.ree./
 Bosch /.baash./
 Breathes /.breethz./
 Bribes /.braibz./
@@ -14222,9 +14222,9 @@ Introductions /.in.truh.dk.shnz./
 Inverness /.in.vr.nes./
 Knoxville /.naaks.vil./
 Labrador /.la.bruh.dor./
-LatteDrink /.laa.tei./
+Latte /.laa.tei./
 Leafy /.lee.fee./
-MargaritaCocktail /.maar.gr.ee.tuh./
+Margarita /.maar.gr.ee.tuh./
 Masturbating /.mas.tr.bei.tng./
 Meddling /.me.duh.lng./
 Ollie /.aa.lee./
@@ -14287,7 +14287,7 @@ Unspecified /.uhn.spe.suh.faid./
 Vacated /.vei.kei.td./
 Venetian /.vuh.nee.shn./
 Waffle/.waa.fl./
-WarshipsWarship /.wor.ships./
+Warships /.wor.ships./
 Washes /.waa.shz./
 WaspsWasp /.waasps./
 Winery /.wai.nr.ee./
@@ -14328,7 +14328,7 @@ Collide /.kuh.laid./
 Commemoration /.kuh.me.mr.ei.shn./
 Commuting /.kuh.myoo.tng./
 Complexion /.km.plek.shn./
-CompulsiveCompulsive /.km.pl.sv./
+Compulsive /.km.pl.sv./
 Congenital /.kn.je.nuh.tl./
 Construed /.kn.strood./
 Consular /.kaan.suh.lr./
@@ -14551,7 +14551,7 @@ Frail /.freil./
 Gathers /.ga.thrz./
 Generational /.je.nr.ei.shuh.nl./
 Glaze /.gleiz./
-GoldfishFish /.gowld.fish./
+Goldfish /.gowld.fish./
 Greenville /.green.vil./
 Grizzly /.griz.lee./
 Grotesque /.grow.tesk./
@@ -14573,7 +14573,7 @@ Kaufman /.kaaf.mn./
 Lawless /.laa.ls./
 Leftists /.lef.tsts./
 Legalized /.lee.guh.laizd./
-LeggingsAttire /.le.gngz./
+Leggings /.le.gngz./
 Legions /.lee.jnz./
 Locomotives /.low.kuh.mow.tvz./
 Macau /.muh.kau./
@@ -14589,7 +14589,7 @@ Multiplied /.ml.tuh.plaid./
 Objectively /.uhb.jek.tv.lee./
 Orbiting /.or.buh.tng./
 Orchestrated /.or.kuhs.trei.td./
-PackardAutomobile /.pa.krd./
+Packard /.pa.krd./
 Parisian /.pr.ee.zhn./
 Participates /.paar.ti.suh.peits./
 Phoned /.faund./
@@ -14664,7 +14664,7 @@ Adversely /.uhd.vur.slee./
 Afternoons /.af.tr.noonz./
 Agendas /.uh.jen.dz./
 Alfredo /.al.frei.dow./
-AmishPeople /.aa.msh./
+Amish /.aa.msh./
 Angled /.ang.gld./
 Antennas /.an.te.nz./
 Assertions /.uh.sur.shnz./
@@ -14852,7 +14852,7 @@ Utilizes /.yoo.tuh.lai.zz./
 Vanishing /.va.nuh.shng./
 Venerable /.ve.nr.uh.bl./
 Visualize /.vi.zhoo.uh.laiz./
-VulcanGod /.vl.kn./
+Vulcan /.vl.kn./
 Wasteful /.weist.fl./
 Waterfalls /.waa.tr.faalz./
 Youngster /.yng.str./
@@ -14930,7 +14930,7 @@ Frustrations /.fruhs.trei.shnz./
 Fukushima /.foo.koo.shee.muh./
 Godly /.gaad.lee./
 Golfers /.gaal.frz./
-GroinInguinal /.groyn./
+Groin /.groyn./
 Grounding /.grown.dng./
 Guangzhou /.gwaang.jow./
 Gunpowder /.gn.pau.dr./
@@ -15156,7 +15156,7 @@ Instinctively /.in.stingk.tiv.lee./
 Interconnected /.in.tr.kuh.nek.td./
 Intolerant /.uhn.taa.luh.ruhnt./
 Jellyfish /.je.lee.fish./
-KeaneRock /.keen./
+Keane /.keen./
 Kilos /.kee.lowz./
 Kurdistan /.kur.dis.tan./
 Lament /.luh.ment./
