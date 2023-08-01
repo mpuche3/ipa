@@ -1,4 +1,3 @@
-const words_txt = `
 About /.uh.baut./
 Their /.ther./
 There /.ther./
@@ -15462,15 +15461,3 @@ Comical /.kaa.mi.kl./
 Commemorative /.kuh.me.muh.ruh.tv./
 Confederacy /.kn.fe.duh.ruh.see./
 Converge /.kn.vurj./
-`
-const words = {}
-words_txt.split('\n').filter(x => x.trim() !== "").forEach(line => {
-    try{
-        const arr = line.toLowerCase().trim().split(" ");
-        const spelling = arr[0];
-        const pronunciation = arr[1].replaceAll("·", ".");
-        words[spelling] = pronunciation;
-    } catch(e) {
-        console.log('Error processing line:', line);
-    }
-});

@@ -96,7 +96,7 @@ Season /.see.zn./
 Thank /.thangk./
 Children /.chil.druhn./
 Everyone /.e.vr.ee.wn./
-General /.je.nr.uhl./
+General /.je.nuh.ruhl./
 Trying /.trai.uhng./
 United /.yoo.nai.td./
 Using /.yoo.zng./
@@ -659,7 +659,7 @@ Train /.trein./
 Author /.aa.thr./
 Claim /.kleim./
 Developed /.duh.ve.lpt./
-Generally /.je.nr.uh.lee./
+Generally /.je.nuh.ruh.lee./
 Global /.glow.bl./
 Goals /.gowlz./
 Gotta /.gaa.tuh./
@@ -972,7 +972,7 @@ Failed /.feild./
 Faith /.feith./
 Fashion /.fa.shn./
 Feature /.fee.chr./
-Generation /.je.nr.ei.shn./
+Generation /.je.nuh.rei.shn./
 Hearing /.hee.rng./
 Larger /.laar.jr./
 Metal /.me.tl./
@@ -2616,7 +2616,7 @@ Currency /.kur.uhn.see./
 Emotions /.ee.mow.shnz./
 Exhibition /.ek.suh.bi.shn./
 Fraud /.fraad./
-Funeral /.fyoo.nr.uhl./
+Funeral /.fyoo.nuh.rl./
 Genuine /.jen.yoo.uhn./
 Honey /.huh.nee./
 Hunter /.hn.tr./
@@ -2768,7 +2768,7 @@ Delicious /.duh.li.shuhs./
 Deserves /.duh.zurvz./
 Extend /.uhks.tend./
 Flood /.fluhd./
-Generated /.je.nr.ei.td./
+Generated /.je.nuh.rei.td./
 Genetic /.juh.ne.tk./
 Glasses /.gla.sz./
 Impressed /.uhm.prest./
@@ -3057,7 +3057,7 @@ Followers /.faa.low.urz./
 Framework /.freim.wurk./
 Funded /.fn.dd./
 Furniture /.fur.nuh.chr./
-Generations /.je.nr.ei.shnz./
+Generations /.je.nuh.rei.shnz./
 Guaranteed /.ge.rn.teed./
 Integrated /.in.tuh.grei.td./
 Intelligent /.uhn.te.luh.jnt./
@@ -3474,7 +3474,7 @@ Employer /.uhm.ploy.ur./
 Explosion /.uhks.plow.zhn./
 Fever /.fee.vr./
 Fluid /.floo.uhd./
-Generate /.je.nr.eit./
+Generate /.je.nuh.reit./
 Handsome /.han.sm./
 Holidays /.haa.luh.deiz./
 Hotels /.how.telz./
@@ -4728,7 +4728,7 @@ Frankly /.frang.klee./
 Freezing /.free.zng./
 Graph /.graf./
 Hatred /.hei.truhd./
-Ignorant /.ig.nr.uhnt./
+Ignorant /.ig.nuh.rnt./
 Influences /.in.floo.uhn.sz./
 Interact /.uhn.tr.akt./
 Judging /.juh.jng./
@@ -4807,7 +4807,7 @@ Floors /.florz./
 Freaking /.free.kng./
 Gloves /.gluhvz./
 Harper /.haar.pr./
-Ignorance /.ig.nr.uhns./
+Ignorance /.ig.nuh.rns./
 Ignoring /.uhg.naw.rng./
 Immigrant /.i.muh.gruhnt./
 Induced /.uhn.doost./
@@ -4891,7 +4891,7 @@ Kidney /.kid.nee./
 Ladder /.la.dr./
 Lobby /.laa.bee./
 Mechanisms /.me.kuh.ni.zmz./
-Mineral /.mi.nr.uhl./
+Mineral /.mi.nuh.rl./
 Motors /.mow.trz./
 Navigation /.na.vuh.gei.shn./
 Orbit /.or.bt./
@@ -4952,7 +4952,7 @@ Consultation /.kaan.sl.tei.shn./
 Continental /.kaan.tuh.nen.tl./
 Convenience /.kn.vee.nyns./
 Deliberately /.duh.li.br.uht.lee./
-DiamondsDiamond /.dai.mndz./
+Diamonds/.dai.mndz./
 Diana /.dai.a.nuh./
 Dictionary /.dik.shuh.ne.ree./
 Dignity /.dig.nuh.tee./
@@ -4967,7 +4967,7 @@ Ferry /.fe.ree./
 Fisher /.fi.shr./
 Flexibility /.flek.suh.bi.luh.tee./
 Flowing /.flow.uhng./
-FridgeRefrigerator /.frij./
+Fridge/.frij./
 Functioning /.fngk.shuh.nng./
 Fusion /.fyoo.zhn./
 Gauge /.geij./
@@ -4983,7 +4983,7 @@ Instructor /.uhns.truhk.tr./
 Isolation /.ai.suh.lei.shn./
 Justified /.js.tuh.faid./
 Keeper /.kee.pr./
-Machinery /.muh.shee.nr.ee./
+Machinery /.muh.shee.nuh.ree./
 Mansion /.man.shn./
 Mercury /.mur.kyr.ee./
 Namely /.neim.lee./
@@ -5201,7 +5201,7 @@ Failures /.fei.lyrz./
 Fossil /.faa.sl./
 Founding /.fown.dng./
 Freight /.freit./
-Generating /.je.nr.ei.tng./
+Generating /.je.nuh.rei.tng./
 Guides /.gaidz./
 Honesty /.aa.nuhs.tee./
 Inappropriate /.i.nuh.prow.pree.uht./
@@ -5725,7 +5725,7 @@ Incoming /.in.kuh.mng./
 Isaac /.ai.zk./
 Leicester /.les.tr./
 Litigation /.li.tuh.gei.shn./
-MineralsMineral /.mi.nr.uhlz./
+MineralsMineral /.mi.nuh.rlz./
 Miners /.mai.nrz./
 Neighborhoods /.nei.br.hudz./
 Obtaining /.uhb.tei.nng./
@@ -5774,7 +5774,7 @@ Wizard /.wi.zrd./
 Yankees /.yang.keez./
 Absorbed /.uhb.zorbd./
 Affection /.uh.fek.shn./
-AirplaneTransportation /.er.plein./
+Airplane /.er.plein./
 Altitude /.al.tuh.tood./
 Baked /.beikt./
 Baking /.bei.kng./
@@ -5805,7 +5805,7 @@ Forgetting /.fr.ge.tng./
 Garlic /.gaar.lk./
 Gratitude /.gra.tuh.tood./
 Heroin /.he.row.uhn./
-HondaHonda /.haan.duh./
+Honda /.haan.duh./
 Hooked /.hukt./
 Illustration /.i.luhs.trei.shn./
 Impose /.uhm.powz./
@@ -6722,7 +6722,7 @@ Bibliography /.bi.blee.aa.gruh.fee./
 Broadly /.braad.lee./
 Calcium /.kal.see.uhm./
 Candles /.kan.dlz./
-CapitaBusiness /.ka.puh.tuh./
+Capita /.ka.puh.tuh./
 Certainty /.sur.tn.tee./
 Cheeks /.cheeks./
 ChickensChicken /.chi.knz./
@@ -6870,7 +6870,7 @@ Fundraising /.fnd.rei.zng./
 Glimpse /.glimps./
 Healthier /.hel.thee.ur./
 Homemade /.howm.meid./
-Honorable /.aa.nr.uh.bl./
+Honorable /.aa.nuh.ruh.bl./
 Infectious /.uhn.fek.shuhs./
 Inferior /.uhn.fee.ree.ur./
 Injustice /.uhn.js.ts./
@@ -7889,7 +7889,7 @@ Ensemble /.aan.saam.bl./
 Feasible /.fee.zuh.bl./
 Flawed /.flaad./
 Forged /.forjd./
-Generals /.je.nr.uhlz./
+Generals /.je.nuh.rlz./
 Genres /.zhaan.rz./
 GoatsGoat /.gowts./
 GreaseFilm /.grees./
@@ -8228,7 +8228,7 @@ Validity /.vuh.li.duh.tee./
 Variants /.ve.ree.uhnts./
 Varsity /.vaar.suh.tee./
 Verification /.ve.ruh.fuh.kei.shn./
-Vulnerability /.vl.nr.uh.bi.li.tee./
+Vulnerability /.vl.nuh.ruh.bi.li.tee./
 Whichever /.wi.che.vr./
 Whipped /.wipt./
 Wrath /.rath./
@@ -8428,7 +8428,7 @@ Revive /.ruh.vaiv./
 Rigorous /.ri.gr.uhs./
 Ringing /.ring.uhng./
 Scarf /.skaarf./
-Scenery /.see.nr.ee./
+Scenery /.see.nuh.ree./
 Selections /.suh.lek.shnz./
 Sensory /.sen.sr.ee./
 Shelters /.shel.trz./
@@ -8512,7 +8512,7 @@ Frightening /.frai.tuh.nng./
 Gardening /.gaar.duh.nng./
 Garrison /.ge.ruh.sn./
 Gears /.geerz./
-Generates /.je.nr.eits./
+Generates /.je.nuh.reits./
 Gladly /.glad.lee./
 Goodwill /.gud.wil./
 Govern /.guh.vrn./
@@ -8641,7 +8641,7 @@ Genetically /.juh.ne.tuh.kuh.lee./
 Greeted /.gree.td./
 Healed /.heeld./
 Herein /.heer.in./
-Honorary /.aa.nr.e.ree./
+Honorary /.aa.nuh.re.ree./
 Immature /.i.muh.chur./
 Imperative /.uhm.pe.ruh.tv./
 Ineffective /.i.nuh.fek.tv./
@@ -9314,7 +9314,7 @@ Pseudo /.soo.dow./
 Pudding/.pu.dng./
 Reformed /.ree.formd./
 Refrigerator /.ruh.fri.juh.rei.tr./
-Regeneration /.ree.je.nr.ei.shn./
+Regeneration /.ree.je.nuh.rei.shn./
 Remembrance /.ruh.mem.bruhns./
 Reminiscent /.re.muh.ni.snt./
 Resentment /.ruh.zent.mnt./
@@ -10579,7 +10579,7 @@ Hardened /.haar.dnd./
 Hateful /.heit.fl./
 Haunting /.haan.tng./
 Hepatitis /.he.puh.tai.ts./
-Honoring /.aa.nr.uhng./
+Honoring /.aa.nuh.rng./
 Horace /.haw.rs./
 Horrors /.haw.rrz./
 Huntington /.hn.ting.tn./
@@ -11079,7 +11079,7 @@ Pragmatic /.prag.ma.tk./
 Primaries /.prai.me.reez./
 Radiant /.rei.dee.uhnt./
 Reese /.rees./
-Refinery /.ruh.fai.nr.ee./
+Refinery /.ruh.fai.nuh.ree./
 Regained /.ree.geind./
 Remorse /.ruh.mors./
 Reopened /.ree.ow.pnd./
@@ -11976,7 +11976,7 @@ Flaming /.flei.mng./
 Folds /.fowldz./
 Fortified /.for.tuh.faid./
 Garfield /.gaar.feeld./
-Generalized /.je.nr.uh.laizd./
+Generalized /.je.nuh.ruh.laizd./
 Glossy /.glaa.see./
 Hammered /.ha.mrd./
 Harassing /.hr.a.sng./
@@ -12589,7 +12589,7 @@ Bruised /.broozd./
 Burnley /.burn.lee./
 Cabins /.ka.bnz./
 Campaigned /.kam.peind./
-Centenary /.sen.te.nr.ee./
+Centenary /.sen.te.nuh.ree./
 Checkpoint /.chek.poynt./
 Chloride /.klaw.raid./
 Classify /.kla.suh.fai./
@@ -12632,7 +12632,7 @@ Fairs /.fehrz./
 Freaky /.free.kee./
 Freshmen /.fresh.min./
 Futile /.fyoo.tl./
-Genera /.je.nr.uh./
+Genera /.je.nuh.ruh./
 Germs /.jurmz./
 Glacial /.glei.shl./
 Glands /.glandz./
@@ -12684,7 +12684,7 @@ Ornaments /.or.nuh.mnts./
 Outpost /.owt.powst./
 Outputs /.owt.puts./
 Oxidation /.aak.suh.dei.shn./
-Panorama /.pa.nr.a.muh./
+Panorama /.pa.nuh.ra.muh./
 Pascal /.pas.kal./
 PencilsPencil /.pen.slz./
 Pervasive /.pr.vei.sv./
@@ -13542,7 +13542,7 @@ Ornamental /.or.nuh.men.tl./
 Oysters /.oy.strz./
 Pancreatic /.pang.kree.a.tk./
 Parlor /.paar.lr./
-Partnering /.paart.nr.uhng./
+Partnering /.paart.nuh.rng./
 Pebble /.pe.bl./
 Peeled /.peeld./
 Perseverance /.pr.suh.vee.rns./
@@ -13856,7 +13856,7 @@ Forfeit /.for.ft./
 Forging /.for.jng./
 Foundry /.fown.dree./
 Fractions /.frak.shnz./
-Funerals /.fyoo.nr.uhlz./
+Funerals /.fyoo.nuh.rlz./
 Furnishings /.fur.nuh.shuhngz./
 Giraffe /.juh.raf./
 Grinder /.grain.dr./
@@ -14290,7 +14290,7 @@ Waffle/.waa.fl./
 Warships /.wor.ships./
 Washes /.waa.shz./
 WaspsWasp /.waasps./
-Winery /.wai.nr.ee./
+Winery /.wai.nuh.ree./
 Yamaha /.yaa.muh.haa./
 Zipper /.zi.pr./
 Acclaim /.uh.kleim./
@@ -14364,7 +14364,7 @@ Flourishing /.flur.uh.shng./
 Footprints /.fut.prints./
 Fountains /.fown.tnz./
 Freezes /.free.ziz./
-Generously /.je.nr.uh.slee./
+Generously /.je.nuh.ruhs.lee./
 Greats /.greits./
 Hangar /.hang.ur./
 Hardworking /.haard.wur.kng./
@@ -14549,7 +14549,7 @@ Fishy /.fi.shee./
 Flooring /.flaw.rng./
 Frail /.freil./
 Gathers /.ga.thrz./
-Generational /.je.nr.ei.shuh.nl./
+Generational /.je.nuh.rei.shuh.nl./
 Glaze /.gleiz./
 Goldfish /.gowld.fish./
 Greenville /.green.vil./
@@ -14850,7 +14850,7 @@ Unsuitable /.uhn.soo.tuh.bl./
 Unthinkable /.uhn.thing.kuh.bl./
 Utilizes /.yoo.tuh.lai.zz./
 Vanishing /.va.nuh.shng./
-Venerable /.ve.nr.uh.bl./
+Venerable /.ve.nuh.ruh.bl./
 Visualize /.vi.zhoo.uh.laiz./
 Vulcan /.vl.kn./
 Wasteful /.weist.fl./
@@ -15005,7 +15005,7 @@ Receptionist /.ruh.sep.shuh.nst./
 Reckoned /.re.knd./
 Recruiter /.ruh.kroo.tr./
 Reforming /.ruh.for.mng./
-Remuneration /.ruh.myoo.nr.ei.shn./
+Remuneration /.ruh.myoo.nuh.rei.shn./
 Replicated /.re.pluh.kei.td./
 Repressed /.ree.prest./
 Reputed /.ruh.pyoo.td./
@@ -15331,7 +15331,7 @@ Ladders /.la.drz./
 Leakage /.lee.kj./
 Liberate /.li.br.eit./
 Lizards /.li.zrdz./
-Logistical /.luh.ji.stuh.kl./
+Logistical /.luh.jis.tuh.kl./
 Loophole /.loop.howl./
 Luminous /.loo.muh.ns./
 Malnutrition /.mal.noo.tri.shn./

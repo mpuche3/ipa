@@ -353,7 +353,7 @@ function resetGame(){
     h3Word.innerText = word;
     const divSyllables = document.querySelector("#divSyllables");
     divSyllables.innerHTML = "";
-    const syllables = words[word].split(".");
+    const syllables = words[word].replaceAll("./", "").replaceAll("/.", "").split(".");
     for (const syllable of syllables){
         const isAccent = syllable.includes("*");
         const syllableInput = createInputSyllable(syllable.replaceAll("*", ""));
