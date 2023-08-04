@@ -1,4 +1,5 @@
 sz_words = [
+    ['face', 'phase']
     ['bus', 'buzz'],
     ['princess', 'princes'],
     ['ice', 'eyes'],
