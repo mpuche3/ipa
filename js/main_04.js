@@ -355,12 +355,7 @@ function resetGame(){
     divSyllables.innerHTML = "";
     const syllables = words[word].replaceAll("./", "").replaceAll("/.", "").split(".");
     for (const syllable of syllables){
-        const isAccent = syllable.includes("*");
-        const syllableInput = createInputSyllable(syllable.replaceAll("*", ""));
-        if (isAccent) {
-            syllableInput.style.borderBottom = "2px solid black";
-            syllableInput.style.fontWeight = "bold";
-        }
+        const syllableInput = createInputSyllable(syllable);
         divSyllables.appendChild(syllableInput);
     }
     divSyllables.querySelector("*:first-child").focus();
